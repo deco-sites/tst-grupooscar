@@ -1,0 +1,86 @@
+{
+  "name": "Lista de Desejos",
+  "path": "/lista-de-desejos",
+  "sections": [{
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/Wishlist.tsx",
+        "page": {
+          "__resolveType": "vtex/loaders/product/wishlist.ts",
+          "count": 12,
+          "offset": 0
+        },
+        "minFilterPrice": 0,
+        "maxFilterPrice": 1000,
+        "cardLayout": {
+          "layout": {
+            "hide": {
+              "allPrices": false,
+              "skuSelector": true,
+              "favoriteIcon": false,
+              "installments": false,
+              "productDescription": true,
+              "cta": true
+            },
+            "basics": {
+              "oldPriceSize": "Small",
+              "contentAlignment": "Left"
+            },
+            "onMouseOver": {
+              "card": "None",
+              "image": "Change image",
+              "showCta": false,
+              "showCardShadow": false,
+              "showSkuSelector": false,
+              "showFavoriteIcon": true
+            },
+            "elementsPositions": {
+              "skuSelector": "Top",
+              "favoriteIcon": "Top right"
+            },
+            "configPix": {
+              "__resolveType": "Default-Pix"
+            }
+          },
+          "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+        },
+        "menuSection": [{
+            "label": "Pedidos",
+            "href": "/my-account#/orders"
+          },
+          {
+            "label": "Dados pessoais",
+            "href": "/my-account"
+          },
+          {
+            "label": "Endereços",
+            "href": "/my-account#/addresses"
+          },
+          {
+            "label": "Autenticação",
+            "href": "/my-account#/authentication"
+          },
+          {
+            "label": "Meus favoritos",
+            "href": "/wishlist"
+          },
+          {
+            "label": "Sair",
+            "href": "/api/vtexid/pub/logout?scope=tfdfjz&returnUrl=/",
+            "isLogout": true
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

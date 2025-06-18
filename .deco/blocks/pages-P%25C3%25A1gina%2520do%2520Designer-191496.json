@@ -1,0 +1,739 @@
+{
+  "name": "HOME Página do Designer",
+  "path": "/designer-preview",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Header Oscar"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Content/BenefitContent.tsx",
+              "benefits": [
+                {
+                  "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app. Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+                  "codCupom": "APP50",
+                  "labelButton": "Baixe o App Oscar agora",
+                  "linkButton": "https://onelink.to/7qk2u8"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/Carousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://assets.decocache.com/oscarcalcados/63052886-eb9a-4dfa-8487-1f7f19143e8f/1440x480.jpg",
+                  "mobile": "https://assets.decocache.com/oscarcalcados/e013bb48-7edf-4f7d-a521-7b29965eebda/375x492.jpg",
+                  "alt": "TESTE"
+                },
+                {
+                  "desktop": "https://assets.decocache.com/oscarcalcados/8bbd7a60-842c-4044-8f17-aa1a7b8d2976/Layout-App-Oscar-(1).jpg",
+                  "mobile": "https://assets.decocache.com/oscarcalcados/c3361a3b-f765-4df8-8bf9-31adb614ae5c/Oscar-MOCKUP-(1).jpg"
+                }
+              ],
+              "preload": false,
+              "arrows": true
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Benefícios"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b1679351-c573-4d29-8057-10586e44e3ad/1--Moderna.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b5ac7229-5740-4265-a23f-8abbf82aca82/2--Classica.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/1b7cb231-ea95-4ec2-a6a6-a4edd02444f0/3--Casual.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/411ed944-094a-441f-9ad5-a06d750182b0/4--Esportiva.jpg"
+                }
+              ],
+              "header": {
+                "title": "escolha o presente ideal para cada estilo de mãe"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b1679351-c573-4d29-8057-10586e44e3ad/1--Moderna.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b5ac7229-5740-4265-a23f-8abbf82aca82/2--Classica.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/1b7cb231-ea95-4ec2-a6a6-a4edd02444f0/3--Casual.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/411ed944-094a-441f-9ad5-a06d750182b0/4--Esportiva.jpg"
+                }
+              ],
+              "header": {
+                "title": "escolha o presente ideal para cada estilo de mãe"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/f6612632-d9cd-49e6-9dbd-3fb7ebde16c3/DAKOTA-DA942-01-PRETO-(1).webp",
+                  "label": "Coturno"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/3130ca78-249b-45ae-8e7b-a21fee649fb0/Mississipi-Bota-MC871-5-Marfim-Berteli-(10)(1)(1).png",
+                  "label": "Cano Baixo"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ca7ed73f-9475-431e-8314-a365fca81575/MISSISSIPI-ME771-0001-PRETO-(12).webp",
+                  "label": "Cano Alto"
+                }
+              ],
+              "header": {
+                "title": "Categorias"
+              },
+              "layout": {
+                "categoryCard": {
+                  "textPosition": "bottom"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {},
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/ee80e1b1-2530-4983-b6b8-af9fb42d8012/375x400.png",
+                "mobile": "https://assets.decocache.com/oscarcalcados/675b06e9-6b5f-4dab-ac27-8e58393673b2/375x400.png",
+                "alt": "Coca",
+                "href": "/adidas"
+              },
+              "title": "as melhores marcas",
+              "markupTitle": false,
+              "headerAlignment": "center",
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "",
+                    "fuzzy": "automatic",
+                    "count": 12,
+                    "query": "/adidas"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small"
+                },
+                "cardLayout": {
+                  "basics": {
+                    "contentAlignment": "Left",
+                    "oldPriceSize": "Small"
+                  },
+                  "elementsPositions": {
+                    "favoriteIcon": "Top right"
+                  },
+                  "onMouseOver": {
+                    "image": "Change image",
+                    "card": "None",
+                    "showFavoriteIcon": true
+                  },
+                  "hide": {
+                    "productDescription": true,
+                    "skuSelector": true,
+                    "cta": true
+                  },
+                  "configPix": {
+                    "__resolveType": "Default-Pix"
+                  }
+                }
+              },
+              "headerfontSize": "Normal"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b8c64de9-1017-421e-a9b9-749cafc5b060/396x514_2.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8cef101a-5993-47d1-89e6-77355fae5956/396x514_1.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/f59b3097-b46b-4734-ad05-8d1906f88d98/396x514_3.jpg"
+                }
+              ],
+              "header": {
+                "title": "MAIS OFERTAS"
+              },
+              "layout": {
+                "headerAlignment": "center"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {},
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/5e9e8a3c-6dd8-4303-8847-3105d6629a78/oscarmaes-345.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/5e9e8a3c-6dd8-4303-8847-3105d6629a78/oscarmaes-345.jpg",
+                "alt": "Bota",
+                "href": "/bota"
+              },
+              "title": "preços incríveis para botas",
+              "markupTitle": false,
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "price:desc",
+                    "fuzzy": "automatic",
+                    "count": 12,
+                    "query": "bota femininas"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small"
+                },
+                "cardLayout": {
+                  "basics": {
+                    "contentAlignment": "Left",
+                    "oldPriceSize": "Small"
+                  },
+                  "elementsPositions": {
+                    "favoriteIcon": "Top right"
+                  },
+                  "onMouseOver": {
+                    "image": "Change image",
+                    "card": "None",
+                    "showFavoriteIcon": true
+                  },
+                  "hide": {
+                    "productDescription": true,
+                    "skuSelector": true,
+                    "cta": true
+                  },
+                  "configPix": {
+                    "__resolveType": "Default-Pix"
+                  }
+                }
+              },
+              "activeStopwatch": false
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/Banner.tsx",
+              "srcMobile": "https://assets.decocache.com/oscarcalcados/5f5dd87c-6c31-4265-b15d-cfe82bfc9ec3/550x485.jpg",
+              "srcDesktop": "https://assets.decocache.com/oscarcalcados/44178897-4cf1-4136-8768-45aa32cf29fc/1440x480.jpg"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "products": {
+                "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                "props": {
+                  "sort": "",
+                  "collection": "212",
+                  "count": 16
+                }
+              },
+              "title": "Calçados e Acessórios Infantis com Frete Grátis",
+              "layout": {
+                "numberOfSliders": {
+                  "mobile": 2,
+                  "desktop": 4
+                },
+                "headerAlignment": "center",
+                "headerfontSize": "Small",
+                "showArrows": true
+              },
+              "cardLayout": {
+                "basics": {
+                  "contentAlignment": "Left",
+                  "oldPriceSize": "Small"
+                },
+                "elementsPositions": {
+                  "favoriteIcon": "Top right"
+                },
+                "hide": {
+                  "productDescription": true,
+                  "skuSelector": true,
+                  "cta": true
+                },
+                "onMouseOver": {
+                  "image": "Change image",
+                  "card": "None",
+                  "showFavoriteIcon": true
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/da810cac-d6bb-4d30-801f-a4bdfec80def/290x418_1.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/5833c380-1b39-4bda-9ca2-7aa7f8ff5594/290x418_2.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/62958ff9-9803-4181-8923-12a189c86059/290x418_3.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/a7121fcd-ea39-4459-b3ba-dbdf0ab4785f/290x418_4.jpg"
+                }
+              ],
+              "header": {
+                "title": "favoritos das influencers"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://assets.decocache.com/oscarcalcados/26353dae-2ccb-43d0-bbdc-10e0ff7883f0/1440x270.jpg",
+                  "mobile": "https://assets.decocache.com/oscarcalcados/37239517-f497-4dfe-bdc5-42a95797916f/375x213.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Banner APP"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Footer Oscar"
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/date.ts",
+          "start": "2025-05-15T12:00:00.000Z"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Header Oscar"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Content/BenefitContent.tsx",
+              "benefits": [
+                {
+                  "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app. Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+                  "codCupom": "APP50",
+                  "labelButton": "Baixe o App Oscar agora",
+                  "linkButton": "https://onelink.to/7qk2u8"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/Carousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://assets.decocache.com/oscarcalcados/63052886-eb9a-4dfa-8487-1f7f19143e8f/1440x480.jpg",
+                  "mobile": "https://assets.decocache.com/oscarcalcados/e013bb48-7edf-4f7d-a521-7b29965eebda/375x492.jpg",
+                  "alt": "TESTE"
+                },
+                {
+                  "desktop": "https://assets.decocache.com/oscarcalcados/8bbd7a60-842c-4044-8f17-aa1a7b8d2976/Layout-App-Oscar-(1).jpg",
+                  "mobile": "https://assets.decocache.com/oscarcalcados/c3361a3b-f765-4df8-8bf9-31adb614ae5c/Oscar-MOCKUP-(1).jpg"
+                }
+              ],
+              "preload": false,
+              "arrows": true
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Benefícios"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b1679351-c573-4d29-8057-10586e44e3ad/1--Moderna.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b5ac7229-5740-4265-a23f-8abbf82aca82/2--Classica.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/1b7cb231-ea95-4ec2-a6a6-a4edd02444f0/3--Casual.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/411ed944-094a-441f-9ad5-a06d750182b0/4--Esportiva.jpg"
+                }
+              ],
+              "header": {
+                "title": "escolha o presente ideal para cada estilo de mãe"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/f6612632-d9cd-49e6-9dbd-3fb7ebde16c3/DAKOTA-DA942-01-PRETO-(1).webp",
+                  "label": "Coturno"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/3130ca78-249b-45ae-8e7b-a21fee649fb0/Mississipi-Bota-MC871-5-Marfim-Berteli-(10)(1)(1).png",
+                  "label": "Cano Baixo"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ca7ed73f-9475-431e-8314-a365fca81575/MISSISSIPI-ME771-0001-PRETO-(12).webp",
+                  "label": "Cano Alto"
+                }
+              ],
+              "header": {
+                "title": "Categorias"
+              },
+              "layout": {
+                "categoryCard": {
+                  "textPosition": "bottom"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {},
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/ee80e1b1-2530-4983-b6b8-af9fb42d8012/375x400.png",
+                "mobile": "https://assets.decocache.com/oscarcalcados/675b06e9-6b5f-4dab-ac27-8e58393673b2/375x400.png",
+                "alt": "Coca",
+                "href": "/adidas"
+              },
+              "title": "as melhores marcas",
+              "markupTitle": false,
+              "headerAlignment": "center",
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "",
+                    "fuzzy": "automatic",
+                    "count": 12,
+                    "query": "/adidas"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small"
+                },
+                "cardLayout": {
+                  "basics": {
+                    "contentAlignment": "Left",
+                    "oldPriceSize": "Small"
+                  },
+                  "elementsPositions": {
+                    "favoriteIcon": "Top right"
+                  },
+                  "onMouseOver": {
+                    "image": "Change image",
+                    "card": "None",
+                    "showFavoriteIcon": true
+                  },
+                  "hide": {
+                    "productDescription": true,
+                    "skuSelector": true,
+                    "cta": true
+                  },
+                  "configPix": {
+                    "__resolveType": "Default-Pix"
+                  }
+                }
+              },
+              "headerfontSize": "Normal"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b8c64de9-1017-421e-a9b9-749cafc5b060/396x514_2.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8cef101a-5993-47d1-89e6-77355fae5956/396x514_1.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/f59b3097-b46b-4734-ad05-8d1906f88d98/396x514_3.jpg"
+                }
+              ],
+              "header": {
+                "title": "MAIS OFERTAS"
+              },
+              "layout": {
+                "headerAlignment": "center"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {},
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/5e9e8a3c-6dd8-4303-8847-3105d6629a78/oscarmaes-345.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/5e9e8a3c-6dd8-4303-8847-3105d6629a78/oscarmaes-345.jpg",
+                "alt": "Bota",
+                "href": "/bota"
+              },
+              "title": "preços incríveis para botas",
+              "markupTitle": false,
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "price:desc",
+                    "fuzzy": "automatic",
+                    "count": 12,
+                    "query": "bota femininas"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small"
+                },
+                "cardLayout": {
+                  "basics": {
+                    "contentAlignment": "Left",
+                    "oldPriceSize": "Small"
+                  },
+                  "elementsPositions": {
+                    "favoriteIcon": "Top right"
+                  },
+                  "onMouseOver": {
+                    "image": "Change image",
+                    "card": "None",
+                    "showFavoriteIcon": true
+                  },
+                  "hide": {
+                    "productDescription": true,
+                    "skuSelector": true,
+                    "cta": true
+                  },
+                  "configPix": {
+                    "__resolveType": "Default-Pix"
+                  }
+                }
+              },
+              "activeStopwatch": false
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/Banner.tsx",
+              "srcMobile": "https://assets.decocache.com/oscarcalcados/5f5dd87c-6c31-4265-b15d-cfe82bfc9ec3/550x485.jpg",
+              "srcDesktop": "https://assets.decocache.com/oscarcalcados/44178897-4cf1-4136-8768-45aa32cf29fc/1440x480.jpg"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "products": {
+                "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                "props": {
+                  "sort": "",
+                  "collection": "212",
+                  "count": 16
+                }
+              },
+              "title": "Calçados e Acessórios Infantis com Frete Grátis",
+              "layout": {
+                "numberOfSliders": {
+                  "mobile": 2,
+                  "desktop": 4
+                },
+                "headerAlignment": "center",
+                "headerfontSize": "Small",
+                "showArrows": true
+              },
+              "cardLayout": {
+                "basics": {
+                  "contentAlignment": "Left",
+                  "oldPriceSize": "Small"
+                },
+                "elementsPositions": {
+                  "favoriteIcon": "Top right"
+                },
+                "hide": {
+                  "productDescription": true,
+                  "skuSelector": true,
+                  "cta": true
+                },
+                "onMouseOver": {
+                  "image": "Change image",
+                  "card": "None",
+                  "showFavoriteIcon": true
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/da810cac-d6bb-4d30-801f-a4bdfec80def/290x418_1.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/5833c380-1b39-4bda-9ca2-7aa7f8ff5594/290x418_2.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/62958ff9-9803-4181-8923-12a189c86059/290x418_3.jpg"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/a7121fcd-ea39-4459-b3ba-dbdf0ab4785f/290x418_4.jpg"
+                }
+              ],
+              "header": {
+                "title": "favoritos das influencers"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://assets.decocache.com/oscarcalcados/26353dae-2ccb-43d0-bbdc-10e0ff7883f0/1440x270.jpg",
+                  "mobile": "https://assets.decocache.com/oscarcalcados/37239517-f497-4dfe-bdc5-42a95797916f/375x213.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Banner APP"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Footer Oscar"
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

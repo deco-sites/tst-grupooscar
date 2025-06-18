@@ -1,0 +1,1 @@
+export { default } from "$store/components/oscar/header/buttons/Wishlist.tsx";

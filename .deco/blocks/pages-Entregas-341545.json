@@ -1,0 +1,42 @@
+{
+  "name": "Entregas",
+  "path": "/entregas",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+      "title": "Entregas",
+      "content": "<h3><strong>Promoções de Frete?</strong></h3><p>Consulte as promoções e regulamentos. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"/regulamentos\"><strong><u>Clique aqui.</u></strong></a></p><p></p><h3><strong>Quais são os prazos de entrega?</strong></h3><p>O prazo para postagem de sua compra é de até 03 dias úteis* A partir da data de confirmação de pagamento variando para cada tipo de pagamento. Este prazo refere-se ao tempo de preparação e separação do pedido, somado a este prazo temos também o tempo de entrega da transportadora informado para a sua região. (Até 3 dias úteis + Prazo da Transportadora para a sua região), você pode simular o prazo de entrega para o seu endereço na página de um produto</p><p></p><h3><strong>Entregas Expressa:</strong></h3><p>Seu pedido será entregue <strong>em até 1 dia útil</strong> a partir da aprovação do pagamento. Pedidos aprovados até às 15h irão receber no mesmo dia, após este horário até em 24h. <strong>Promoção válida</strong> somente para produtos vendidos e <strong>entregues por Oscar Calçados</strong> nas cidades participantes: São José dos Campos, Jacareí, Taubaté, Mogi das Cruzes. Consulte a disponibilidade do serviço para o seu endereço simulando a entrega no seu CEP.</p><p></p><h3><strong>Retirada em Loja Física:</strong></h3><p>Você sabia que pode retirar seu<strong> produto de forma gratuita</strong> em uma das nossas lojas? Faça uma simulação em uma página de produto e veja a mais perto, se você quiser conhecer mais lojas, veja nossa página de <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"/nossas-lojas\"><strong><u>nossas lojas</u></strong></a>. Entregue por Oscar Calçados.</p><p></p><h3><strong>Entregas de Correio e outras transportadoras parceiras:</strong></h3><p><strong>PAC e SEDEX:</strong> A entrega pode variar conforme o seu CEP, faça uma simulação em uma página de um produto.</p><p><strong>Outras Transportadoras:</strong> Aqui na Oscar Calçados também contamos com alguns Parceiros para venda dos nossos produtos, a forma de entrega do seu pedido pode variar entre tipos de transportadoras como Correios ou Transportadoras privadas.</p><p></p><h3><strong>O que preciso para retirar um produto na loja?</strong></h3><p></p><p><strong>Somente produtos vendidos e entregues pela Oscar Calçados, podem ser retirados em das nossas Lojas:</strong></p><p></p><ul><li><p>1- Escolha seu produto e adicione no seu carrinho;</p></li><li><p>2- Coloque o seu CEP e vejas opções de loja próxima a você, escolha a de sua preferência;</p></li><li><p>3- Espere receber o e-mail confirmando que seu pedido está disponível para a retirada;</p></li><li><p>4- Após receber o e-mail de confirmação de retirada, vá até a loja escolhida levando as seguintes informações: número do seu pedido e documento e com foto!</p></li></ul><p></p><h3><strong>Horários de entrega:</strong></h3><p></p><p>Nossas entregas são realizadas de segunda à sexta em horário comercial das 08h às 18h. Fique atento(a). No momento não trabalhamos com agendamento de horários de entrega</p><p></p><h3><strong>O que verificar no ato da entrega:</strong></h3><p></p><p>Fique atento(a) ao receber seu pedido, verifique se não há violação da embalagem, caixa danificada ou ausência do Documento Auxiliar de Nota Fiscal Eletrônica. Caso ocorra algum desses casos, você tem o direito de recusar a entrega e comunicar por um dos nossos canais de atendimento que ficará disponível na nossa página principal. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/\"><strong><u>Clique aqui.</u></strong></a></p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/entregas",
+            "title": "Entregas - Prazos e condições de envio",
+            "description": "Saiba mais sobre prazos e condições de envio com frete grátis* disponível. Na Oscar você garante entregas rápidas e seguras!"
+          }
+        ],
+        "title": "entregas"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "description": "Saiba mais sobre prazos e condições de envio com frete grátis* disponível. Na Oscar você garante entregas rápidas e seguras!",
+    "title": "Entregas - Prazos e condições de envio"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

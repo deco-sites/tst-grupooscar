@@ -1,0 +1,1396 @@
+{
+  "name": "Home ",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx"
+    },
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/BenefitContent.tsx",
+      "benefits": [
+        {
+          "text": "<p><strong>Aproveite as ofertas exclusivas do app com R$ 50 de desconto. Use o cupom:</strong></p>",
+          "codCupom": "APP50",
+          "labelButton": "Baixe o App Oscar agora",
+          "linkButton": "https://onelink.to/7qk2u8"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "dots": true,
+      "arrows": true,
+      "images": [
+        {
+          "alt": "Carnaval Oscar",
+          "mobile": "https://data.decoassets.com/oscarcalcados/e0bf80cb-b48b-4592-bedd-ffe1b67b755e/375x492.jpg",
+          "desktop": "https://data.decoassets.com/oscarcalcados/bb23f75d-1603-400b-b609-94a9852d7482/1440x480.jpg",
+          "href": "/carnaval"
+        },
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/17833afb-8b5b-4950-95be-6079d93a8cf2/1440x480.jpg",
+          "mobile": "https://data.decoassets.com/oscarcalcados/db10d5a9-c060-441e-8102-b81009b43c2f/375x492.jpg",
+          "href": "/inverno",
+          "alt": "Preview Inverno"
+        },
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/065510ab-2f95-498e-8980-c1c28b77fe51/1440x480.jpg",
+          "mobile": "https://data.decoassets.com/oscarcalcados/5cee8f64-3a00-4ed8-ac5f-39d7408a63e0/375x492.jpg",
+          "alt": "Diadora com 50%Off no 2 par",
+          "href": "/selecao-diadora"
+        },
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/24f7d555-e283-4851-baed-425eca55d904/1440x480.jpg",
+          "mobile": "https://data.decoassets.com/oscarcalcados/3244243c-1c68-4f1e-a102-37032e21ec11/375x492.jpg",
+          "alt": "Tenis Casual tudo com 20%Off",
+          "href": "/selecao-tenis-casual"
+        }
+      ],
+      "preload": true
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "H1 - Home"
+      }
+    },
+    {
+      "__resolveType": "Benefícios"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Banner Grid - 01"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "layout": {
+        "headerAlignment": "center",
+        "showArrows": true,
+        "headerfontSize": "Small",
+        "numberOfSliders": {
+          "mobile": 2,
+          "desktop": 4
+        }
+      },
+      "bgGray": false,
+      "title": "DIADORIA COM 50%OFF 2 PAR ",
+      "markupTitle": false,
+      "products": {
+        "props": {
+          "sort": "orders:desc",
+          "count": 16,
+          "similars": false,
+          "collection": "154",
+          "hideUnavailableItems": true
+        },
+        "crossSelling": "similars",
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+        "data": null,
+        "extensions": []
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": false,
+            "installments": false,
+            "productDescription": true,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryList.tsx",
+      "layout": {
+        "headerAlignment": "center",
+        "categoryCard": {
+          "textPosition": "bottom",
+          "textAlignment": "center"
+        }
+      },
+      "list": [
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/c4a04a40-8fb0-45a2-85cb-a8028d874bc4/396x514_3.jpg",
+          "href": "https://www.oscarcalcados.com.br/crocs"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/db2ee9e3-74ab-4216-882d-0d2ea31cca5a/396x514_2.jpg",
+          "href": "/leve-mais-por-menos"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/26618c67-f8ea-429c-ad57-804af94a010c/396x514_1.jpg",
+          "href": "/ofertas-selecionadas"
+        }
+      ],
+      "header": {
+        "title": "Preços Imperdíveis"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "bgGray": false,
+      "layout": {
+        "headerAlignment": "center",
+        "showArrows": true,
+        "headerfontSize": "Small",
+        "numberOfSliders": {
+          "mobile": 2,
+          "desktop": 4
+        }
+      },
+      "title": "2 pares por R$ 189,90",
+      "markupTitle": false,
+      "products": {
+        "props": {
+          "sort": "orders:desc",
+          "count": 16,
+          "similars": false,
+          "collection": "156",
+          "hideUnavailableItems": true
+        },
+        "crossSelling": "similars",
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": false,
+            "installments": false,
+            "productDescription": true,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Images/Banner.tsx",
+      "bgGray": false,
+      "srcMobile": "https://data.decoassets.com/oscarcalcados/1115ddde-9f73-4c6a-9429-319cbf06be3b/344x334.jpg",
+      "srcDesktop": "https://data.decoassets.com/oscarcalcados/24adff9c-6642-4fb2-bab3-e3c170d4cb74/1312x420.jpg",
+      "borderRadius": "xl",
+      "href": "/selecao-esportivos",
+      "alt": "Tênis Favoritos"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "title": "TENIS FAVORITOS TUDO COM 15%OFF",
+      "bgGray": false,
+      "layout": {
+        "headerAlignment": "center",
+        "showArrows": true,
+        "headerfontSize": "Small",
+        "numberOfSliders": {
+          "mobile": 2,
+          "desktop": 4
+        }
+      },
+      "markupTitle": false,
+      "products": {
+        "props": {
+          "sort": "orders:desc",
+          "count": 16,
+          "similars": false,
+          "collection": "150",
+          "hideUnavailableItems": true
+        },
+        "crossSelling": "similars",
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": false,
+            "installments": false,
+            "productDescription": true,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+      "title": "Marcas Parceiras",
+      "content": [
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+          "href": "/mizuno",
+          "altText": "Logo Mizuno"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+          "href": "/asics",
+          "altText": "Logo Asics"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+          "href": "/via-marte",
+          "altText": "Logo Via Marte"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+          "href": "/diadora",
+          "altText": "Logo Diadora"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+          "href": "/vizzano",
+          "altText": "Logo Vizzano"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+          "href": "/olympikus",
+          "altText": "Logo Olympikus"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+          "href": "/mizuno",
+          "altText": "Logo Mizuno"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+          "href": "/asics",
+          "altText": "Logo Asics"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+          "href": "/via-marte",
+          "altText": "Logo Via Marte"
+        },
+        {
+          "href": "/diadora",
+          "altText": "Logo Diadora",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+        },
+        {
+          "href": "/vizzano",
+          "altText": "Logo Vizzano",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+        },
+        {
+          "href": "/olympikus",
+          "altText": "Logo Olympikus",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryList.tsx",
+      "layout": {
+        "headerAlignment": "center",
+        "categoryCard": {
+          "textPosition": "bottom",
+          "textAlignment": "center"
+        }
+      },
+      "list": [
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/2c7fc478-124a-4434-8120-008661a95772/290x418_Influ_3.jpg",
+          "href": "https://www.oscarcalcados.com.br/calcados-femininos/rasteirinhas"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/5c453626-a66f-4af5-9399-0b3ed651e2bd/290x418_Influ_2.jpg",
+          "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis/casual"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/1513cfaf-690a-4d40-b5d6-997377812512/290x418_Influ_4.jpg",
+          "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/8b7efd27-31a7-444d-b59f-59735245e783/290x418_Influ_1.jpg",
+          "href": "https://www.oscarcalcados.com.br/calcados-femininos/tamancos"
+        }
+      ],
+      "header": {
+        "title": "Favoritos das Influencers"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+        "images": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx"
+          },
+          {
+            "__resolveType": "Header Oscar"
+          },
+          {
+            "__resolveType": "site/sections/Content/BenefitContent.tsx",
+            "benefits": [
+              {
+                "text": "<p><strong>Aproveite as ofertas exclusivas do app com R$ 50 de desconto. Use o cupom:</strong></p>",
+                "codCupom": "APP50",
+                "labelButton": "Baixe o App Oscar agora",
+                "linkButton": "https://onelink.to/7qk2u8"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "dots": true,
+            "arrows": true,
+            "images": [
+              {
+                "alt": "Carnaval Oscar",
+                "mobile": "https://data.decoassets.com/oscarcalcados/e0bf80cb-b48b-4592-bedd-ffe1b67b755e/375x492.jpg",
+                "desktop": "https://data.decoassets.com/oscarcalcados/bb23f75d-1603-400b-b609-94a9852d7482/1440x480.jpg",
+                "href": "/carnaval"
+              },
+              {
+                "desktop": "https://data.decoassets.com/oscarcalcados/17833afb-8b5b-4950-95be-6079d93a8cf2/1440x480.jpg",
+                "mobile": "https://data.decoassets.com/oscarcalcados/db10d5a9-c060-441e-8102-b81009b43c2f/375x492.jpg",
+                "href": "/inverno",
+                "alt": "Preview Inverno"
+              },
+              {
+                "desktop": "https://data.decoassets.com/oscarcalcados/24f7d555-e283-4851-baed-425eca55d904/1440x480.jpg",
+                "mobile": "https://data.decoassets.com/oscarcalcados/3244243c-1c68-4f1e-a102-37032e21ec11/375x492.jpg",
+                "alt": "Tenis Casual tudo com 20%Off",
+                "href": "/selecao-tenis-casual"
+              },
+              {
+                "desktop": "https://data.decoassets.com/oscarcalcados/065510ab-2f95-498e-8980-c1c28b77fe51/1440x480.jpg",
+                "mobile": "https://data.decoassets.com/oscarcalcados/5cee8f64-3a00-4ed8-ac5f-39d7408a63e0/375x492.jpg",
+                "alt": "Diadora com 50%Off no 2 par",
+                "href": "/selecao-diadora"
+              }
+            ],
+            "preload": true
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Content/BannerApp.tsx",
+              "banner": {
+                "desktop": "https://data.decoassets.com/oscarcalcados/c33a5ea5-3f27-4c57-9786-06d36053c167/1440x270-(1).gif",
+                "mobile": "https://data.decoassets.com/oscarcalcados/a7fff8db-9efe-48f4-a1d7-df560ca5d35a/375x213.gif",
+                "altText": "Especial APP 03-03"
+              },
+              "text": "<p><span style=\"color: #000000; font-size: 14px\">Aponte a câmera do celular, baixe o app ou busque na sua loja de aplicativos.</span></p>",
+              "apps": [
+                {
+                  "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/4509fa87-2f99-48e8-a2fa-6fc20eb84631/Group-(3).png",
+                  "link": "https://play.google.com/store/apps/details?id=com.kobe.oscarcalcados",
+                  "label": "Android"
+                },
+                {
+                  "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/43c07b8f-3c32-4cf0-b0e1-0fdedaf76ce0/Group-(4).png",
+                  "link": "https://apps.apple.com/br/app/oscar-loja-de-cal%C3%A7ados/id1631025295",
+                  "label": "IOS"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "Benefícios"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Banner Grid - 01"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "bgGray": false,
+            "title": "DIADORIA COM 50%OFF 2° PAR ",
+            "markupTitle": true,
+            "products": {
+              "props": {
+                "sort": "orders:desc",
+                "count": 16,
+                "similars": false,
+                "collection": "154",
+                "hideUnavailableItems": true
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+              "data": null,
+              "extensions": []
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Category/CategoryList.tsx",
+            "layout": {
+              "headerAlignment": "center",
+              "categoryCard": {
+                "textPosition": "bottom",
+                "textAlignment": "center"
+              }
+            },
+            "list": [
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/c4a04a40-8fb0-45a2-85cb-a8028d874bc4/396x514_3.jpg",
+                "href": "https://www.oscarcalcados.com.br/crocs"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/db2ee9e3-74ab-4216-882d-0d2ea31cca5a/396x514_2.jpg",
+                "href": "/leve-mais-por-menos"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/26618c67-f8ea-429c-ad57-804af94a010c/396x514_1.jpg",
+                "href": "/ofertas-selecionadas"
+              }
+            ],
+            "header": {
+              "title": "Preços Imperdíveis"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "title": "2 pares por R$ 189,90",
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "orders:desc",
+                "count": 16,
+                "similars": false,
+                "collection": "156",
+                "hideUnavailableItems": true
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "srcMobile": "https://data.decoassets.com/oscarcalcados/1115ddde-9f73-4c6a-9429-319cbf06be3b/344x334.jpg",
+            "srcDesktop": "https://data.decoassets.com/oscarcalcados/24adff9c-6642-4fb2-bab3-e3c170d4cb74/1312x420.jpg",
+            "borderRadius": "xl",
+            "href": "/selecao-esportivos",
+            "alt": "Tênis Favoritos"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "title": "TENIS FAVORITOS TUDO COM 15%OFF",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "orders:desc",
+                "count": 16,
+                "similars": false,
+                "collection": "150",
+                "hideUnavailableItems": true
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+            "title": "Marcas Parceiras",
+            "content": [
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+                "href": "/diadora",
+                "altText": "Logo Diadora"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+                "href": "/vizzano",
+                "altText": "Logo Vizzano"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+                "href": "/olympikus",
+                "altText": "Logo Olympikus"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "href": "/diadora",
+                "altText": "Logo Diadora",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+              },
+              {
+                "href": "/vizzano",
+                "altText": "Logo Vizzano",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+              },
+              {
+                "href": "/olympikus",
+                "altText": "Logo Olympikus",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Category/CategoryList.tsx",
+            "layout": {
+              "headerAlignment": "center",
+              "categoryCard": {
+                "textPosition": "bottom",
+                "textAlignment": "center"
+              }
+            },
+            "list": [
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/2c7fc478-124a-4434-8120-008661a95772/290x418_Influ_3.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/rasteirinhas"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/5c453626-a66f-4af5-9399-0b3ed651e2bd/290x418_Influ_2.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis/casual"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/1513cfaf-690a-4d40-b5d6-997377812512/290x418_Influ_4.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/8b7efd27-31a7-444d-b59f-59735245e783/290x418_Influ_1.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/tamancos"
+              }
+            ],
+            "header": {
+              "title": "Favoritos das Influencers"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://data.decoassets.com/oscarcalcados/d66ad3f0-db9b-40e5-bc91-747e84f09ed4/1440x270.jpg",
+                  "mobile": "https://data.decoassets.com/oscarcalcados/4734f6f1-f404-4135-9a24-308f3391c5a5/375x213.jpg",
+                  "alt": "Clube Oscar",
+                  "href": "https://www.oscarcalcados.com.br/clube-oscar"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/SearchTags.tsx",
+            "title": "procure por",
+            "tags": [
+              {
+                "href": "/calcados-femininos/papetes",
+                "title": "Papete feminina"
+              },
+              {
+                "title": "Sandália feminina",
+                "href": "/calcados-femininos/sandalias"
+              },
+              {
+                "title": "Sandália feminina salto grosso",
+                "href": "/calcados-femininos/sandalias/salto-grosso"
+              },
+              {
+                "title": "Sandália salto alto",
+                "href": "/calcados-femininos/sandalias/salto-alto"
+              },
+              {
+                "title": "Sandália salto fino",
+                "href": "/calcados-femininos/sandalias/salto-fino"
+              },
+              {
+                "title": "Via Marte",
+                "href": "/via-marte"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Moleca",
+                "href": "/moleca"
+              },
+              {
+                "title": "Beira Rio",
+                "href": "/beira-rio"
+              },
+              {
+                "title": "Tamanco feminino",
+                "href": "/calcados-femininos/tamancos"
+              },
+              {
+                "title": "Sandália anabela",
+                "href": "/calcados-femininos/sandalias/anabela"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/plataforma",
+                "title": "Sandália plataforma"
+              },
+              {
+                "href": "/calcados-femininos/rasteirinhas",
+                "title": "Rasteirinha feminina"
+              },
+              {
+                "href": "/mississipi",
+                "title": "Mississipi"
+              },
+              {
+                "href": "/dakota",
+                "title": "Dakota"
+              },
+              {
+                "href": "/bebece",
+                "title": "Bebecê"
+              },
+              {
+                "href": "/modare",
+                "title": "Modare"
+              },
+              {
+                "href": "/ramarim",
+                "title": "Ramarim"
+              },
+              {
+                "href": "/calcados-femininos/chinelos",
+                "title": "Chinelo feminino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-fino",
+                "title": "Tamanco salto fino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-alto",
+                "title": "Tamanco salto grosso"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banner APP"
+          },
+          {
+            "__resolveType": "CookiesModal"
+          },
+          {
+            "__resolveType": "Footer Oscar"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/date.ts",
+          "start": "2025-03-03T03:00:00.000Z",
+          "end": "2025-03-04T03:00:00.000Z"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx"
+          },
+          {
+            "__resolveType": "Header Oscar"
+          },
+          {
+            "__resolveType": "site/sections/Content/BenefitContent.tsx",
+            "benefits": [
+              {
+                "text": "<p><strong>Aproveite as ofertas exclusivas do app com R$ 50 de desconto. Use o cupom:</strong></p>",
+                "codCupom": "APP50",
+                "labelButton": "Baixe o App Oscar agora",
+                "linkButton": "https://onelink.to/7qk2u8"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "dots": true,
+            "arrows": true,
+            "images": [
+              {
+                "alt": "Carnaval Oscar",
+                "mobile": "https://data.decoassets.com/oscarcalcados/e0bf80cb-b48b-4592-bedd-ffe1b67b755e/375x492.jpg",
+                "desktop": "https://data.decoassets.com/oscarcalcados/bb23f75d-1603-400b-b609-94a9852d7482/1440x480.jpg",
+                "href": "/carnaval"
+              },
+              {
+                "desktop": "https://data.decoassets.com/oscarcalcados/17833afb-8b5b-4950-95be-6079d93a8cf2/1440x480.jpg",
+                "mobile": "https://data.decoassets.com/oscarcalcados/db10d5a9-c060-441e-8102-b81009b43c2f/375x492.jpg",
+                "href": "/inverno",
+                "alt": "Preview Inverno"
+              },
+              {
+                "desktop": "https://data.decoassets.com/oscarcalcados/24f7d555-e283-4851-baed-425eca55d904/1440x480.jpg",
+                "mobile": "https://data.decoassets.com/oscarcalcados/3244243c-1c68-4f1e-a102-37032e21ec11/375x492.jpg",
+                "alt": "Tenis Casual tudo com 20%Off",
+                "href": "/selecao-tenis-casual"
+              },
+              {
+                "desktop": "https://data.decoassets.com/oscarcalcados/065510ab-2f95-498e-8980-c1c28b77fe51/1440x480.jpg",
+                "mobile": "https://data.decoassets.com/oscarcalcados/5cee8f64-3a00-4ed8-ac5f-39d7408a63e0/375x492.jpg",
+                "alt": "Diadora com 50%Off no 2 par",
+                "href": "/selecao-diadora"
+              }
+            ],
+            "preload": true
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "Benefícios"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Banner Grid - 01"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "bgGray": false,
+            "title": "DIADORIA COM 50%OFF 2° PAR ",
+            "markupTitle": true,
+            "products": {
+              "props": {
+                "sort": "orders:desc",
+                "count": 16,
+                "similars": false,
+                "collection": "154",
+                "hideUnavailableItems": true
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+              "data": null,
+              "extensions": []
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Category/CategoryList.tsx",
+            "layout": {
+              "headerAlignment": "center",
+              "categoryCard": {
+                "textPosition": "bottom",
+                "textAlignment": "center"
+              }
+            },
+            "list": [
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/c4a04a40-8fb0-45a2-85cb-a8028d874bc4/396x514_3.jpg",
+                "href": "https://www.oscarcalcados.com.br/crocs"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/db2ee9e3-74ab-4216-882d-0d2ea31cca5a/396x514_2.jpg",
+                "href": "/leve-mais-por-menos"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/26618c67-f8ea-429c-ad57-804af94a010c/396x514_1.jpg",
+                "href": "/ofertas-selecionadas"
+              }
+            ],
+            "header": {
+              "title": "Preços Imperdíveis"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "title": "2 pares por R$ 189,90",
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "orders:desc",
+                "count": 16,
+                "similars": false,
+                "collection": "156",
+                "hideUnavailableItems": true
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "srcMobile": "https://data.decoassets.com/oscarcalcados/1115ddde-9f73-4c6a-9429-319cbf06be3b/344x334.jpg",
+            "srcDesktop": "https://data.decoassets.com/oscarcalcados/24adff9c-6642-4fb2-bab3-e3c170d4cb74/1312x420.jpg",
+            "borderRadius": "xl",
+            "href": "/selecao-esportivos",
+            "alt": "Tênis Favoritos"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "title": "TENIS FAVORITOS TUDO COM 15%OFF",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "orders:desc",
+                "count": 16,
+                "similars": false,
+                "collection": "150",
+                "hideUnavailableItems": true
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+            "title": "Marcas Parceiras",
+            "content": [
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+                "href": "/diadora",
+                "altText": "Logo Diadora"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+                "href": "/vizzano",
+                "altText": "Logo Vizzano"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+                "href": "/olympikus",
+                "altText": "Logo Olympikus"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "href": "/diadora",
+                "altText": "Logo Diadora",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+              },
+              {
+                "href": "/vizzano",
+                "altText": "Logo Vizzano",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+              },
+              {
+                "href": "/olympikus",
+                "altText": "Logo Olympikus",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Category/CategoryList.tsx",
+            "layout": {
+              "headerAlignment": "center",
+              "categoryCard": {
+                "textPosition": "bottom",
+                "textAlignment": "center"
+              }
+            },
+            "list": [
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/2c7fc478-124a-4434-8120-008661a95772/290x418_Influ_3.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/rasteirinhas"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/5c453626-a66f-4af5-9399-0b3ed651e2bd/290x418_Influ_2.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis/casual"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/1513cfaf-690a-4d40-b5d6-997377812512/290x418_Influ_4.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+              },
+              {
+                "image": "https://data.decoassets.com/oscarcalcados/8b7efd27-31a7-444d-b59f-59735245e783/290x418_Influ_1.jpg",
+                "href": "https://www.oscarcalcados.com.br/calcados-femininos/tamancos"
+              }
+            ],
+            "header": {
+              "title": "Favoritos das Influencers"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://data.decoassets.com/oscarcalcados/d66ad3f0-db9b-40e5-bc91-747e84f09ed4/1440x270.jpg",
+                  "mobile": "https://data.decoassets.com/oscarcalcados/4734f6f1-f404-4135-9a24-308f3391c5a5/375x213.jpg",
+                  "alt": "Clube Oscar",
+                  "href": "https://www.oscarcalcados.com.br/clube-oscar"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/SearchTags.tsx",
+            "title": "procure por",
+            "tags": [
+              {
+                "href": "/calcados-femininos/papetes",
+                "title": "Papete feminina"
+              },
+              {
+                "title": "Sandália feminina",
+                "href": "/calcados-femininos/sandalias"
+              },
+              {
+                "title": "Sandália feminina salto grosso",
+                "href": "/calcados-femininos/sandalias/salto-grosso"
+              },
+              {
+                "title": "Sandália salto alto",
+                "href": "/calcados-femininos/sandalias/salto-alto"
+              },
+              {
+                "title": "Sandália salto fino",
+                "href": "/calcados-femininos/sandalias/salto-fino"
+              },
+              {
+                "title": "Via Marte",
+                "href": "/via-marte"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Moleca",
+                "href": "/moleca"
+              },
+              {
+                "title": "Beira Rio",
+                "href": "/beira-rio"
+              },
+              {
+                "title": "Tamanco feminino",
+                "href": "/calcados-femininos/tamancos"
+              },
+              {
+                "title": "Sandália anabela",
+                "href": "/calcados-femininos/sandalias/anabela"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/plataforma",
+                "title": "Sandália plataforma"
+              },
+              {
+                "href": "/calcados-femininos/rasteirinhas",
+                "title": "Rasteirinha feminina"
+              },
+              {
+                "href": "/mississipi",
+                "title": "Mississipi"
+              },
+              {
+                "href": "/dakota",
+                "title": "Dakota"
+              },
+              {
+                "href": "/bebece",
+                "title": "Bebecê"
+              },
+              {
+                "href": "/modare",
+                "title": "Modare"
+              },
+              {
+                "href": "/ramarim",
+                "title": "Ramarim"
+              },
+              {
+                "href": "/calcados-femininos/chinelos",
+                "title": "Chinelo feminino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-fino",
+                "title": "Tamanco salto fino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-alto",
+                "title": "Tamanco salto grosso"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banner APP"
+          },
+          {
+            "__resolveType": "CookiesModal"
+          },
+          {
+            "__resolveType": "Footer Oscar"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Cupons",
+  "path": "/cupons",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/Cupons/Cupons.tsx",
+        "cupons": [
+          {
+            "descriptionCupom": "<p>teste</p>",
+            "title": "20% OFF",
+            "description": "apenas tenis",
+            "cupom": "Nike",
+            "titleDescription": "Condições",
+            "collection": {
+              "label": "Coleção",
+              "link": "/tenis"
+            },
+            "startDate": "2025-06-16",
+            "endDate": "2025-06-18"
+          },
+          {
+            "descriptionCupom": "<p>teste</p>",
+            "title": "Frete Gratis",
+            "description": "apenas tenis",
+            "image": "https://assets.decocache.com/oscarcalcados/87219f21-3f39-4cf0-8d76-35fbf4e73c71/375x400.png",
+            "cupom": "Nike",
+            "titleDescription": "Condições",
+            "collection": {
+              "label": "Veja a Coleção",
+              "link": "/tenis"
+            },
+            "startDate": "2025-06-17",
+            "endDate": "2025-06-18"
+          },
+          {
+            "descriptionCupom": "<p>teste</p>",
+            "title": "Cupom 1",
+            "description": "apenas tenis",
+            "image": "https://assets.decocache.com/oscarcalcados/87219f21-3f39-4cf0-8d76-35fbf4e73c71/375x400.png",
+            "cupom": "Nike",
+            "titleDescription": "Condições",
+            "collection": {
+              "label": "Tenis",
+              "link": "/tenis"
+            },
+            "startDate": "2025-06-16",
+            "endDate": "2025-06-18"
+          },
+          {
+            "descriptionCupom": "<p>teste</p>",
+            "title": "Cupom 1",
+            "description": "apenas tenis",
+            "image": "https://assets.decocache.com/oscarcalcados/87219f21-3f39-4cf0-8d76-35fbf4e73c71/375x400.png",
+            "cupom": "Nike",
+            "titleDescription": "Condições",
+            "collection": {
+              "label": "Tenis",
+              "link": "/tenis"
+            },
+            "startDate": "2025-06-18",
+            "endDate": "2025-06-18"
+          },
+          {
+            "descriptionCupom": "<p>teste</p>",
+            "title": "Cupom 1",
+            "description": "apenas tenis",
+            "image": "https://assets.decocache.com/oscarcalcados/87219f21-3f39-4cf0-8d76-35fbf4e73c71/375x400.png",
+            "cupom": "Nike",
+            "titleDescription": "Condições",
+            "collection": {
+              "label": "Tenis",
+              "link": "/tenis"
+            }
+          },
+          {
+            "descriptionCupom": "<p>teste</p>",
+            "title": "Cupom 1",
+            "description": "apenas tenis",
+            "image": "https://assets.decocache.com/oscarcalcados/87219f21-3f39-4cf0-8d76-35fbf4e73c71/375x400.png",
+            "cupom": "Nike",
+            "titleDescription": "Condições",
+            "collection": {
+              "label": "Tenis",
+              "link": "/tenis"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Liquida Shopping Oscar",
+  "path": "/liquida-shopping-oscar",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "commerce/loaders/product/extensions/listingPage.ts",
+          "data": {
+            "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+            "sort": "orders:desc",
+            "fuzzy": "disabled",
+            "selectedFacets": [
+              {
+                "key": "productClusterIds",
+                "value": "1694"
+              }
+            ],
+            "count": 24,
+            "hideUnavailableItems": true,
+            "useCollectionName": false,
+            "similars": true,
+            "priceFacets": false
+          },
+          "extensions": [
+            {
+              "__resolveType": "vtex/loaders/product/extensions/listingPage.ts",
+              "simulate": false,
+              "similars": false
+            }
+          ]
+        },
+        "layout": {
+          "variant": "aside",
+          "columns": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "cardLayout": {
+          "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+          "layout": {
+            "basics": {
+              "contentAlignment": "Left",
+              "oldPriceSize": "Small"
+            },
+            "elementsPositions": {
+              "favoriteIcon": "Top right"
+            },
+            "onMouseOver": {
+              "image": "Change image",
+              "card": "None",
+              "showFavoriteIcon": true,
+              "showCardShadow": false,
+              "showCta": false
+            },
+            "hide": {
+              "productDescription": true,
+              "skuSelector": true,
+              "productName": false,
+              "allPrices": false,
+              "discount": false
+            },
+            "configPix": {
+              "__resolveType": "Default-Pix"
+            }
+          }
+        },
+        "startingPage": 1,
+        "minFilterPrice": 50,
+        "maxFilterPrice": 1.999
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

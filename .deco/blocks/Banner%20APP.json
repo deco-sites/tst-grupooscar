@@ -1,0 +1,21 @@
+{
+  "__resolveType": "site/sections/Content/BannerApp.tsx",
+  "banner": {
+    "desktop": "https://data.decoassets.com/oscarcalcados/d015f8aa-289f-4b23-ba06-7e39528c3ecc/1440x270-(1).png",
+    "mobile": "https://data.decoassets.com/oscarcalcados/d73a31af-a1f6-406b-b819-d682ec73cf7d/375x213.png",
+    "altText": "Banner aplicativo oscar"
+  },
+  "text": "<p><span style=\"color: rgb(0, 0, 0)\">Aponte a câmera do celular, baixe o app ou busque na sua loja de aplicativos.</span></p>",
+  "apps": [
+    {
+      "label": "Android",
+      "image": "https://data.decoassets.com/oscarcalcados/529bfef9-a4a2-4e9a-a2f4-2119bc249bc1/botao_2.png",
+      "link": "https://play.google.com/store/apps/details?id=com.kobe.oscarcalcados"
+    },
+    {
+      "label": "iOS",
+      "image": "https://data.decoassets.com/oscarcalcados/de61f253-a93f-4ad1-a7d9-b36c24a8a93f/botao_1.png",
+      "link": "https://apps.apple.com/br/app/oscar-loja-de-cal%C3%A7ados/id1631025295"
+    }
+  ]
+}

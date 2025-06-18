@@ -1,0 +1,179 @@
+{
+  "name": "Product Page",
+  "path": "/:slug/p",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "commerce/sections/Seo/SeoPDP.tsx",
+      "jsonLD": {
+        "slug": {
+          "param": "slug",
+          "__resolveType": "website/functions/requestToParam.ts"
+        },
+        "__resolveType": "vtex/loaders/legacy/productDetailsPage.ts"
+      },
+      "jsonLDs": [
+        {}
+      ]
+    },
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "site/sections/Product/ProductDetails.tsx",
+            "layout": {
+              "name": "product"
+            },
+            "page": {
+              "slug": {
+                "param": "slug",
+                "__resolveType": "website/functions/requestToParam.ts"
+              },
+              "similars": true,
+              "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts"
+            },
+            "tags": [
+              {
+                "icon": "Medal",
+                "label": "Produto original"
+              },
+              {
+                "icon": "File",
+                "label": "Acompanha nota fiscal"
+              }
+            ],
+            "section": {
+              "__resolveType": "Benefícios"
+            },
+            "configPix": {
+              "__resolveType": "Default-Pix"
+            },
+            "showBuybox": true
+          },
+          "rule": {
+            "__resolveType": "Buybox"
+          }
+        },
+        {
+          "value": {
+            "__resolveType": "site/sections/Product/ProductDetails.tsx",
+            "layout": {
+              "name": "product"
+            },
+            "page": {
+              "slug": {
+                "param": "slug",
+                "__resolveType": "website/functions/requestToParam.ts"
+              },
+              "similars": true,
+              "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts"
+            },
+            "tags": [
+              {
+                "icon": "Medal",
+                "label": "Produto original"
+              },
+              {
+                "icon": "File",
+                "label": "Acompanha nota fiscal"
+              }
+            ],
+            "section": {
+              "__resolveType": "Benefícios"
+            },
+            "configPix": {
+              "__resolveType": "Default-Pix"
+            },
+            "showBuybox": false
+          },
+          "rule": {
+            "__resolveType": "website/matchers/always.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "layout": {
+        "showArrows": true,
+        "headerfontSize": "Small",
+        "headerAlignment": "center",
+        "numberOfSliders": {
+          "mobile": 2,
+          "desktop": 4
+        }
+      },
+      "title": "Quem Viu Comprou Também",
+      "products": {
+        "slug": {
+          "param": "slug",
+          "__resolveType": "website/functions/requestToParam.ts"
+        },
+        "count": 10,
+        "crossSelling": "whosawalsosaw",
+        "__resolveType": "vtex/loaders/legacy/relatedProductsLoader.ts",
+        "hideUnavailableItems": true
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": false,
+            "installments": false,
+            "productDescription": true,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "ProductShelfVisited"
+      }
+    },
+    {
+      "__resolveType": "CookiesModal"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Banner APP"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

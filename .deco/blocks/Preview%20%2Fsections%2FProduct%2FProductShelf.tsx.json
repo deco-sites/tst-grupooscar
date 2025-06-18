@@ -1,0 +1,24 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 1
+    },
+    "headerAlignment": "center",
+    "headerfontSize": "Normal"
+  },
+  "cardLayout": {
+    "basics": {
+      "contentAlignment": "Left",
+      "oldPriceSize": "Small"
+    },
+    "elementsPositions": {
+      "favoriteIcon": "Top right"
+    },
+    "onMouseOver": {
+      "image": "Change image",
+      "card": "None"
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Seleção Masculino",
+  "path": "/selecoes-masculino",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/selecoes-masculino",
+            "title": "Calçados Masculinos em Oferta - Sapatos, tênis e mais",
+            "description": "Tênis, botas e sapatos masculinos com descontos imperdíveis na Oscar. Confira nossa seleção de marcas e garanta desconto extra pagando no pix!"
+          }
+        ],
+        "title": "selecoes-masculino"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+      "sort": "",
+      "count": 24,
+      "fuzzy": "disabled",
+      "selectedFacets": [
+        {
+          "key": "productClusterIds",
+          "value": "247"
+        }
+      ],
+      "hideUnavailableItems": true,
+      "advancedConfigs": {
+        "includeOriginalAttributes": []
+      },
+      "pageOffset": 1
+    }
+  },
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/UxWriting.tsx",
+        "seoTexts": [
+          {
+            "headingtag": "h1",
+            "matcher": "/selecoes-masculino",
+            "title": "Calçados Masculinos em Oferta",
+            "description": "<p><span style=\"font-size: 10pt\">Confira opções de calçados masculinos em promoção na Oscar:</span></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "commerce/loaders/product/extensions/listingPage.ts",
+        "data": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "",
+          "fuzzy": "disabled",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "247"
+            }
+          ],
+          "count": 24,
+          "hideUnavailableItems": true,
+          "useCollectionName": false,
+          "similars": true,
+          "priceFacets": false
+        },
+        "extensions": [
+          {
+            "__resolveType": "vtex/loaders/product/extensions/listingPage.ts",
+            "simulate": false,
+            "similars": false
+          }
+        ]
+      },
+      "layout": {
+        "variant": "aside",
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        }
+      },
+      "cardLayout": {
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+        "layout": {
+          "basics": {
+            "contentAlignment": "Left",
+            "oldPriceSize": "Small"
+          },
+          "elementsPositions": {
+            "favoriteIcon": "Top right"
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "card": "None",
+            "showFavoriteIcon": true,
+            "showCardShadow": false,
+            "showCta": false
+          },
+          "hide": {
+            "productDescription": true,
+            "skuSelector": true,
+            "productName": false,
+            "allPrices": false,
+            "discount": false,
+            "installments": true,
+            "cta": true
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        }
+      },
+      "startingPage": 1,
+      "minFilterPrice": 50,
+      "maxFilterPrice": 1.999
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ]
+}

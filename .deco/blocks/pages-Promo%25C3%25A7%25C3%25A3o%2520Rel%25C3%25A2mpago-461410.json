@@ -1,0 +1,107 @@
+{
+  "name": "Promoção Relâmpago",
+  "path": "/promocao-relampago",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/UxWriting.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h1",
+          "matcher": "/promocao-relampago",
+          "title": "Promoção Relâmpago: Ofertas por Tempo Limitado",
+          "description": "<p><span style=\"font-size: 10pt\">Aproveite a promoção relâmpago e garanta suas compras com ofertas por tempo limitado.</span></p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+        "sort": "orders:desc",
+        "fuzzy": "automatic",
+        "selectedFacets": [
+          {
+            "value": "190",
+            "key": "productClusterIds"
+          }
+        ],
+        "count": 24,
+        "hideUnavailableItems": true,
+        "priceFacets": true
+      },
+      "layout": {
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        },
+        "variant": "aside"
+      },
+      "cardLayout": {
+        "hide": {
+          "productDescription": true,
+          "skuSelector": true
+        },
+        "onMouseOver": {
+          "showFavoriteIcon": true,
+          "card": "None",
+          "image": "Change image"
+        },
+        "elementsPositions": {
+          "favoriteIcon": "Top right"
+        },
+        "basics": {
+          "oldPriceSize": "Small",
+          "contentAlignment": "Left"
+        },
+        "configPix": {
+          "__resolveType": "Default-Pix"
+        }
+      },
+      "startingPage": 1,
+      "minFilterPrice": 0,
+      "maxFilterPrice": 0
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/promocao-relampago",
+            "title": "Promoções Relâmpago - Compre tênis, botas e mais",
+            "description": "Ofertas relâmpago em calçados! Compre com frete grátis* e descontos incríveis por tempo limitado. Acesse o site e aproveite!"
+          }
+        ],
+        "title": "promocao-relampago"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+      "sort": "",
+      "count": 24,
+      "fuzzy": "disabled",
+      "selectedFacets": [
+        {
+          "key": "productClusterIds",
+          "value": "190"
+        }
+      ],
+      "hideUnavailableItems": true,
+      "advancedConfigs": {
+        "includeOriginalAttributes": []
+      },
+      "pageOffset": 1
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

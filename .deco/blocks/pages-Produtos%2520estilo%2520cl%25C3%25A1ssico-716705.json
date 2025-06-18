@@ -1,0 +1,132 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Produtos estilo clássico",
+  "path": "/estilo-classico",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/estilo-classico",
+            "title": "Calçados Estilo Clássico - Aproveite seleção",
+            "description": "Estilo clássico com preço baixo! Compre calçados elegantes com frete grátis e até 10x sem juros no site da Oscar! Acesse agora."
+          }
+        ],
+        "title": "estilo-classico"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+      "sort": "",
+      "count": 24,
+      "fuzzy": "disabled",
+      "selectedFacets": [
+        {
+          "key": "productClusterIds",
+          "value": "228"
+        }
+      ],
+      "hideUnavailableItems": true,
+      "advancedConfigs": {
+        "includeOriginalAttributes": []
+      },
+      "pageOffset": 1
+    }
+  },
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/UxWriting.tsx",
+        "seoTexts": [
+          {
+            "headingtag": "h1",
+            "matcher": "/estilo-classico",
+            "title": "Estilo Clássico",
+            "description": "<p><span style=\"font-size: 10pt\">Modelos de sapatos que nunca saem de moda sempre são uma boa opção!</span></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "commerce/loaders/product/extensions/listingPage.ts",
+        "data": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "",
+          "fuzzy": "disabled",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "228"
+            }
+          ],
+          "count": 24,
+          "hideUnavailableItems": true,
+          "useCollectionName": false,
+          "similars": true,
+          "priceFacets": false
+        },
+        "extensions": [
+          {
+            "__resolveType": "vtex/loaders/product/extensions/listingPage.ts",
+            "simulate": false,
+            "similars": false
+          }
+        ]
+      },
+      "layout": {
+        "variant": "aside",
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        }
+      },
+      "cardLayout": {
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+        "layout": {
+          "basics": {
+            "contentAlignment": "Left",
+            "oldPriceSize": "Small"
+          },
+          "elementsPositions": {
+            "favoriteIcon": "Top right"
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "card": "None",
+            "showFavoriteIcon": true,
+            "showCardShadow": false,
+            "showCta": false
+          },
+          "hide": {
+            "productDescription": true,
+            "skuSelector": true,
+            "productName": false,
+            "allPrices": false,
+            "discount": false,
+            "installments": true,
+            "cta": true
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        }
+      },
+      "startingPage": 1,
+      "minFilterPrice": 50,
+      "maxFilterPrice": 1.999
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ]
+}

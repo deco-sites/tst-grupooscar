@@ -1,0 +1,32 @@
+{
+  "layout": {
+    "variation": "Simple"
+  },
+  "benefits": [
+    {
+      "icon": "tagPrice",
+      "text": "<p style=\"text-align: center\"><span style=\"font-size: 10pt\">Cupom:</span><strong> PRIMEIRACOMPRA10</strong></p>"
+    },
+    {
+      "icon": "truck-fast",
+      "text": "<p style=\"text-align: center\"><strong><span style=\"font-size: 10pt\">Frete Grátis </span></strong><span style=\"font-size: 10pt\">compras acima R$ 299,99.</span></p><p style=\"text-align: center\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"/entregas\"><strong><span style=\"font-size: 10pt\">Saiba mais.</span></strong></a></p>"
+    },
+    {
+      "icon": "pix-benefit",
+      "text": "<p style=\"text-align: center\"><span style=\"font-size: 10pt\">Compre no PIX e ganhe 5% OFF.</span></p><p style=\"text-align: center\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"/regulamentos\"><strong><span style=\"font-size: 10pt\">Saiba mais.</span></strong></a></p>"
+    },
+    {
+      "icon": "store-benefit",
+      "text": "<p style=\"text-align: center\"><span style=\"font-size: 10pt\">Retire seu pedido em nossas lojas. </span></p><p style=\"text-align: center\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"/nossas-lojas\"><strong><span style=\"font-size: 10pt\">Saiba mais</span></strong></a><strong><span style=\"font-size: 10pt\">.</span></strong></p>"
+    },
+    {
+      "icon": "credit-card",
+      "text": "<p style=\"text-align: center\">10x sem juros no Cartão de Crédito.</p><p style=\"text-align: center\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"/formas-de-pagamento\"><strong>Saiba mais.</strong></a></p>"
+    },
+    {
+      "icon": "rotate-benefit",
+      "text": "<p style=\"text-align: center\"><span style=\"font-size: 10pt\">Política de troca e devolução.</span></p><p style=\"text-align: center\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/troca-e-devolucao\"><strong><span style=\"font-size: 10pt\">Saiba mais.</span></strong></a></p>"
+    }
+  ],
+  "__resolveType": "site/sections/Content/Benefits.tsx"
+}

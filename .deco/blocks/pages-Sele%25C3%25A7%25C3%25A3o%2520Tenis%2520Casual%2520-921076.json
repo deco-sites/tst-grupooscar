@@ -1,0 +1,89 @@
+{
+  "name": "Seleção Tenis Casual ",
+  "path": "/selecao-tenis-casual",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/UxWriting.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h1",
+          "title": "Seleção de Tênis Casual",
+          "matcher": "/selecao-tenis-casual",
+          "description": "<p><span style=\"font-size: 10pt\">Descubra nossa seleção de tênis casuais e encontre o par perfeito para qualquer ocasião.</span></p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "",
+          "fuzzy": "disabled",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "152"
+            }
+          ],
+          "count": 24,
+          "hideUnavailableItems": true,
+          "pageOffset": 1
+        },
+        "layout": {
+          "variant": "aside",
+          "columns": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "cardLayout": {
+          "__resolveType": "Product Card Layout - 01"
+        },
+        "startingPage": 1,
+        "minFilterPrice": 50,
+        "maxFilterPrice": 1.999
+      }
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/selecao-tenis-casual",
+            "title": "Seleção Casual - Tênis para seu dia a dia",
+            "description": "Tênis casuais para o dia a dia com muito conforto e estilo. Frete grátis* e parcelamento facilitado. Compre já!"
+          }
+        ],
+        "title": "selecao-tenis-casual"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+      "sort": "",
+      "count": 24,
+      "fuzzy": "disabled",
+      "selectedFacets": [
+        {
+          "key": "productClusterIds",
+          "value": "152"
+        }
+      ],
+      "hideUnavailableItems": true,
+      "advancedConfigs": {
+        "includeOriginalAttributes": []
+      },
+      "pageOffset": 1
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

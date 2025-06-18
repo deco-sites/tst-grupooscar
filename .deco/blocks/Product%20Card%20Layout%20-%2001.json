@@ -1,0 +1,44 @@
+{
+  "layout": {
+    "hide": {
+      "productDescription": true,
+      "skuSelector": true,
+      "cta": true,
+      "favoriteIcon": true
+    },
+    "show": {
+      "cta": true,
+      "allPrices": true,
+      "productName": true,
+      "skuSelector": true,
+      "installments": true,
+      "productDescription": true
+    },
+    "basics": {
+      "oldPriceSize": "Small",
+      "contentAlignment": "Left"
+    },
+    "onMouseOver": {
+      "card": "None",
+      "image": "Change image",
+      "showCta": false,
+      "showCardShadow": false,
+      "showSkuSelector": true,
+      "showFavoriteIcon": true
+    },
+    "elementsPositions": {
+      "skuSelector": "Top",
+      "favoriteIcon": "Top right"
+    },
+    "backgroundAndBorder": {
+      "shadow": "None",
+      "bgColor": "Transparent",
+      "borderColor": "Transparent",
+      "borderRadius": "None"
+    },
+    "configPix": {
+      "__resolveType": "Default-Pix"
+    }
+  },
+  "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+}

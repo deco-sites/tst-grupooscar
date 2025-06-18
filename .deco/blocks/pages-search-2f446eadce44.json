@@ -1,0 +1,89 @@
+{
+  "name": "Search",
+  "path": "/s",
+  "sections": [
+    {
+      "title": "Loja de Calçados e Moda Esportiva",
+      "jsonLD": {
+        "__resolveType": "PLP Loader"
+      },
+      "noFollow": false,
+      "noIndexing": true,
+      "description": "Aqui na Oscar Calçados você encontra calçados online pra família toda! Além de preços acessíveis e condições de pagamento facilitadas. Acesse o site! ",
+      "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+      "noFollowFilter": false,
+      "noIndexingFilter": true
+    },
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "PLP Loader"
+      },
+      "layout": {
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        },
+        "variant": "aside"
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "skuSelector": true,
+            "productDescription": true,
+            "allPrices": false,
+            "favoriteIcon": false,
+            "installments": false,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      },
+      "startingPage": 0,
+      "minFilterPrice": 0,
+      "maxFilterPrice": 100000,
+      "notFound": {
+        "image": "https://assets.decocache.com/oscarcalcados/53380dfc-bf4a-4a0c-8b3b-c6a2a25f8643/404-Error-pana.png",
+        "title": " Oops! Página não encontrada.",
+        "subtitle": "<p>• Verifique senão há erro de digitação.</p><p>• Tente utilizar uma única palavra.</p><p>• Tente buscar por termos menos específicos e posteriormente use os filtros da busca.</p><p>• Procure utilizar sinônimos ao termo desejado.</p>",
+        "ctaLabel": "Voltar para a pagina inicial!",
+        "ctaUrl": "/"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Banner APP"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

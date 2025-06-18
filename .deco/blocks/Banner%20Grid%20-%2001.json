@@ -1,0 +1,26 @@
+{
+  "title": "Navegue por Categoria.",
+  "banners": [
+    {
+      "alt": "Categoria Feminina",
+      "srcMobile": "https://assets.decocache.com/oscarcalcados/01a53dd6-1157-4bc4-942a-f0b4d65222f5/343x334_fem-(1).jpg",
+      "srcDesktop": "https://assets.decocache.com/oscarcalcados/4b667f2e-2ef1-4687-962d-6e1d2cd39171/644x314_fem-(1).jpg",
+      "href": "https://www.oscarcalcados.com.br/calcados-femininos"
+    },
+    {
+      "srcMobile": "https://assets.decocache.com/oscarcalcados/cf56476e-ee77-4c74-92e8-a154a4deaba4/343x334_masc-(1).jpg",
+      "srcDesktop": "https://assets.decocache.com/oscarcalcados/687fd1a4-515f-48a7-9433-e3d356c71708/644x314_masc-(3).jpg",
+      "alt": "Categoria Masculina ",
+      "href": "https://www.oscarcalcados.com.br/calcados-masculinos"
+    }
+  ],
+  "borderRadius": {
+    "mobile": "3xl",
+    "desktop": "3xl"
+  },
+  "itemsPerLine": {
+    "mobile": 2,
+    "desktop": 2
+  },
+  "__resolveType": "site/sections/Images/BannerGrid.tsx"
+}

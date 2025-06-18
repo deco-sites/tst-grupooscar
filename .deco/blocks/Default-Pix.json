@@ -1,0 +1,7 @@
+{
+  "__resolveType": "site/loaders/Pix/showPix.ts",
+  "props": {
+    "showPix": true,
+    "value": 5
+  }
+}

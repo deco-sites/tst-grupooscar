@@ -1,0 +1,67 @@
+{
+  "name": "Kits",
+  "path": "/kits",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+        "sort": "orders:desc",
+        "fuzzy": "automatic",
+        "selectedFacets": [
+          {
+            "key": "productClusterIds",
+            "value": "1273"
+          }
+        ],
+        "count": 24,
+        "hideUnavailableItems": true,
+        "priceFacets": true
+      },
+      "layout": {
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        },
+        "variant": "aside"
+      },
+      "cardLayout": {
+        "hide": {
+          "productDescription": true,
+          "skuSelector": true
+        },
+        "onMouseOver": {
+          "showFavoriteIcon": true,
+          "card": "None",
+          "image": "Change image"
+        },
+        "elementsPositions": {
+          "favoriteIcon": "Top right"
+        },
+        "basics": {
+          "oldPriceSize": "Small",
+          "contentAlignment": "Left"
+        },
+        "configPix": {
+          "__resolveType": "Default-Pix"
+        }
+      },
+      "startingPage": 1,
+      "minFilterPrice": 0,
+      "maxFilterPrice": 0
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

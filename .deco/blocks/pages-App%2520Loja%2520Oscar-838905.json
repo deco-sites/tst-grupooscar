@@ -1,0 +1,80 @@
+{
+  "name": "App Loja Oscar",
+  "path": "/app-loja-oscar",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/BannerApp.tsx",
+      "banner": {
+        "desktop": "https://data.decoassets.com/oscarcalcados/53ad9c21-d417-4d34-b93d-440cd2dce9d3/APP-OSCAR-(1).png",
+        "mobile": "https://data.decoassets.com/oscarcalcados/468b0d46-b25b-40de-bd35-4f174a5ee4cf/LEVE-A-LOJA-(2).png"
+      },
+      "apps": [
+        {
+          "label": "IOS",
+          "image": "https://data.decoassets.com/oscarcalcados/817a85a6-50f8-4041-a4b5-fd4c9523ad1e/App-Oscar---Preto-e-Branco.png",
+          "link": "https://apps.apple.com/br/app/oscar-loja-de-cal%C3%A7ados/id1631025295"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/57c11ef7-3446-41cb-8f30-cb6eaa1b9fe7/Google-Play-Preto-e-Branco.png",
+          "label": "Android",
+          "link": "https://play.google.com/store/apps/details?id=com.kobe.oscarcalcados"
+        }
+      ],
+      "text": "<p><span style=\"color: #000000\">Aponte a câmera do celular e baixe o app ou busque na sua loja de aplicativos.</span></p>"
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "preload": false,
+      "images": [
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/6eb6506a-3c1a-4e54-82fb-6ad9927ce5a7/-de-64.000-Produtos---App-Oscar.png",
+          "mobile": "https://data.decoassets.com/oscarcalcados/754b8f76-0cfe-43c9-85ac-00abaa81a692/Roupas-e-Acessorios-Mobile.png"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/Carousel.tsx",
+        "preload": false,
+        "images": [
+          {
+            "desktop": "https://data.decoassets.com/oscarcalcados/830c2205-9551-4a5d-86ff-9955834d1b76/Lista-de-Desejos-App-Oscar-Desktop.png",
+            "mobile": "https://data.decoassets.com/oscarcalcados/fb498d4c-ed5f-4ae4-9826-10dd21f96d50/Lista-de-Desejos-App-Oscar-mobile.png"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/app-loja-oscar",
+            "title": "APP Oscar - Saiba tudo sobre nosso aplicativo",
+            "description": "Baixe o app Oscar e tenha ofertas exclusivas na palma da sua mão! Aproveite frete grátis, cupons especiais e facilidade para comprar seus calçados favoritos!"
+          }
+        ],
+        "title": "app"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "description": "Baixe o app Oscar e tenha ofertas exclusivas na palma da sua mão! Aproveite frete grátis, cupons especiais e facilidade para comprar seus calçados favoritos!",
+    "title": "APP Oscar - Saiba tudo sobre nosso aplicativo"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

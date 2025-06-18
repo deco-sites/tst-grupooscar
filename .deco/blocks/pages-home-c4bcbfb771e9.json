@@ -1,0 +1,3674 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx"
+          },
+          {
+            "__resolveType": "Header Oscar"
+          },
+          {
+            "__resolveType": "site/sections/Content/BenefitContent.tsx",
+            "benefits": [
+              {
+                "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+                "codCupom": "APP50",
+                "labelButton": "Baixe o App Oscar agora",
+                "linkButton": "https://onelink.to/7qk2u8"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "dots": true,
+            "arrows": true,
+            "images": [
+              {
+                "mobile": "https://assets.decocache.com/oscarcalcados/b639c83b-b82d-477d-b0dc-a55ff65b543f/375x492-(3).jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/246684e0-9b93-43b6-a6df-68193a1a177b/1440x480-(4).jpg",
+                "alt": "Imagem promocional da Coleção Inverno 2025, com destaque para uma elegante bota feminina de couro preto, com salto bloco e acabamento sofisticado, perfeita para os dias frios. A bota está posicionada sobre um tecido bege com folhas secas ao redor, reforçando o conceito de moda outono/inverno. A campanha remete à nova tendência em calçados femininos para o inverno, combinando estilo, conforto e qualidade. Ideal para compor looks modernos e elegantes, essa coleção traz opções de botas de inverno, moda feminina 2025, calçados confortáveis, lançamentos da estação e sapatos femininos elegantes. Aproveite para conferir os lançamentos da Oscar Calçados e renovar seu guarda-roupa com peças que unem sofisticação e praticidade para a temporada mais fria do ano.",
+                "href": "/inverno"
+              },
+              {
+                "alt": "Aproveite a campanha de desconto progressivo da Oscar Calçados e garanta seus calçados favoritos com até 50% OFF. Na imagem promocional, uma pessoa segura diversos pares de tênis, representando a variedade e os benefícios de comprar mais e economizar. Os descontos são aplicados conforme o valor da compra: 30% off em compras acima de R$499 usando o cupom GANHE30, 40% off acima de R$699 com o cupom GANHE40, e 50% off para compras acima de R$899 com o cupom GANHE50. Promoção válida para uma lista selecionada de produtos vendidos e entregues por Oscar Calçados. Essa é a oportunidade ideal para renovar o guarda-roupa com tênis em promoção, sapatos com desconto, liquidação de calçados, cupons Oscar Calçados e muito mais. Aproveite ofertas exclusivas, compre e ganhe descontos progressivos em tênis masculinos e femininos, com condições imperdíveis para quem quer estilo e economia.",
+                "mobile": "https://assets.decocache.com/oscarcalcados/e059a5a3-d386-47d7-a661-00ae8bcfe365/375x492.jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/ccce7dee-1484-483b-8efd-d7df90faf8ed/1440x480.jpg",
+                "href": "/desconto-progressivo"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/156415e7-85ca-4b69-bfa8-5834360e4889/1440x480-(6).jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/9da4aebf-bc34-4622-a787-ceba8affe8dd/375x492-(5).jpg",
+                "alt": "Imagem promocional de tênis esportivos de grandes marcas, apresentando modelos modernos e tecnológicos ideais para atividades físicas e uso diário. Os destaques visuais incluem tênis das marcas Mizuno, Olympikus e Skechers, com design leve, solado anatômico e cabedal respirável. A campanha oferece até 30% de desconto, além de 5% off extra no pagamento via Pix, tornando-se uma ótima oportunidade para quem busca tênis de corrida, calçados esportivos confortáveis, ofertas em tênis para academia, e promoção de tênis masculino e feminino. Perfeita para quem procura tênis para treinar com estilo e desempenho, essa seleção combina qualidade, durabilidade e preço especial em marcas consagradas do mercado esportivo.",
+                "href": "/selecao-esportivos"
+              },
+              {
+                "alt": "Destaque sua elegância com nossos scarpins femininos a partir de R$ 99,90! O clássico modelo de salto alto fino em verniz preto com solado vermelho traz sofisticação e atitude ao visual. Ideal para ocasiões formais, eventos ou para um toque de poder no look do dia a dia. Invista em um calçado que une estilo, conforto e preço acessível. Não perca essa oferta exclusiva e confira agora os modelos di",
+                "desktop": "https://assets.decocache.com/oscarcalcados/ee774ebd-9de7-43c0-bf75-6f35e35597c3/1440x480-(7).jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/7feda01b-fcfe-4b2f-a450-5e71c94bb0ea/375x492-(6).jpg",
+                "href": "/exclusivos"
+              }
+            ],
+            "preload": true
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "Benefícios"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Navegue por categorias"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6297de69-4598-4ce2-8bf8-9068b8e36716/Oscar-Namorados-1.png",
+                  "href": "/tenis-de-treino",
+                  "label": "PARA TREINAR"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/41c3c124-905f-449f-997e-46491f0d1a36/Via-Marte-Sapato-24-045001-01-Cherry-Verniz--6-.webp",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins",
+                  "label": "SCARPIN"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/9f72ac7c-46d6-4706-a348-dd95e757c62a/Chenson-Carteira-2415239-Cafe-Pvc--2-.jpg.webp",
+                  "href": "https://www.oscarcalcados.com.br/acessorios-femininos",
+                  "label": "ACESSÓRIOS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ec986dca-b8d4-41bf-ba97-cedf2b564bac/ChatGPT-Image-12-de-jun.-de-2025-13_02_10-c-sombra.png",
+                  "href": "https://www.oscarcalcados.com.br/infantil?sort=orders%3Adesc&filter.productClusterIds=211&filter.tipo-do-produto=bota",
+                  "label": "BOTA INFANTIL"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/1a900635-682a-4d83-b3fd-a0ae56f771fd/174604728043062.webp",
+                  "label": "JAQUETA",
+                  "href": "https://www.oscarcalcados.com.br/roupas-femininas/jaquetas"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "left"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "Banner Grid - 01"
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Explore o melhor da moda feminina outono/inverno com este look cheio de estilo e personalidade. A imagem destaca uma mulher vestindo um casaco alongado bege, perfeito para os dias frios da estação, combinado com uma bota de cano alto marrom, que traz elegância e conforto.Essa produção é uma inspiração para quem busca looks femininos sofisticados, com peças versáteis que valorizam o guarda-roupa da temporada. ",
+            "href": "/esquenta-liquida",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/b42a9cef-1359-4da6-ad9c-129845321e0d/1312x420.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/5a99ec59-a354-4b2d-b48a-e49ec3164a81/344x334.jpg"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "242"
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            },
+            "title": "BOTAS COM DESCONTO"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "CONFIRA AS PRINCIPAIS TENDÊNCIAS DA ESTAÇÃO"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/cb87696e-8ad5-437f-b467-be062b489b31/396x514_1.jpg",
+                  "href": "/estilo-casual",
+                  "label": "Tênis Casual"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/034d3e5f-80a0-4707-9fee-876ec0198e9e/396x514_2.jpg",
+                  "label": "Roupas",
+                  "href": "/acessorios-para-compor-look"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b75185f3-a721-4e71-900c-d04ababef1e5/396x514_3.jpg",
+                  "href": "/must-da-estacao",
+                  "label": "Sapatilhas e Mocassim"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Category/CategoryList.tsx",
+                    "header": {
+                      "title": "escolha a sua melhor oferta"
+                    },
+                    "list": [
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/78f47e8f-4ce6-421a-9719-669632d3c904/396x514.jpg",
+                        "href": "/apostas-esportivas"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/9406d79c-4965-4b97-8468-19dd2d67fb23/396x514_1.jpg",
+                        "href": "/colecao-sapatilhas"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/e94d1d0e-1312-48a2-bb24-a3159f1e205f/396x514_2.jpg",
+                        "href": "/colecao-de-scarpins"
+                      }
+                    ],
+                    "layout": {
+                      "headerAlignment": "center",
+                      "categoryCard": {
+                        "textPosition": "bottom",
+                        "textAlignment": "center"
+                      }
+                    }
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Aproveite o combo especial de sapatos femininos com 2 pares por apenas R$199,90! A imagem destaca modelos elegantes de scarpins pretos, incluindo opções com salto fino e slingback, ideais para compor looks sofisticados e versáteis. Essa é a escolha perfeita para quem busca sapatos femininos confortáveis e estilosos, com excelente custo-benefício. Oferta válida para modelos selecionados, com desconto aplicado no carrinho. Garanta já seus pares e eleve o seu estilo com calçados femininos em promoção!",
+            "href": "/combos",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/31afe2a5-601c-4692-b844-297619aa5f4b/1312x420-(1).jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/0bbbe3b1-dd4c-4001-a207-5f74a937fff3/344x334-(1).jpg"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {
+                "title": " ",
+                "description": "<p> </p>",
+                "startDate": "2025-04-02T03:00:00.000Z",
+                "endDate": "2025-04-02T03:01:00.000Z"
+              },
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/6f0c6fd5-f9ad-474d-bafb-434c5a8da868/375x400-(1).png",
+                "mobile": "https://assets.decocache.com/oscarcalcados/6f0c6fd5-f9ad-474d-bafb-434c5a8da868/375x400-(1).png",
+                "alt": "A imagem apresenta um tênis esportivo Nike preto com detalhes brancos, posicionado em destaque no centro da peça. O fundo é branco, o que valoriza ainda mais o produto. Há uma oferta especial, onde é possível usar o cupom NIKE10 para ganhar 10% de desconto na compra. O layout é limpo e minimalista, com foco no calçado e no botão de chamada para a ação CONFIRA, incentivando o clique e a compra. A marca Nike está visível com o logo no canto superior esquerdo.",
+                "href": "/apostas-calcados-masculino"
+              },
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "orders:desc",
+                    "count": 12,
+                    "collection": "285"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small",
+                  "showArrows": true
+                },
+                "cardLayout": {
+                  "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+                  "layout": {
+                    "hide": {
+                      "productDescription": true,
+                      "skuSelector": true,
+                      "cta": true
+                    },
+                    "show": {
+                      "cta": true,
+                      "allPrices": true,
+                      "productName": true,
+                      "skuSelector": true,
+                      "installments": true,
+                      "productDescription": true
+                    },
+                    "basics": {
+                      "oldPriceSize": "Small",
+                      "contentAlignment": "Left"
+                    },
+                    "onMouseOver": {
+                      "card": "None",
+                      "image": "Change image",
+                      "showCta": false,
+                      "showCardShadow": false,
+                      "showSkuSelector": true,
+                      "showFavoriteIcon": true
+                    },
+                    "elementsPositions": {
+                      "skuSelector": "Top",
+                      "favoriteIcon": "Top right"
+                    },
+                    "backgroundAndBorder": {
+                      "shadow": "None",
+                      "bgColor": "Transparent",
+                      "borderColor": "Transparent",
+                      "borderRadius": "None"
+                    },
+                    "configPix": {
+                      "__resolveType": "Default-Pix"
+                    }
+                  }
+                },
+                "bgGray": false
+              },
+              "activeStopwatch": false,
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "markupTitle": true
+            }
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Category/CategoryList.tsx",
+                    "header": {
+                      "title": "OFERTAS IMPERDÍVEIS"
+                    },
+                    "list": [
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/8b0e0e03-79e7-46fd-8fbc-b1def574311f/375x492_1.jpg",
+                        "href": "/selecao-femininos"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/7c8d169e-efc2-453f-84af-011457ff928e/396x514_2.jpg",
+                        "href": "/selecoes-masculino"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/11bd3e6a-19ee-4eb1-bee6-bd31c4e93cc1/396x514_3.jpg",
+                        "href": "/ofertas-selecionadas"
+                      }
+                    ],
+                    "layout": {
+                      "headerAlignment": "center",
+                      "categoryCard": {
+                        "textPosition": "bottom",
+                        "textAlignment": "center"
+                      }
+                    }
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Garanta conforto, estilo e economia com nossos tênis infantis coloridos a partir de R$59,90! A imagem destaca modelos de tênis para crianças, com fechamento em velcro e cadarço, ideais para facilitar o dia a dia dos pequenos. Disponíveis em cores suaves e divertidas, esses calçados são perfeitos para compor looks infantis modernos e práticos. Aproveite essa promoção exclusiva e escolha entre diversos modelos de tênis infantis confortáveis e resistentes, perfeitos para a rotina escolar, passeios e brincadeiras. Calçados infantis baratos, com qualidade e estilo que os pais aprovam e as crianças adoram!  Se quiser, posso gerar também uma versão mais curta para banner, anúncio ou categoria. Deseja?",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/bd484c7e-94a9-47dd-99f4-2930244f866c/1312x420-(2).jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/619139f7-ff76-4d51-a7e7-66bfcffba8f0/344x334-(2).jpg",
+            "href": "/apostas-infantil"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "title": "Use o cupom: ALLSTAR30 para ganhar 30% OFF",
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "271"
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "ProductShelfVisited"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+            "title": "Marcas Parceiras",
+            "content": [
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png",
+                "href": "/adidas",
+                "altText": "Logo Adidas"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+                "href": "/diadora",
+                "altText": "Logo Diadora"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+                "href": "/vizzano",
+                "altText": "Logo Vizzano"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+                "href": "/olympikus",
+                "altText": "Logo Olympikus"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png",
+                "href": "/constantino",
+                "altText": "Logo Constantino"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "href": "/adidas",
+                "altText": "Logo Adidas",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png"
+              },
+              {
+                "href": "/asics",
+                "altText": "Logo Asics",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png"
+              },
+              {
+                "href": "/via-marte",
+                "altText": "Logo Via Marte",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png"
+              },
+              {
+                "href": "/diadora",
+                "altText": "Logo Diadora",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+              },
+              {
+                "href": "/vizzano",
+                "altText": "Logo Vizzano",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+              },
+              {
+                "href": "/olympikus",
+                "altText": "Logo Olympikus",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+              },
+              {
+                "href": "/constantino",
+                "altText": "Logo Constantino",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png"
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Favoritos das influencers"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8a5098e9-adbb-4fd0-9468-204f8cdb693d/290x418_4.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/0a7ca2f4-2765-48e2-a634-540b397faed7/290x418_3.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/5833c380-1b39-4bda-9ca2-7aa7f8ff5594/290x418_2.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sandalias"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/bd0b1945-15c7-405b-9b8f-a5071372a781/290x418_1.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sapatilhas"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://data.decoassets.com/oscarcalcados/81e9cf57-d8ab-4fb6-baf1-b2f0c13c3bd9/1440x270.jpg",
+                  "mobile": "https://data.decoassets.com/oscarcalcados/06ee06b9-536c-491c-9ec2-fee160dccd4e/375x213.jpg",
+                  "href": "/clube-oscar",
+                  "alt": "Aposte no equilíbrio perfeito entre estilo e conforto com este conjunto de moletom feminino bege, uma peça versátil e atemporal que é destaque na moda casual feminina 2025. A modelo exibe um visual clean e sofisticado, com um moletom oversized com capuz e uma calça jogger bege, ideal para quem procura um look confortável e elegante para o dia a dia.  Produzido com tecido macio e de alta durabilidade, esse conjunto de moletom feminino com capuz oferece aconchego em dias frios sem abrir mão do estilo. O tom bege neutro é uma aposta certeira em combinações minimalistas e urbanas, trazendo modernidade ao visual athleisure feminino.  Seja para um passeio descontraído, viagens, ou para curtir momentos de descanso, este outfit feminino streetwear se adapta facilmente a diferentes ocasiões. Combine com tênis brancos ou acessórios dourados para um toque sofisticado e atual. Invista neste conjunto bege feminino e destaque-se com um visual que une tendência, conforto e praticidade."
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/SearchTags.tsx",
+            "title": "procure por",
+            "tags": [
+              {
+                "href": "/calcados-femininos/botas",
+                "title": "Botas femininas"
+              },
+              {
+                "title": "Sandália feminina",
+                "href": "/calcados-femininos/sandalias"
+              },
+              {
+                "title": "Sandália feminina salto grosso",
+                "href": "/calcados-femininos/sandalias/salto-grosso"
+              },
+              {
+                "title": "Sandália salto alto",
+                "href": "/calcados-femininos/sandalias/salto-alto"
+              },
+              {
+                "title": "Sandália salto fino",
+                "href": "/calcados-femininos/sandalias/salto-fino"
+              },
+              {
+                "title": "Via Marte",
+                "href": "/via-marte"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "All Star",
+                "href": "/all-star"
+              },
+              {
+                "title": "Scarpin",
+                "href": "/calcados-femininos/scarpins"
+              },
+              {
+                "title": "Crocs",
+                "href": "/crocs"
+              },
+              {
+                "title": "Tênis casual feminino",
+                "href": "/calcados-femininos/tenis/casual"
+              },
+              {
+                "href": "/calcados-femininos/tamancos",
+                "title": "Tamanco feminino"
+              },
+              {
+                "href": "/calcados-femininos/tenis/treino",
+                "title": "Tênis feminino para treino"
+              },
+              {
+                "href": "/calcados-masculinos/tenis/casual",
+                "title": "Tênis casual masculino"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/rasteirinhas",
+                "title": "Rasteirinha feminina"
+              },
+              {
+                "href": "/calcados-femininos/botas/coturnos",
+                "title": "Coturno feminino"
+              },
+              {
+                "href": "/dakota",
+                "title": "Dakota"
+              },
+              {
+                "href": "/bebece",
+                "title": "Bebecê"
+              },
+              {
+                "href": "/calcados-masculinos/botas",
+                "title": "Bota masculina"
+              },
+              {
+                "href": "/ramarim",
+                "title": "Ramarim"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banner APP"
+          },
+          {
+            "__resolveType": "CookiesModal"
+          },
+          {
+            "__resolveType": "Footer Oscar"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/date.ts",
+          "start": "2025-05-27T11:00:00.000Z"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx"
+          },
+          {
+            "__resolveType": "Header Oscar"
+          },
+          {
+            "__resolveType": "site/sections/Content/BenefitContent.tsx",
+            "benefits": [
+              {
+                "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+                "codCupom": "APP50",
+                "labelButton": "Baixe o App Oscar agora",
+                "linkButton": "https://onelink.to/7qk2u8"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "dots": true,
+            "arrows": true,
+            "images": [
+              {
+                "mobile": "https://assets.decocache.com/oscarcalcados/fe2c5a01-1f66-406f-a0d2-d27dc2173f60/375x492-(1).jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/ee656841-4b6c-478f-b658-4d59d5ee45f9/1440x480-(1).jpg",
+                "alt": "É HOJE! DATA DUPLA 6.6 no APP Oscar. Aproveite descontos de até 60% em uma lista selecionada de produtos incríveis! Frete grátis nas compras a partir de R$159,90 para as regiões Sul e Sudeste. Só no APP Oscar você garante essas vantagens exclusivas! Baixe o app agora e aproveite as melhores ofertas em moda feminina, botas estilosas, acessórios e muito mais.",
+                "href": "/data-dupla"
+              },
+              {
+                "alt": "A imagem apresenta um banner publicitário para o Dia dos Namorados, com um casal sorridente e de mãos dadas, em um fundo rosa e vermelho, simbolizando o clima romântico da data. À direita, destaca-se uma oferta de presentes a partir de R$59,90, incentivando a compra para a ocasião especial. No centro, há o texto \"Dia dos Namorados Oscar - Um encontro perfeito\", transmitindo a ideia de que a loja Oscar oferece opções de presentes ideais para a data. Há ainda um botão de chamada para a ação \"CONFIRA\", convidando o público a clicar e explorar as ofertas.",
+                "mobile": "https://assets.decocache.com/oscarcalcados/9f569bc9-d284-43bf-a107-95f0da479418/375x492-(2).jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/07fb5531-c969-4b33-bd0c-5c87c81787ba/1440x480-(2).jpg",
+                "href": "/dia-dos-namorados"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/aa495693-a358-4b74-9ee8-01850c344375/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/f8a0f88d-8f9c-4e7a-a9b6-7cb5ae77f82c/375x492.jpg",
+                "alt": "Banner promocional feminino com fundo claro destacando uma campanha de calçados. Em destaque, uma mulher estilosa usando sandálias de salto grosso na cor vinho, combinando com uma saia de couro marrom e blusa regata. O texto promocional central diz: \"Compre dois pares, leve o 2º por 1 real\". Oferta válida para uma lista selecionada de sapatos femininos, com desconto aplicado no produto de menor valor. Botão de chamada para ação: \"Aproveite\". Estilo moderno, elegante e voltado para moda feminina, promoções de calçados, sapatos com salto, e tendências da estação.",
+                "href": "/leve-mais-por-menos"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/946cdf07-2c9c-4458-bb2f-42a0df13184f/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/f6a7f78d-0dbd-4e15-a3bc-5954d1c87993/375x492.jpg",
+                "alt": "A imagem faz parte de uma campanha promocional intitulada “Arraiá de Ofertas” da Oscar, destacando botas femininas, masculinas e infantis. O fundo tem um tom terroso, com detalhes de fogos de artifício e um clima que remete às festas juninas. Em destaque, um par de botas femininas de cano médio, em couro marrom, com salto médio e detalhes bordados. A promoção oferece até 30% de desconto, aplicado na sacola de compras, e conta com um botão “CONFIRA” para incentivar o clique e a compra.",
+                "href": "/festa-junina-oscar"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/d1035c68-7d58-4447-be35-0ce76016aa11/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/7f0757c3-4a92-423c-823e-b83bca1a96c9/375x492.jpg",
+                "alt": "Imagem promocional infantil com fundo azul claro. À esquerda, uma menina sorridente usa um vestido rosa claro com camiseta rosa por baixo e uma bolsa do personagem Stitch com corações nos olhos, transmitindo um ar alegre e divertido. À direita, há destaque para um par de galochas azuis com sola rosa, também decoradas com o personagem Stitch e flores cor-de-rosa, reforçando o tema infantil e licenciado da Disney. No centro, os dizeres: “Os mais desejados dos pequenos” com destaque para a palavra “desejados”, e logo abaixo: “A partir de R$ 79,90” com um botão branco escrito “conferir”.  Palavras-chave: moda infantil, promoção, Stitch, Disney, galochas, botas infantis, acessórios infantis, menina sorridente, rosa e azul, R$ 79,90, conferir, personagens licenciados, produtos desejados, roupas para crianças.",
+                "href": "/os-queridinhos"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/a2fe67f4-09d1-453c-a604-4de26eac4f67/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/3efdad47-2e6f-4838-87ce-4345347d5305/375x492.jpg",
+                "alt": "Destaque sua elegância com nossos scarpins femininos a partir de R$ 99,90! O clássico modelo de salto alto fino em verniz preto com solado vermelho traz sofisticação e atitude ao visual. Ideal para ocasiões formais, eventos ou para um toque de poder no look do dia a dia. Invista em um calçado que une estilo, conforto e preço acessível. Não perca essa oferta exclusiva e confira agora os modelos di",
+                "href": "/calcados-femininos/scarpins"
+              }
+            ],
+            "preload": true
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "Benefícios"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Navegue por categorias"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/cbf0f258-7300-46ec-b89f-5d4c7c84afdb/NEW-BALANCE-WRCELCW4--5-.jpg.webp",
+                  "href": "/tenis-de-treino",
+                  "label": "PARA TREINAR"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/4327f023-f5c9-4c59-aed6-5df344a3d18d/OSC09924.webp",
+                  "href": "https://www.oscarcalcados.com.br/acessorios-femininos/bolsas",
+                  "label": "BOLSAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/818116be-a8ad-4470-bcf2-49a1cc2193b3/Y8362386--10-.jpg.webp",
+                  "href": "/calcados-femininos/sandalias",
+                  "label": "SANDÁLIAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/61032769-66a6-40d8-9abc-6e6c31c2a822/image-(5).png",
+                  "href": "/tenis-infantil",
+                  "label": "TÊNIS INFANTIL"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ee480955-6688-41c7-b2a6-9e1333cb7054/image.png",
+                  "label": "SAPATÊNIS",
+                  "href": "/calcados-masculinos/sapatenis"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/78fff762-93a7-47b2-a514-0736ce280d4f/17473886631316.webp",
+                  "href": "/estilo-moderno",
+                  "label": "JEANS"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "left"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "Banner Grid - 01"
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "PRESENTE PARA ELA"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/7db77eee-fa67-47d7-8b6f-1852f9d30218/396x514_1.jpg",
+                  "href": "/calcados-femininos/tenis/casual",
+                  "label": "Tênis Casual"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/e29dbe16-b387-48c8-8cf3-9f286ffca828/396x514_2.jpg",
+                  "href": "/roupas-femininas",
+                  "label": "Roupas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/fa7ac49f-6a29-4731-80f9-7e1ef13a34b9/396x514_3.jpg",
+                  "href": "/acessorios-femininos",
+                  "label": "Acessórios Femininos"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "PRESENTE PARA ELE"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ffd9b9e8-76b2-464a-b60d-9b68d949b338/396x514_1-(1).jpg",
+                  "href": "/calcados-masculinos/tenis/casual",
+                  "label": "Tênis Casual"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8148007a-a229-4091-bab4-eba10c68cac8/396x514_2-(1).jpg",
+                  "href": "/roupas-masculinas",
+                  "label": "Roupas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ae6a06ca-50d5-4a1b-bc17-37ea4a4d0e4f/396x514_3-(3).jpg",
+                  "href": "/acessorios-masculinos",
+                  "label": "Acessórios Femininos"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Entre no clima do amor com nossa campanha \"Amor em Movimento\"! Aproveite a seleção especial de tênis esportivos da marca Fila, ideais para quem busca conforto, leveza e estilo na hora de se exercitar ou passear. Modelos pensados para o casal moderno que valoriza o bem-estar e a vida ativa. Perfeitos para treinos, caminhadas e momentos de lazer a dois. Descubra os modelos selecionados e confira agora essa oferta apaixonante!",
+            "href": "/apostas-esportivas",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/196683b5-464a-47e8-a2b2-a8286b726900/1312x420.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/addb5dc1-b814-4112-aacb-be760ce2c4b6/344x334.jpg"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Category/CategoryList.tsx",
+                    "header": {
+                      "title": "escolha a sua melhor oferta"
+                    },
+                    "list": [
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/78f47e8f-4ce6-421a-9719-669632d3c904/396x514.jpg",
+                        "href": "/apostas-esportivas"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/9406d79c-4965-4b97-8468-19dd2d67fb23/396x514_1.jpg",
+                        "href": "/colecao-sapatilhas"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/e94d1d0e-1312-48a2-bb24-a3159f1e205f/396x514_2.jpg",
+                        "href": "/colecao-de-scarpins"
+                      }
+                    ],
+                    "layout": {
+                      "headerAlignment": "center",
+                      "categoryCard": {
+                        "textPosition": "bottom",
+                        "textAlignment": "center"
+                      }
+                    }
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "225"
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            },
+            "title": "Amor em movimento"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {
+                "title": " ",
+                "description": "<p> </p>",
+                "startDate": "2025-04-02T03:00:00.000Z",
+                "endDate": "2025-04-02T03:01:00.000Z"
+              },
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/322c31f6-564d-48e8-8f78-6abcc8631ccb/375x400.png",
+                "mobile": "https://assets.decocache.com/oscarcalcados/232873a4-87af-46b7-9c0b-2101554f2c68/375x400.png",
+                "alt": "A imagem apresenta um tênis esportivo Nike preto com detalhes brancos, posicionado em destaque no centro da peça. O fundo é branco, o que valoriza ainda mais o produto. Há uma oferta especial, onde é possível usar o cupom NIKE10 para ganhar 10% de desconto na compra. O layout é limpo e minimalista, com foco no calçado e no botão de chamada para a ação CONFIRA, incentivando o clique e a compra. A marca Nike está visível com o logo no canto superior esquerdo.",
+                "href": "/promocao-tenis-esportivo"
+              },
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "orders:desc",
+                    "count": 12,
+                    "collection": "265"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small",
+                  "showArrows": true
+                },
+                "cardLayout": {
+                  "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+                  "layout": {
+                    "hide": {
+                      "productDescription": true,
+                      "skuSelector": true,
+                      "cta": true
+                    },
+                    "show": {
+                      "cta": true,
+                      "allPrices": true,
+                      "productName": true,
+                      "skuSelector": true,
+                      "installments": true,
+                      "productDescription": true
+                    },
+                    "basics": {
+                      "oldPriceSize": "Small",
+                      "contentAlignment": "Left"
+                    },
+                    "onMouseOver": {
+                      "card": "None",
+                      "image": "Change image",
+                      "showCta": false,
+                      "showCardShadow": false,
+                      "showSkuSelector": true,
+                      "showFavoriteIcon": true
+                    },
+                    "elementsPositions": {
+                      "skuSelector": "Top",
+                      "favoriteIcon": "Top right"
+                    },
+                    "backgroundAndBorder": {
+                      "shadow": "None",
+                      "bgColor": "Transparent",
+                      "borderColor": "Transparent",
+                      "borderRadius": "None"
+                    },
+                    "configPix": {
+                      "__resolveType": "Default-Pix"
+                    }
+                  }
+                },
+                "bgGray": false
+              },
+              "activeStopwatch": false,
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "markupTitle": true
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Banner promocional elegante destacando a campanha \"Compre Junto\" das marcas OSC + Constantino, com 20% de desconto em produtos selecionados. A imagem apresenta uma bota feminina de couro marrom com salto bloco, combinando com um look sofisticado monocromático. A modelo segura um buquê de rosas vermelhas, remetendo ao clima de Dia dos Namorados, estilo urbano e fashionista. Ideal para campanhas de moda outono/inverno, calçados femininos de luxo, botas elegantes, looks com couro, e ofertas exclusivas de marcas premium. Perfeita para vitrines digitais e e-mails de campanha.",
+            "href": "/compre-junto-oscar",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/f7abccba-c53c-416f-8797-d84bd8cf4d16/1312x420.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/474a9c25-e26a-48fa-9e28-f08f2b6282ab/344x334.jpg"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "259"
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            },
+            "title": "Compre Junto marcas exclusivas"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Category/CategoryList.tsx",
+                    "header": {
+                      "title": "OFERTAS IMPERDÍVEIS"
+                    },
+                    "list": [
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/8b0e0e03-79e7-46fd-8fbc-b1def574311f/375x492_1.jpg",
+                        "href": "/selecao-femininos"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/7c8d169e-efc2-453f-84af-011457ff928e/396x514_2.jpg",
+                        "href": "/selecoes-masculino"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/11bd3e6a-19ee-4eb1-bee6-bd31c4e93cc1/396x514_3.jpg",
+                        "href": "/ofertas-selecionadas"
+                      }
+                    ],
+                    "layout": {
+                      "headerAlignment": "center",
+                      "categoryCard": {
+                        "textPosition": "bottom",
+                        "textAlignment": "center"
+                      }
+                    }
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Aproveite a promoção imperdível de Crocs com até 20% OFF! Conforto, estilo e praticidade em um calçado icônico, perfeito para o dia a dia. O destaque da imagem é um modelo clássico na cor bege com detalhes em vermelho e branco, ideal para quem busca versatilidade sem abrir mão do bem-estar. Essa oferta é perfeita para quem ama sapatos casuais e quer renovar o guarda-roupa com economia. Não perca essa oportunidade exclusiva da nossa loja online. Clique em “Aproveite” e garanta já o seu!",
+            "href": "/crocs",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/67f2542d-6348-4706-99ba-18c59faeab05/1312x420.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/f839eebd-487f-456a-97aa-f261b4ddbdde/344x334.jpg"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "title": "Use o cupom: ALLSTAR30 para ganhar 30% OFF",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "271"
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "ProductShelfVisited"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+            "title": "Marcas Parceiras",
+            "content": [
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png",
+                "href": "/adidas",
+                "altText": "Logo Adidas"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+                "href": "/diadora",
+                "altText": "Logo Diadora"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+                "href": "/vizzano",
+                "altText": "Logo Vizzano"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+                "href": "/olympikus",
+                "altText": "Logo Olympikus"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png",
+                "href": "/constantino",
+                "altText": "Logo Constantino"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "href": "/adidas",
+                "altText": "Logo Adidas",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png"
+              },
+              {
+                "href": "/asics",
+                "altText": "Logo Asics",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png"
+              },
+              {
+                "href": "/via-marte",
+                "altText": "Logo Via Marte",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png"
+              },
+              {
+                "href": "/diadora",
+                "altText": "Logo Diadora",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+              },
+              {
+                "href": "/vizzano",
+                "altText": "Logo Vizzano",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+              },
+              {
+                "href": "/olympikus",
+                "altText": "Logo Olympikus",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+              },
+              {
+                "href": "/constantino",
+                "altText": "Logo Constantino",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png"
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Favoritos das influencers"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8a5098e9-adbb-4fd0-9468-204f8cdb693d/290x418_4.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/0a7ca2f4-2765-48e2-a634-540b397faed7/290x418_3.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/5833c380-1b39-4bda-9ca2-7aa7f8ff5594/290x418_2.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sandalias"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/bd0b1945-15c7-405b-9b8f-a5071372a781/290x418_1.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sapatilhas"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://data.decoassets.com/oscarcalcados/81e9cf57-d8ab-4fb6-baf1-b2f0c13c3bd9/1440x270.jpg",
+                  "mobile": "https://data.decoassets.com/oscarcalcados/06ee06b9-536c-491c-9ec2-fee160dccd4e/375x213.jpg",
+                  "href": "/clube-oscar",
+                  "alt": "Aposte no equilíbrio perfeito entre estilo e conforto com este conjunto de moletom feminino bege, uma peça versátil e atemporal que é destaque na moda casual feminina 2025. A modelo exibe um visual clean e sofisticado, com um moletom oversized com capuz e uma calça jogger bege, ideal para quem procura um look confortável e elegante para o dia a dia.  Produzido com tecido macio e de alta durabilidade, esse conjunto de moletom feminino com capuz oferece aconchego em dias frios sem abrir mão do estilo. O tom bege neutro é uma aposta certeira em combinações minimalistas e urbanas, trazendo modernidade ao visual athleisure feminino.  Seja para um passeio descontraído, viagens, ou para curtir momentos de descanso, este outfit feminino streetwear se adapta facilmente a diferentes ocasiões. Combine com tênis brancos ou acessórios dourados para um toque sofisticado e atual. Invista neste conjunto bege feminino e destaque-se com um visual que une tendência, conforto e praticidade."
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/SearchTags.tsx",
+            "title": "procure por",
+            "tags": [
+              {
+                "href": "/calcados-femininos/botas",
+                "title": "Botas femininas"
+              },
+              {
+                "title": "Sandália feminina",
+                "href": "/calcados-femininos/sandalias"
+              },
+              {
+                "title": "Sandália feminina salto grosso",
+                "href": "/calcados-femininos/sandalias/salto-grosso"
+              },
+              {
+                "title": "Sandália salto alto",
+                "href": "/calcados-femininos/sandalias/salto-alto"
+              },
+              {
+                "title": "Sandália salto fino",
+                "href": "/calcados-femininos/sandalias/salto-fino"
+              },
+              {
+                "title": "Via Marte",
+                "href": "/via-marte"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "All Star",
+                "href": "/all-star"
+              },
+              {
+                "title": "Scarpin",
+                "href": "/calcados-femininos/scarpins"
+              },
+              {
+                "title": "Crocs",
+                "href": "/crocs"
+              },
+              {
+                "title": "Tênis casual feminino",
+                "href": "/calcados-femininos/tenis/casual"
+              },
+              {
+                "href": "/calcados-femininos/tamancos",
+                "title": "Tamanco feminino"
+              },
+              {
+                "href": "/calcados-femininos/tenis/treino",
+                "title": "Tênis feminino para treino"
+              },
+              {
+                "href": "/calcados-masculinos/tenis/casual",
+                "title": "Tênis casual masculino"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/rasteirinhas",
+                "title": "Rasteirinha feminina"
+              },
+              {
+                "href": "/calcados-femininos/botas/coturnos",
+                "title": "Coturno feminino"
+              },
+              {
+                "href": "/dakota",
+                "title": "Dakota"
+              },
+              {
+                "href": "/bebece",
+                "title": "Bebecê"
+              },
+              {
+                "href": "/calcados-masculinos/botas",
+                "title": "Bota masculina"
+              },
+              {
+                "href": "/ramarim",
+                "title": "Ramarim"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banner APP"
+          },
+          {
+            "__resolveType": "CookiesModal"
+          },
+          {
+            "__resolveType": "Footer Oscar"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/date.ts",
+          "start": "2025-06-06T03:00:00.000Z",
+          "end": "2025-06-07T03:00:00.000Z"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx"
+          },
+          {
+            "__resolveType": "Header Oscar"
+          },
+          {
+            "__resolveType": "site/sections/Content/BenefitContent.tsx",
+            "benefits": [
+              {
+                "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+                "codCupom": "APP50",
+                "labelButton": "Baixe o App Oscar agora",
+                "linkButton": "https://onelink.to/7qk2u8"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "dots": true,
+            "arrows": true,
+            "images": [
+              {
+                "mobile": "https://assets.decocache.com/oscarcalcados/afcf2848-4489-4837-8b29-8e67cb1b9fc1/375x492.jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/e491dbd0-c1a8-4bf7-ac67-00b4586c8c8b/1440x480.jpg",
+                "alt": "Banner promocional de moda outono/inverno, com o título em destaque \"Favoritos da Estação\". Mostra uma mulher vestindo roupas pretas e sapato preto fechado com tiras, sentada de forma descontraída. Ao lado esquerdo, vê-se uma segunda imagem do calçado em detalhe, com uma mulher sentada em um bloco cilíndrico. O banner anuncia 10% OFF com o uso do cupom INVERNO10 e possui um botão chamativo com o texto \"confira\". O fundo é claro e minimalista, valorizando o produto em destaque.",
+                "href": "/inverno"
+              },
+              {
+                "alt": "A imagem apresenta uma promoção de liquidação de verão com destaque para elegantes sandálias femininas de salto bloco na cor preta, com tiras e detalhe de fivela dourada. Em evidência no centro da imagem está o texto “ZERA ESTOQUE VERÃO”, indicando uma queima de estoque da coleção de calçados de verão. Ao lado, o destaque promocional informa “COM ATÉ 50% OFF”, sugerindo descontos de até 50% em diversos produtos. A composição visual é limpa e moderna, com fundo claro e elementos minimalistas. Um botão com o texto “CONFIRA” chama o usuário para explorar as ofertas disponíveis. A campanha foca em moda feminina, estilo, sapatos em promoção e ofertas especiais de verão.",
+                "mobile": "https://assets.decocache.com/oscarcalcados/1a1bf004-35dc-4ea4-b595-cfb7edc369dc/375x492.jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/8e4bd988-fcd2-40e6-8344-2cb4000cf749/1440x480.jpg",
+                "href": "/ofertas-selecionadas"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/d1035c68-7d58-4447-be35-0ce76016aa11/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/7f0757c3-4a92-423c-823e-b83bca1a96c9/375x492.jpg",
+                "alt": "Imagem promocional infantil com fundo azul claro. À esquerda, uma menina sorridente usa um vestido rosa claro com camiseta rosa por baixo e uma bolsa do personagem Stitch com corações nos olhos, transmitindo um ar alegre e divertido. À direita, há destaque para um par de galochas azuis com sola rosa, também decoradas com o personagem Stitch e flores cor-de-rosa, reforçando o tema infantil e licenciado da Disney. No centro, os dizeres: “Os mais desejados dos pequenos” com destaque para a palavra “desejados”, e logo abaixo: “A partir de R$ 79,90” com um botão branco escrito “conferir”.  Palavras-chave: moda infantil, promoção, Stitch, Disney, galochas, botas infantis, acessórios infantis, menina sorridente, rosa e azul, R$ 79,90, conferir, personagens licenciados, produtos desejados, roupas para crianças.",
+                "href": "/os-queridinhos"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/75198866-7bd5-4565-b724-448170a82961/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/9073ab0e-9e19-428b-bf29-c5b4347efb2f/375x492.jpg",
+                "alt": "Banner promocional de Tênis Casual, apresentando uma mulher sentada em posição descontraída, usando calça jeans preta e blusa sem mangas branca, combinando com um tênis branco com detalhes em mesh. No lado esquerdo, há um close detalhado do tênis casual, evidenciando conforto e estilo. O texto destaca: \"TÊNIS CASUAL\", com o complemento \"a partir de R$ 89,90\". Na parte inferior central, o botão com o texto \"confira\" convida o cliente a explorar mais opções. O fundo em tom",
+                "href": "/selecao-tenis-casual"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/112f8189-5bc3-4a6a-bcbe-08c53d5d40c0/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/e52966a7-11c5-42ff-b70b-05d839de5181/375x492.jpg",
+                "alt": "Banner promocional feminino do Shopping Oscar, destacando os produtos queridinhos da estação. À esquerda, uma mulher veste um macacão jeans feminino combinado com top branco, transmitindo um estilo casual e moderno. À direita, uma bota feminina preta com salto tratorado e detalhe em corrente, ideal para compor looks estilosos e urbanos. Em destaque, a oferta especial de descontos de até 35% OFF, reforçando as promoções imperdíveis em itens de moda feminina. O botão \"confira\" convida para explorar as novidades da campanha.",
+                "href": "/promocao-feminino"
+              }
+            ],
+            "preload": true
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "Benefícios"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "Banner Grid - 01"
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "AS BOTAS MAIS DESEJADAS DA ESTAÇÃO"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/47dc5f36-770a-4a33-af4e-753b0c2f65a0/396x514_1.jpg",
+                  "href": "/colecao-coturno",
+                  "label": "COTURNO"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/e2d5cf5e-c7c7-4f3f-80e4-b726f0a38806/396x514_2.jpg",
+                  "href": "/colecao-botas-cano-curto",
+                  "label": "CANO BAIXO"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/65fab2a5-f086-471f-ae14-6d194ed77669/396x514_3.jpg",
+                  "href": "/colecao-botas-cano-alto",
+                  "label": "CANO ALTO"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "title": "Elegância em Cada Passo",
+            "markupTitle": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "products": {
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+              "props": {
+                "collection": "258",
+                "sort": "",
+                "count": 16
+              }
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Navegue por categorias"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/cbf0f258-7300-46ec-b89f-5d4c7c84afdb/NEW-BALANCE-WRCELCW4--5-.jpg.webp",
+                  "href": "/tenis-de-treino",
+                  "label": "PARA TREINAR"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/4327f023-f5c9-4c59-aed6-5df344a3d18d/OSC09924.webp",
+                  "href": "https://www.oscarcalcados.com.br/acessorios-femininos/bolsas",
+                  "label": "BOLSAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/818116be-a8ad-4470-bcf2-49a1cc2193b3/Y8362386--10-.jpg.webp",
+                  "href": "/calcados-femininos/sandalias",
+                  "label": "SANDÁLIAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/61032769-66a6-40d8-9abc-6e6c31c2a822/image-(5).png",
+                  "href": "/tenis-infantil",
+                  "label": "TÊNIS INFANTIL"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ee480955-6688-41c7-b2a6-9e1333cb7054/image.png",
+                  "label": "SAPATÊNIS",
+                  "href": "/calcados-masculinos/sapatenis"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "left"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "escolha a sua melhor oferta"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/78f47e8f-4ce6-421a-9719-669632d3c904/396x514.jpg",
+                  "href": "/apostas-esportivas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/9406d79c-4965-4b97-8468-19dd2d67fb23/396x514_1.jpg",
+                  "href": "/colecao-sapatilhas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/e94d1d0e-1312-48a2-bb24-a3159f1e205f/396x514_2.jpg",
+                  "href": "/colecao-de-scarpins"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "title": "Clássicos que Nunca Saem de Moda",
+            "markupTitle": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "products": {
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+              "props": {
+                "collection": "194",
+                "sort": "orders:desc",
+                "count": 16
+              }
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {
+                "title": " ",
+                "description": "<p> </p>",
+                "startDate": "2025-04-02T03:00:00.000Z",
+                "endDate": "2025-04-02T03:01:00.000Z"
+              },
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/232873a4-87af-46b7-9c0b-2101554f2c68/375x400.png",
+                "mobile": "https://assets.decocache.com/oscarcalcados/232873a4-87af-46b7-9c0b-2101554f2c68/375x400.png",
+                "alt": "Imagem promocional destacando o tênis Puma, modelo casual e urbano. O calçado aparece nos pés de uma pessoa usando calça jeans cinza, e possui visual moderno com cabedal preto, solado branco texturizado e a icônica faixa lateral branca da marca. A parte inferior da imagem exibe o logotipo da Puma, reforçando a identidade da marca. Ideal para quem busca estilo e conforto no dia a dia, o tênis Puma casual é uma excelente opção para compor looks versáteis e autênticos.",
+                "href": "/promocao-tenis-esportivo"
+              },
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "orders:desc",
+                    "count": 12,
+                    "collection": "265"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small",
+                  "showArrows": true
+                },
+                "cardLayout": {
+                  "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+                  "layout": {
+                    "hide": {
+                      "productDescription": true,
+                      "skuSelector": true,
+                      "cta": true
+                    },
+                    "show": {
+                      "cta": true,
+                      "allPrices": true,
+                      "productName": true,
+                      "skuSelector": true,
+                      "installments": true,
+                      "productDescription": true
+                    },
+                    "basics": {
+                      "oldPriceSize": "Small",
+                      "contentAlignment": "Left"
+                    },
+                    "onMouseOver": {
+                      "card": "None",
+                      "image": "Change image",
+                      "showCta": false,
+                      "showCardShadow": false,
+                      "showSkuSelector": true,
+                      "showFavoriteIcon": true
+                    },
+                    "elementsPositions": {
+                      "skuSelector": "Top",
+                      "favoriteIcon": "Top right"
+                    },
+                    "backgroundAndBorder": {
+                      "shadow": "None",
+                      "bgColor": "Transparent",
+                      "borderColor": "Transparent",
+                      "borderRadius": "None"
+                    },
+                    "configPix": {
+                      "__resolveType": "Default-Pix"
+                    }
+                  }
+                },
+                "bgGray": false
+              },
+              "activeStopwatch": false,
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "markupTitle": true
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Banner promocional destacando as novidades masculinas em calçados. Ao lado esquerdo, há uma bota masculina em couro preto, com solado robusto e acabamento sofisticado — ideal para composições elegantes e versáteis. À direita, um modelo veste camiseta branca e calça clara, compondo um visual casual que valoriza o estilo contemporâneo. A imagem traz um layout moderno e reforça o foco em moda masculina, com produtos que unem conforto, elegância e qualidade.",
+            "href": "/novidades-masculino",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/6bbac73d-5b96-4e8e-9af8-ba3a65021f23/1312x420.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/8e5cc24b-8eb9-428e-adf4-9feb8e42d595/344x334.jpg"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "247"
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            },
+            "description": "Tenis Esportivos ",
+            "title": "Versatilidade em Cada Passo"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Category/CategoryList.tsx",
+                    "header": {
+                      "title": "OFERTAS IMPERDÍVEIS"
+                    },
+                    "list": [
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/8b0e0e03-79e7-46fd-8fbc-b1def574311f/375x492_1.jpg",
+                        "href": "/selecao-femininos"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/7c8d169e-efc2-453f-84af-011457ff928e/396x514_2.jpg",
+                        "href": "/selecoes-masculino"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/11bd3e6a-19ee-4eb1-bee6-bd31c4e93cc1/396x514_3.jpg",
+                        "href": "/ofertas-selecionadas"
+                      }
+                    ],
+                    "layout": {
+                      "headerAlignment": "center",
+                      "categoryCard": {
+                        "textPosition": "bottom",
+                        "textAlignment": "center"
+                      }
+                    }
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+            "title": "Marcas Parceiras",
+            "content": [
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png",
+                "href": "/adidas",
+                "altText": "Logo Adidas"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+                "href": "/diadora",
+                "altText": "Logo Diadora"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+                "href": "/vizzano",
+                "altText": "Logo Vizzano"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+                "href": "/olympikus",
+                "altText": "Logo Olympikus"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png",
+                "href": "/constantino",
+                "altText": "Logo Constantino"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "href": "/adidas",
+                "altText": "Logo Adidas",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png"
+              },
+              {
+                "href": "/asics",
+                "altText": "Logo Asics",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png"
+              },
+              {
+                "href": "/via-marte",
+                "altText": "Logo Via Marte",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png"
+              },
+              {
+                "href": "/diadora",
+                "altText": "Logo Diadora",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+              },
+              {
+                "href": "/vizzano",
+                "altText": "Logo Vizzano",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+              },
+              {
+                "href": "/olympikus",
+                "altText": "Logo Olympikus",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+              },
+              {
+                "href": "/constantino",
+                "altText": "Logo Constantino",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png"
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Favoritos das influencers"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8a5098e9-adbb-4fd0-9468-204f8cdb693d/290x418_4.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/0a7ca2f4-2765-48e2-a634-540b397faed7/290x418_3.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/5833c380-1b39-4bda-9ca2-7aa7f8ff5594/290x418_2.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sandalias"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/bd0b1945-15c7-405b-9b8f-a5071372a781/290x418_1.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sapatilhas"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://data.decoassets.com/oscarcalcados/81e9cf57-d8ab-4fb6-baf1-b2f0c13c3bd9/1440x270.jpg",
+                  "mobile": "https://data.decoassets.com/oscarcalcados/06ee06b9-536c-491c-9ec2-fee160dccd4e/375x213.jpg",
+                  "href": "/clube-oscar",
+                  "alt": "Aposte no equilíbrio perfeito entre estilo e conforto com este conjunto de moletom feminino bege, uma peça versátil e atemporal que é destaque na moda casual feminina 2025. A modelo exibe um visual clean e sofisticado, com um moletom oversized com capuz e uma calça jogger bege, ideal para quem procura um look confortável e elegante para o dia a dia.  Produzido com tecido macio e de alta durabilidade, esse conjunto de moletom feminino com capuz oferece aconchego em dias frios sem abrir mão do estilo. O tom bege neutro é uma aposta certeira em combinações minimalistas e urbanas, trazendo modernidade ao visual athleisure feminino.  Seja para um passeio descontraído, viagens, ou para curtir momentos de descanso, este outfit feminino streetwear se adapta facilmente a diferentes ocasiões. Combine com tênis brancos ou acessórios dourados para um toque sofisticado e atual. Invista neste conjunto bege feminino e destaque-se com um visual que une tendência, conforto e praticidade."
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/SearchTags.tsx",
+            "title": "procure por",
+            "tags": [
+              {
+                "href": "/calcados-femininos/papetes",
+                "title": "Papete feminina"
+              },
+              {
+                "title": "Sandália feminina",
+                "href": "/calcados-femininos/sandalias"
+              },
+              {
+                "title": "Sandália feminina salto grosso",
+                "href": "/calcados-femininos/sandalias/salto-grosso"
+              },
+              {
+                "title": "Sandália salto alto",
+                "href": "/calcados-femininos/sandalias/salto-alto"
+              },
+              {
+                "title": "Sandália salto fino",
+                "href": "/calcados-femininos/sandalias/salto-fino"
+              },
+              {
+                "title": "Via Marte",
+                "href": "/via-marte"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Moleca",
+                "href": "/moleca"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Beira Rio",
+                "href": "/beira-rio"
+              },
+              {
+                "title": "M Shuz",
+                "href": "/m-shuz"
+              },
+              {
+                "href": "/osc",
+                "title": "OSC"
+              },
+              {
+                "href": "/calcados-femininos/tamancos",
+                "title": "Tamanco feminino"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/anabela",
+                "title": "Sandália anabela"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/plataforma",
+                "title": "Sandália plataforma"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/rasteirinhas",
+                "title": "Rasteirinha feminina"
+              },
+              {
+                "href": "/mississipi",
+                "title": "Mississipi"
+              },
+              {
+                "href": "/vertice",
+                "title": "Vértice calçados"
+              },
+              {
+                "href": "/dakota",
+                "title": "Dakota"
+              },
+              {
+                "href": "/bebece",
+                "title": "Bebecê"
+              },
+              {
+                "href": "/modare",
+                "title": "Modare"
+              },
+              {
+                "href": "/ramarim",
+                "title": "Ramarim"
+              },
+              {
+                "href": "/calcados-femininos/chinelos",
+                "title": "Chinelo feminino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-fino",
+                "title": "Tamanco salto fino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-grosso",
+                "title": "Tamanco salto grosso"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banner APP"
+          },
+          {
+            "__resolveType": "CookiesModal"
+          },
+          {
+            "__resolveType": "Footer Oscar"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/date.ts",
+          "start": "2025-05-22T03:00:00.000Z"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx"
+          },
+          {
+            "__resolveType": "Header Oscar"
+          },
+          {
+            "__resolveType": "site/sections/Content/BenefitContent.tsx",
+            "benefits": [
+              {
+                "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+                "codCupom": "APP50",
+                "labelButton": "Baixe o App Oscar agora",
+                "linkButton": "https://onelink.to/7qk2u8"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "dots": true,
+            "arrows": true,
+            "images": [
+              {
+                "mobile": "https://assets.decocache.com/oscarcalcados/736f1c81-1786-46fa-b122-d1f6a310c312/375x492.jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/6ebdb031-b57b-4469-adac-64509a497d5d/1440x480.jpg",
+                "alt": "Banner promocional de moda outono/inverno, com o título em destaque \"Favoritos da Estação\". Mostra uma mulher vestindo roupas pretas e sapato preto fechado com tiras, sentada de forma descontraída. Ao lado esquerdo, vê-se uma segunda imagem do calçado em detalhe, com uma mulher sentada em um bloco cilíndrico. O banner anuncia 10% OFF com o uso do cupom INVERNO10 e possui um botão chamativo com o texto \"confira\". O fundo é claro e minimalista, valorizando o produto em destaque.",
+                "href": "/inverno"
+              },
+              {
+                "alt": "Banner promocional de Tênis Esportivo, com destaque para uma mulher em posição de corrida, vestindo roupa fitness e um tênis colorido nas cores rosa, verde neon e amarelo fluorescente. À esquerda, há um close do calçado esportivo em evidência. O texto central destaca: \"TÊNIS ESPORTIVO\" e o chamado \"APOSTE NAS NOVIDADES\" em uma faixa com degradê vibrante. Na parte inferior, um botão com o texto \"confira\" convida à ação. O fundo é claro e minimalista, focando na energia e modernidade dos produtos.",
+                "mobile": "https://assets.decocache.com/oscarcalcados/0e08ae0c-4034-4d9a-8a13-dc2c2d8093f5/375x492.jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/52809027-6f6f-4539-9972-ccd1c1df82c4/1440x480.jpg",
+                "href": "/apostas-esportivas"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/ee03da87-880f-43da-a11b-f4438d465482/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/04172280-70fb-49c8-8b63-f86819ff99d3/375x492.jpg",
+                "alt": "Banner promocional de Tênis Casual, apresentando uma mulher sentada em posição descontraída, usando calça jeans preta e blusa sem mangas branca, combinando com um tênis branco com detalhes em mesh. No lado esquerdo, há um close detalhado do tênis casual, evidenciando conforto e estilo. O texto destaca: \"TÊNIS CASUAL\", com o complemento \"a partir de R$ 89,90\". Na parte inferior central, o botão com o texto \"confira\" convida o cliente a explorar mais opções. O fundo em tom",
+                "href": "/selecao-tenis-casual"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/bd6140e4-06eb-4337-846d-7b6314827a01/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/edd61f46-d3a1-4ad1-8cc5-7d364cb4e736/375x492.jpg",
+                "alt": "Banner promocional feminino do Shopping Oscar, destacando os produtos queridinhos da estação. À esquerda, uma mulher veste um macacão jeans feminino combinado com top branco, transmitindo um estilo casual e moderno. À direita, uma bota feminina preta com salto tratorado e detalhe em corrente, ideal para compor looks estilosos e urbanos. Em destaque, a oferta especial de descontos de até 35% OFF, reforçando as promoções imperdíveis em itens de moda feminina. O botão \"confira\" convida para explorar as novidades da campanha.",
+                "href": "/promocao-feminino"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/d2c10f86-c006-47c5-a582-cf0d320f8d00/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/13ee1010-6ecd-4985-9efa-e73b99cf83a5/375x492.jpg",
+                "alt": "Imagem promocional infantil com fundo azul claro. À esquerda, uma menina sorridente usa um vestido rosa claro com camiseta rosa por baixo e uma bolsa do personagem Stitch com corações nos olhos, transmitindo um ar alegre e divertido. À direita, há destaque para um par de galochas azuis com sola rosa, também decoradas com o personagem Stitch e flores cor-de-rosa, reforçando o tema infantil e licenciado da Disney. No centro, os dizeres: “Os mais desejados dos pequenos” com destaque para a palavra “desejados”, e logo abaixo: “A partir de R$ 79,90” com um botão branco escrito “conferir”.  Palavras-chave: moda infantil, promoção, Stitch, Disney, galochas, botas infantis, acessórios infantis, menina sorridente, rosa e azul, R$ 79,90, conferir, personagens licenciados, produtos desejados, roupas para crianças.",
+                "href": "/colecao-infantil"
+              }
+            ],
+            "preload": true
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Imagem promocional do Oscar Calçados destacando o “APP DAY” em 21 de maio. O banner anuncia que é hoje a grande promoção, válida por um só dia, com muuuitas ofertas e descontos exclusivos pelo aplicativo. O destaque principal é o desconto de até 50% OFF em produtos selecionados. A campanha também oferece frete grátis para compras acima de R$ 199,99, válido nas regiões Sul e Sudeste. A imagem mostra uma mulher sentada, usando um conjunto esportivo e tênis New Balance, ilustrando um dos produtos possíveis da oferta. Há também um aviso para consultar o regulamento da promoção.  Palavras-chave: promoção, app day, Oscar Calçados, descontos, 50% off, frete grátis, 21 de maio, ofertas exclusivas, aplicativo, tênis New Balance, Sul e Sudeste, regulamento.",
+            "href": "https://www.oscarcalcados.com.br/app-loja-oscar",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/99db00ee-488a-4723-bfd2-abff8e97362d/1550x450.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/3a096b9c-a9f4-4961-9460-b0fc569f2876/1080x1080.jpg"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "Benefícios"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "Banner Grid - 01"
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "AS BOTAS MAIS DESEJADAS DA ESTAÇÃO"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/9a719af0-ce54-4520-a039-5f826b89fa5e/396x514_1.jpg",
+                  "href": "/colecao-coturno",
+                  "label": "COTURNO"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/b10969ab-ab5e-4630-932d-79e72ea1e37b/396x514_2.jpg",
+                  "href": "/colecao-botas-cano-curto",
+                  "label": "CANO BAIXO"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/a00ee282-f4f1-4ccc-b27e-524cf184a711/396x514_3.jpg",
+                  "href": "/colecao-botas-cano-alto",
+                  "label": "CANO ALTO"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Navegue por categorias"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/cbf0f258-7300-46ec-b89f-5d4c7c84afdb/NEW-BALANCE-WRCELCW4--5-.jpg.webp",
+                  "href": "/tenis-de-treino",
+                  "label": "PARA TREINAR"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/4327f023-f5c9-4c59-aed6-5df344a3d18d/OSC09924.webp",
+                  "href": "https://www.oscarcalcados.com.br/acessorios-femininos/bolsas",
+                  "label": "BOLSAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/818116be-a8ad-4470-bcf2-49a1cc2193b3/Y8362386--10-.jpg.webp",
+                  "href": "/calcados-femininos/sandalias",
+                  "label": "SANDÁLIAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/61032769-66a6-40d8-9abc-6e6c31c2a822/image-(5).png",
+                  "href": "/tenis-infantil",
+                  "label": "TÊNIS INFANTIL"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ee480955-6688-41c7-b2a6-9e1333cb7054/image.png",
+                  "label": "SAPATÊNIS",
+                  "href": "/calcados-masculinos/sapatenis"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "left"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "escolha a sua melhor oferta"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/68c8a440-d543-440d-84b9-c15bc2fa529c/396x514.jpg",
+                  "href": "/ofertas-selecionadas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/9406d79c-4965-4b97-8468-19dd2d67fb23/396x514_1.jpg",
+                  "href": "/colecao-sapatilhas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/e94d1d0e-1312-48a2-bb24-a3159f1e205f/396x514_2.jpg",
+                  "href": "/colecao-de-scarpins"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "title": "Clássicos que Nunca Saem de Moda",
+            "markupTitle": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "products": {
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+              "props": {
+                "collection": "194",
+                "sort": "orders:desc",
+                "count": 16
+              }
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+              "stopwatch": {
+                "title": " ",
+                "description": "<p> </p>",
+                "startDate": "2025-04-02T03:00:00.000Z",
+                "endDate": "2025-04-02T03:01:00.000Z"
+              },
+              "bgColor": "#f5f5f5",
+              "image": {
+                "desktop": "https://assets.decocache.com/oscarcalcados/95e86edd-4f9d-4ed0-92c8-fab3feb37922/375x400.png",
+                "mobile": "https://assets.decocache.com/oscarcalcados/d39c4d02-7a2c-42da-a1f4-4cdf7f524ef5/375x400.png",
+                "alt": "Imagem promocional destacando o tênis Puma, modelo casual e urbano. O calçado aparece nos pés de uma pessoa usando calça jeans cinza, e possui visual moderno com cabedal preto, solado branco texturizado e a icônica faixa lateral branca da marca. A parte inferior da imagem exibe o logotipo da Puma, reforçando a identidade da marca. Ideal para quem busca estilo e conforto no dia a dia, o tênis Puma casual é uma excelente opção para compor looks versáteis e autênticos.",
+                "href": "/puma"
+              },
+              "title": "O MELHOR DA PUMA",
+              "section": {
+                "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "sort": "orders:desc",
+                    "count": 12,
+                    "fuzzy": "automatic",
+                    "query": "/puma"
+                  }
+                },
+                "layout": {
+                  "numberOfSliders": {
+                    "mobile": 2,
+                    "desktop": 4
+                  },
+                  "headerAlignment": "center",
+                  "headerfontSize": "Small",
+                  "showArrows": true
+                },
+                "cardLayout": {
+                  "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+                  "layout": {
+                    "hide": {
+                      "productDescription": true,
+                      "skuSelector": true,
+                      "cta": true
+                    },
+                    "show": {
+                      "cta": true,
+                      "allPrices": true,
+                      "productName": true,
+                      "skuSelector": true,
+                      "installments": true,
+                      "productDescription": true
+                    },
+                    "basics": {
+                      "oldPriceSize": "Small",
+                      "contentAlignment": "Left"
+                    },
+                    "onMouseOver": {
+                      "card": "None",
+                      "image": "Change image",
+                      "showCta": false,
+                      "showCardShadow": false,
+                      "showSkuSelector": true,
+                      "showFavoriteIcon": true
+                    },
+                    "elementsPositions": {
+                      "skuSelector": "Top",
+                      "favoriteIcon": "Top right"
+                    },
+                    "backgroundAndBorder": {
+                      "shadow": "None",
+                      "bgColor": "Transparent",
+                      "borderColor": "Transparent",
+                      "borderRadius": "None"
+                    },
+                    "configPix": {
+                      "__resolveType": "Default-Pix"
+                    }
+                  }
+                },
+                "bgGray": false
+              },
+              "activeStopwatch": false,
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "markupTitle": true
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "Banner promocional destacando as novidades masculinas em calçados. Ao lado esquerdo, há uma bota masculina em couro preto, com solado robusto e acabamento sofisticado — ideal para composições elegantes e versáteis. À direita, um modelo veste camiseta branca e calça clara, compondo um visual casual que valoriza o estilo contemporâneo. A imagem traz um layout moderno e reforça o foco em moda masculina, com produtos que unem conforto, elegância e qualidade.",
+            "href": "/novidades-masculino",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/6bbac73d-5b96-4e8e-9af8-ba3a65021f23/1312x420.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/8e5cc24b-8eb9-428e-adf4-9feb8e42d595/344x334.jpg"
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "247"
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            },
+            "description": "Tenis Esportivos ",
+            "title": "Versatilidade em Cada Passo"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Category/CategoryList.tsx",
+                    "header": {
+                      "title": "OFERTAS IMPERDÍVEIS"
+                    },
+                    "list": [
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/8b0e0e03-79e7-46fd-8fbc-b1def574311f/375x492_1.jpg",
+                        "href": "/selecao-femininos"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/7c8d169e-efc2-453f-84af-011457ff928e/396x514_2.jpg",
+                        "href": "/selecoes-masculino"
+                      },
+                      {
+                        "image": "https://assets.decocache.com/oscarcalcados/11bd3e6a-19ee-4eb1-bee6-bd31c4e93cc1/396x514_3.jpg",
+                        "href": "/ofertas-selecionadas"
+                      }
+                    ],
+                    "layout": {
+                      "headerAlignment": "center",
+                      "categoryCard": {
+                        "textPosition": "bottom",
+                        "textAlignment": "center"
+                      }
+                    }
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+            "title": "Marcas Parceiras",
+            "content": [
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png",
+                "href": "/adidas",
+                "altText": "Logo Adidas"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+                "href": "/diadora",
+                "altText": "Logo Diadora"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+                "href": "/vizzano",
+                "altText": "Logo Vizzano"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+                "href": "/olympikus",
+                "altText": "Logo Olympikus"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png",
+                "href": "/constantino",
+                "altText": "Logo Constantino"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "href": "/adidas",
+                "altText": "Logo Adidas",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png"
+              },
+              {
+                "href": "/asics",
+                "altText": "Logo Asics",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png"
+              },
+              {
+                "href": "/via-marte",
+                "altText": "Logo Via Marte",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png"
+              },
+              {
+                "href": "/diadora",
+                "altText": "Logo Diadora",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+              },
+              {
+                "href": "/vizzano",
+                "altText": "Logo Vizzano",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+              },
+              {
+                "href": "/olympikus",
+                "altText": "Logo Olympikus",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+              },
+              {
+                "href": "/constantino",
+                "altText": "Logo Constantino",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png"
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Favoritos das influencers"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8a5098e9-adbb-4fd0-9468-204f8cdb693d/290x418_4.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/0a7ca2f4-2765-48e2-a634-540b397faed7/290x418_3.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/5833c380-1b39-4bda-9ca2-7aa7f8ff5594/290x418_2.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sandalias"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/bd0b1945-15c7-405b-9b8f-a5071372a781/290x418_1.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sapatilhas"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://data.decoassets.com/oscarcalcados/81e9cf57-d8ab-4fb6-baf1-b2f0c13c3bd9/1440x270.jpg",
+                  "mobile": "https://data.decoassets.com/oscarcalcados/06ee06b9-536c-491c-9ec2-fee160dccd4e/375x213.jpg",
+                  "href": "/clube-oscar",
+                  "alt": "Aposte no equilíbrio perfeito entre estilo e conforto com este conjunto de moletom feminino bege, uma peça versátil e atemporal que é destaque na moda casual feminina 2025. A modelo exibe um visual clean e sofisticado, com um moletom oversized com capuz e uma calça jogger bege, ideal para quem procura um look confortável e elegante para o dia a dia.  Produzido com tecido macio e de alta durabilidade, esse conjunto de moletom feminino com capuz oferece aconchego em dias frios sem abrir mão do estilo. O tom bege neutro é uma aposta certeira em combinações minimalistas e urbanas, trazendo modernidade ao visual athleisure feminino.  Seja para um passeio descontraído, viagens, ou para curtir momentos de descanso, este outfit feminino streetwear se adapta facilmente a diferentes ocasiões. Combine com tênis brancos ou acessórios dourados para um toque sofisticado e atual. Invista neste conjunto bege feminino e destaque-se com um visual que une tendência, conforto e praticidade."
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/SearchTags.tsx",
+            "title": "procure por",
+            "tags": [
+              {
+                "href": "/calcados-femininos/papetes",
+                "title": "Papete feminina"
+              },
+              {
+                "title": "Sandália feminina",
+                "href": "/calcados-femininos/sandalias"
+              },
+              {
+                "title": "Sandália feminina salto grosso",
+                "href": "/calcados-femininos/sandalias/salto-grosso"
+              },
+              {
+                "title": "Sandália salto alto",
+                "href": "/calcados-femininos/sandalias/salto-alto"
+              },
+              {
+                "title": "Sandália salto fino",
+                "href": "/calcados-femininos/sandalias/salto-fino"
+              },
+              {
+                "title": "Via Marte",
+                "href": "/via-marte"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Moleca",
+                "href": "/moleca"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Beira Rio",
+                "href": "/beira-rio"
+              },
+              {
+                "title": "M Shuz",
+                "href": "/m-shuz"
+              },
+              {
+                "href": "/osc",
+                "title": "OSC"
+              },
+              {
+                "href": "/calcados-femininos/tamancos",
+                "title": "Tamanco feminino"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/anabela",
+                "title": "Sandália anabela"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/plataforma",
+                "title": "Sandália plataforma"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/rasteirinhas",
+                "title": "Rasteirinha feminina"
+              },
+              {
+                "href": "/mississipi",
+                "title": "Mississipi"
+              },
+              {
+                "href": "/vertice",
+                "title": "Vértice calçados"
+              },
+              {
+                "href": "/dakota",
+                "title": "Dakota"
+              },
+              {
+                "href": "/bebece",
+                "title": "Bebecê"
+              },
+              {
+                "href": "/modare",
+                "title": "Modare"
+              },
+              {
+                "href": "/ramarim",
+                "title": "Ramarim"
+              },
+              {
+                "href": "/calcados-femininos/chinelos",
+                "title": "Chinelo feminino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-fino",
+                "title": "Tamanco salto fino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-grosso",
+                "title": "Tamanco salto grosso"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banner APP"
+          },
+          {
+            "__resolveType": "CookiesModal"
+          },
+          {
+            "__resolveType": "Footer Oscar"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/date.ts",
+          "start": "2025-05-13T12:00:00.000Z"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Seo/SeoV2.tsx"
+          },
+          {
+            "__resolveType": "Header Oscar"
+          },
+          {
+            "__resolveType": "site/sections/Content/BenefitContent.tsx",
+            "benefits": [
+              {
+                "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+                "codCupom": "APP50",
+                "labelButton": "Baixe o App Oscar agora",
+                "linkButton": "https://onelink.to/7qk2u8"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "dots": true,
+            "arrows": true,
+            "images": [
+              {
+                "mobile": "https://assets.decocache.com/oscarcalcados/d8e153bd-7872-477b-93e6-c35b5c1957e1/375x492.jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/37c975af-308f-449c-a195-188ac7e922fd/1440x480.jpg",
+                "alt": "Imagem promocional de botas femininas pretas em destaque, ideal para campanhas de moda outono inverno. Uma mulher estilosa veste bota de couro com cadarço, combinada com meia-calça preta e trench coat bege, formando um look moderno e sofisticado. O anúncio apresenta o texto “Botas a partir de R$ 69,90” em destaque, reforçando a oferta especial de botas femininas. Perfeito para vitrines de calçados femininos, banners de e-commerce ou posts em redes sociais com foco em botas estilosas, bota cano médio, bota confortável e tendência em calçados femininos.",
+                "href": "https://www.oscarcalcados.com.br/colecao-de-botas"
+              },
+              {
+                "alt": "A imagem mostra uma mulher jovem, com cabelos cacheados, usando um conjunto de moletom feminino rosa claro. Ela está em pé contra um fundo neutro, com expressão confiante e moderna. O look é casual e confortável, ideal para o dia a dia ou momentos de lazer. O conjunto tem um design minimalista, com capuz e calça jogger.",
+                "mobile": "https://assets.decocache.com/oscarcalcados/5b92ea4d-7037-4981-99ec-ac411dd6899a/375x492.jpg",
+                "desktop": "https://assets.decocache.com/oscarcalcados/81799bb7-2fc7-491a-8e1d-62498e592429/1440x480.jpg",
+                "href": "/dia-das-maes-oscar"
+              },
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/4b7cb344-f4dd-454f-966d-60e8434828ab/1440x480.jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/6ac3ea56-b052-4d26-ba28-c468b256febb/375x492.jpg",
+                "alt": "Descubra o conforto e o estilo do conjunto de moletom feminino rosa claro, perfeito para quem busca um look casual e moderno. Este moletom com capuz feminino é ideal para os dias mais frios, combinando praticidade e elegância em um só visual. A peça apresenta uma modelagem confortável com calça jogger feminina, valorizando a silhueta e oferecendo liberdade de movimento para o dia a dia.  Feito em tecido macio e de alta qualidade, esse conjunto athleisure feminino é tendência em moda inverno 2025, sendo a escolha certa para momentos de lazer, home office ou passeios urbanos. O tom rosa pastel traz delicadeza e feminilidade, enquanto o design minimalista reforça o conceito de uma moda confortável e versátil.  Seja para compor um outfit streetwear feminino ou para investir em uma produção básica e estilosa, este moletom rosa feminino é essencial no guarda-roupa de quem valoriza conforto com atitude.",
+                "href": "/inverno"
+              }
+            ],
+            "preload": true
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "H1 - Home"
+            }
+          },
+          {
+            "__resolveType": "Benefícios"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "Banner Grid - 01"
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "escolha o presente ideal para cada estilo de mãe"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/db402e9f-0081-41e6-b7b0-7adc8e0d60bc/3--Casual.jpg",
+                  "href": "/estilo-casual"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/29149165-2569-43f5-aca6-a6577d1ad109/1--Moderna.jpg",
+                  "href": "/estilo-moderno"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/411ed944-094a-441f-9ad5-a06d750182b0/4--Esportiva.jpg",
+                  "href": "/estilo-esportivo"
+                },
+                {
+                  "href": "/estilo-classico",
+                  "image": "https://assets.decocache.com/oscarcalcados/d6a422d9-ffab-462c-8d80-aa3185f1c0c0/2--Classica.jpg"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Navegue por categorias"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/f26317ed-4333-4982-ac65-46e5490c0f8c/98009013811--1-.jpg.webp",
+                  "href": "/calcados-femininos/botas",
+                  "label": "BOTAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/ee480955-6688-41c7-b2a6-9e1333cb7054/image.png",
+                  "href": "/calcados-masculinos/sapatenis",
+                  "label": "SAPATÊNIS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/19adb174-8cee-4c20-82d3-ad30621d23f2/6464133386--4-.jpg.webp",
+                  "href": "/calcados-femininos/sandalias",
+                  "label": "SANDÁLIAS"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/77390044-3631-41d8-a7b3-2082e0cb00f4/a3d22824-5ff4-4b40-8bbc-110e6b657ce4.jpg",
+                  "href": "/tenis-de-treino",
+                  "label": "PARA TREINAR"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/61032769-66a6-40d8-9abc-6e6c31c2a822/image-(5).png",
+                  "label": "TÊNIS INFANTIL",
+                  "href": "/tenis-infantil"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/9ca4bdd6-1717-4666-8cd2-97d6c282daf4/T20190613811--9-.jpg.webp",
+                  "href": "/calcados-femininos/sapatilhas",
+                  "label": "SAPATILHAS"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textAlignment": "left",
+                  "textPosition": "bottom"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "title": "botas para tornar o Dia das Mães ainda mais especial",
+            "markupTitle": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "products": {
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+              "props": {
+                "collection": "208",
+                "sort": "",
+                "count": 16
+              }
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Banner.tsx",
+            "bgGray": false,
+            "alt": "A imagem é um banner publicitário que promove um tênis esportivo da Adidas. À esquerda, há um tênis flutuando em destaque, com design vibrante nas cores roxo, amarelo neon, rosa e detalhes em branco. No tênis, lê-se “ADIZERO BOSTON 12”.  Ao centro, está a frase promocional:  \"NA CORRIDA ou NA ROTINA, SEMPRE NO SEU PASSO.\"  Abaixo do texto há um botão com o texto: \"conferir\".  À direita da imagem, duas mulheres estão vestidas com roupas esportivas em tons terrosos. Ambas usam o mesmo modelo de tênis em destaque. Uma está sentada com a perna dobrada e a outra agachada, demonstrando conforto e estilo. O fundo é em tom bege uniforme, dando ênfase ao produto e às modelos.",
+            "href": "/promocao-tenis-esportivo",
+            "srcDesktop": "https://assets.decocache.com/oscarcalcados/8e00301f-210d-4feb-ae14-c33a20eace1f/1440x480.jpg",
+            "borderRadius": "xl",
+            "srcMobile": "https://assets.decocache.com/oscarcalcados/81281945-820b-4626-8eb5-a4e33cda97b8/550x485.jpg"
+          },
+          {
+            "__resolveType": "website/flags/multivariate/section.ts",
+            "variants": [
+              {
+                "value": {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+                    "stopwatch": {
+                      "title": " ",
+                      "description": "<p> </p>",
+                      "startDate": "2025-04-02T03:00:00.000Z",
+                      "endDate": "2025-04-02T03:01:00.000Z"
+                    },
+                    "bgColor": "#f5f5f5",
+                    "image": {
+                      "desktop": "https://assets.decocache.com/oscarcalcados/029bf94c-abcd-42ca-95ea-5e6421be40e4/oscarmaes-483.webp",
+                      "mobile": "https://assets.decocache.com/oscarcalcados/47017bce-2e60-4070-a265-db2a462f79d2/oscarmaes-483.webp",
+                      "alt": "Tênis Esportivo",
+                      "href": "/promocao-tenis-esportivo"
+                    },
+                    "title": "Os Tênis Mais Desejados do Momento",
+                    "section": {
+                      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+                      "products": {
+                        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                        "props": {
+                          "sort": "",
+                          "count": 12,
+                          "collection": "225"
+                        }
+                      },
+                      "layout": {
+                        "numberOfSliders": {
+                          "mobile": 2,
+                          "desktop": 4
+                        },
+                        "headerAlignment": "center",
+                        "headerfontSize": "Small",
+                        "showArrows": true
+                      },
+                      "cardLayout": {
+                        "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+                        "layout": {
+                          "hide": {
+                            "productDescription": true,
+                            "skuSelector": true,
+                            "cta": true
+                          },
+                          "show": {
+                            "cta": true,
+                            "allPrices": true,
+                            "productName": true,
+                            "skuSelector": true,
+                            "installments": true,
+                            "productDescription": true
+                          },
+                          "basics": {
+                            "oldPriceSize": "Small",
+                            "contentAlignment": "Left"
+                          },
+                          "onMouseOver": {
+                            "card": "None",
+                            "image": "Change image",
+                            "showCta": false,
+                            "showCardShadow": false,
+                            "showSkuSelector": true,
+                            "showFavoriteIcon": true
+                          },
+                          "elementsPositions": {
+                            "skuSelector": "Top",
+                            "favoriteIcon": "Top right"
+                          },
+                          "backgroundAndBorder": {
+                            "shadow": "None",
+                            "bgColor": "Transparent",
+                            "borderColor": "Transparent",
+                            "borderRadius": "None"
+                          },
+                          "configPix": {
+                            "__resolveType": "Default-Pix"
+                          }
+                        }
+                      },
+                      "bgGray": false
+                    },
+                    "activeStopwatch": false,
+                    "headerAlignment": "center",
+                    "headerfontSize": "Normal"
+                  }
+                },
+                "rule": {
+                  "__resolveType": "website/matchers/never.ts"
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "title": "Seleção especial Adidas ",
+            "markupTitle": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "products": {
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+              "props": {
+                "sort": "orders:desc",
+                "fuzzy": "automatic",
+                "query": "adidas feminino",
+                "count": 16
+              }
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "As Marcas mais acessadas"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/f80decd9-20b1-4925-8ff8-9e5ca7eb73d2/396x514_2.jpg",
+                  "href": "/all-star"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/cee3632e-7253-4399-a993-f55ba940b497/396x514_1.jpg",
+                  "href": "/new-balance"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6010bf14-277c-4b66-8bd5-e526647d1a99/396x514_3.jpg",
+                  "href": "/nike"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductShelf.tsx",
+            "bgGray": false,
+            "layout": {
+              "headerAlignment": "center",
+              "showArrows": true,
+              "headerfontSize": "Small",
+              "numberOfSliders": {
+                "mobile": 2,
+                "desktop": 4
+              }
+            },
+            "markupTitle": false,
+            "products": {
+              "props": {
+                "sort": "",
+                "count": 16,
+                "collection": "152",
+                "hideUnavailableItems": true
+              },
+              "crossSelling": "similars",
+              "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+            },
+            "cardLayout": {
+              "layout": {
+                "hide": {
+                  "allPrices": false,
+                  "skuSelector": true,
+                  "favoriteIcon": false,
+                  "installments": false,
+                  "productDescription": true,
+                  "cta": true
+                },
+                "basics": {
+                  "oldPriceSize": "Small",
+                  "contentAlignment": "Left"
+                },
+                "onMouseOver": {
+                  "card": "None",
+                  "image": "Change image",
+                  "showCta": false,
+                  "showCardShadow": false,
+                  "showSkuSelector": false,
+                  "showFavoriteIcon": true
+                },
+                "elementsPositions": {
+                  "skuSelector": "Top",
+                  "favoriteIcon": "Top right"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+            },
+            "description": "Tenis Esportivos ",
+            "title": "Tênis Casual Estilo Urbano e Conforto"
+          },
+          {
+            "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+            "title": "Marcas Parceiras",
+            "content": [
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png",
+                "href": "/adidas",
+                "altText": "Logo Adidas"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png",
+                "href": "/asics",
+                "altText": "Logo Asics"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png",
+                "href": "/via-marte",
+                "altText": "Logo Via Marte"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png",
+                "href": "/diadora",
+                "altText": "Logo Diadora"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png",
+                "href": "/vizzano",
+                "altText": "Logo Vizzano"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png",
+                "href": "/olympikus",
+                "altText": "Logo Olympikus"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png",
+                "href": "/constantino",
+                "altText": "Logo Constantino"
+              },
+              {
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6fde39a9-77fe-4562-bfb0-c758c4519b81/Rectangle-7.png",
+                "href": "/mizuno",
+                "altText": "Logo Mizuno"
+              },
+              {
+                "href": "/adidas",
+                "altText": "Logo Adidas",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/7776f8da-ae92-42c1-8e73-1f94dfe30273/Rectangle-8.png"
+              },
+              {
+                "href": "/asics",
+                "altText": "Logo Asics",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/f8e18095-03fe-4a7b-ab2d-5c50e730b43b/Rectangle-9.png"
+              },
+              {
+                "href": "/via-marte",
+                "altText": "Logo Via Marte",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/40a8a712-df9d-41dc-85d2-d937ccddec6b/Rectangle-10.png"
+              },
+              {
+                "href": "/diadora",
+                "altText": "Logo Diadora",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/dbe8df50-e610-4720-908f-387c2a2c6889/Rectangle-11.png"
+              },
+              {
+                "href": "/vizzano",
+                "altText": "Logo Vizzano",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3808d30a-5268-4c2b-a7ae-c0f95939e6fe/Rectangle-12.png"
+              },
+              {
+                "href": "/olympikus",
+                "altText": "Logo Olympikus",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3fd078d4-cf99-4159-9228-f66fb159212b/Rectangle-13.png"
+              },
+              {
+                "href": "/constantino",
+                "altText": "Logo Constantino",
+                "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/756a6c35-c109-4f7a-b84a-957d235dac84/Rectangle-14.png"
+              }
+            ]
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "header": {
+                "title": "Favoritos das influencers"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/8a5098e9-adbb-4fd0-9468-204f8cdb693d/290x418_4.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/scarpins"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/0a7ca2f4-2765-48e2-a634-540b397faed7/290x418_3.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/tenis"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/5833c380-1b39-4bda-9ca2-7aa7f8ff5594/290x418_2.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sandalias"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/bd0b1945-15c7-405b-9b8f-a5071372a781/290x418_1.jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos/sapatilhas"
+                }
+              ],
+              "layout": {
+                "headerAlignment": "center",
+                "categoryCard": {
+                  "textPosition": "bottom",
+                  "textAlignment": "center"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+              "images": [
+                {
+                  "desktop": "https://data.decoassets.com/oscarcalcados/81e9cf57-d8ab-4fb6-baf1-b2f0c13c3bd9/1440x270.jpg",
+                  "mobile": "https://data.decoassets.com/oscarcalcados/06ee06b9-536c-491c-9ec2-fee160dccd4e/375x213.jpg",
+                  "href": "/clube-oscar",
+                  "alt": "Aposte no equilíbrio perfeito entre estilo e conforto com este conjunto de moletom feminino bege, uma peça versátil e atemporal que é destaque na moda casual feminina 2025. A modelo exibe um visual clean e sofisticado, com um moletom oversized com capuz e uma calça jogger bege, ideal para quem procura um look confortável e elegante para o dia a dia.  Produzido com tecido macio e de alta durabilidade, esse conjunto de moletom feminino com capuz oferece aconchego em dias frios sem abrir mão do estilo. O tom bege neutro é uma aposta certeira em combinações minimalistas e urbanas, trazendo modernidade ao visual athleisure feminino.  Seja para um passeio descontraído, viagens, ou para curtir momentos de descanso, este outfit feminino streetwear se adapta facilmente a diferentes ocasiões. Combine com tênis brancos ou acessórios dourados para um toque sofisticado e atual. Invista neste conjunto bege feminino e destaque-se com um visual que une tendência, conforto e praticidade."
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "site/sections/Content/SearchTags.tsx",
+            "title": "procure por",
+            "tags": [
+              {
+                "href": "/calcados-femininos/papetes",
+                "title": "Papete feminina"
+              },
+              {
+                "title": "Sandália feminina",
+                "href": "/calcados-femininos/sandalias"
+              },
+              {
+                "title": "Sandália feminina salto grosso",
+                "href": "/calcados-femininos/sandalias/salto-grosso"
+              },
+              {
+                "title": "Sandália salto alto",
+                "href": "/calcados-femininos/sandalias/salto-alto"
+              },
+              {
+                "title": "Sandália salto fino",
+                "href": "/calcados-femininos/sandalias/salto-fino"
+              },
+              {
+                "title": "Via Marte",
+                "href": "/via-marte"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Moleca",
+                "href": "/moleca"
+              },
+              {
+                "title": "Vizzano",
+                "href": "/vizzano"
+              },
+              {
+                "title": "Beira Rio",
+                "href": "/beira-rio"
+              },
+              {
+                "title": "M Shuz",
+                "href": "/m-shuz"
+              },
+              {
+                "href": "/osc",
+                "title": "OSC"
+              },
+              {
+                "href": "/calcados-femininos/tamancos",
+                "title": "Tamanco feminino"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/anabela",
+                "title": "Sandália anabela"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/plataforma",
+                "title": "Sandália plataforma"
+              },
+              {
+                "href": "/calcados-femininos/sandalias/rasteirinhas",
+                "title": "Rasteirinha feminina"
+              },
+              {
+                "href": "/mississipi",
+                "title": "Mississipi"
+              },
+              {
+                "href": "/colecao-stitch",
+                "title": "Sapatos do Stitch"
+              },
+              {
+                "href": "/dakota",
+                "title": "Dakota"
+              },
+              {
+                "href": "/bebece",
+                "title": "Bebecê"
+              },
+              {
+                "href": "/modare",
+                "title": "Modare"
+              },
+              {
+                "href": "/ramarim",
+                "title": "Ramarim"
+              },
+              {
+                "href": "/calcados-femininos/chinelos",
+                "title": "Chinelo feminino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-fino",
+                "title": "Tamanco salto fino"
+              },
+              {
+                "href": "/calcados-femininos/tamancos/salto-grosso",
+                "title": "Tamanco salto grosso"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Banner APP"
+          },
+          {
+            "__resolveType": "CookiesModal"
+          },
+          {
+            "__resolveType": "Footer Oscar"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

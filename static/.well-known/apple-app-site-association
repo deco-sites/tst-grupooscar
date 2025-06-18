@@ -1,0 +1,23 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "P5QZM46937.com.kobe.oscarcalcados"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "P5QZM46937.com.kobe.oscarcalcados",
+        "paths": [
+          "*/p",
+          "/*",
+          "/",
+          "*/cart",
+          "/wishlist",
+          "/login"
+        ]
+      }
+    ]
+  }
+}

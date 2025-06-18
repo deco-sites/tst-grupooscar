@@ -1,0 +1,1 @@
+export {default, LabelBonifiq} from "$store/components/header/Bonifiq.tsx"

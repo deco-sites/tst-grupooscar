@@ -1,0 +1,27 @@
+{
+  "name": "Páginas institucionais",
+  "path": "/institucional/*",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "Button Navigation"
+    },
+    {
+      "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+      "title": "Política de Privacidade",
+      "content": "<p style=\"text-align: center\">Compra segura<br><br>Endereços, telefones e e-mail são utilizados pela Oscar Calçados somente para contatos referentes à suas compras. E-mail marketing promocionais são enviados com previa autorização do cliente e poderão ter sua assinatura cancelada a qualquer momento.<br><br>Suas senhas e os dados do cartão de crédito são criptografados, bem como as informações da compra, esses dados são utilizados somente pela administradora do cartão e após a confirmação da transação todos os números do seu cartão são destruídos, não sendo armazenados em nenhuma hipótese dados do seu cartão em nossos bancos de dados.<br><br>AVISO DE PRIVACIDADE</p><p style=\"text-align: center\"></p><p style=\"text-align: center\">A Oscar Calçados valoriza a privacidade dos usuários de seu website.</p><p style=\"text-align: center\"></p><p style=\"text-align: center\">Este Aviso de Privacidade apresenta informações sobre a coleta e o tratamento dos seus dados pessoais no ambiente corporativo e alinha-se com a Política de Privacidade do Grupo Oscar e com as diretrizes da Lei Geral de Proteção de Dados.</p><p style=\"text-align: center\"></p><p style=\"text-align: center\">Caso surja qualquer dúvida sobre seus direitos ou a respeito da utilização de seus dados pessoais, entre em contato com o&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:privacidade@oscarcalcados.com.br\">privacidade@oscarcalcados.com.br</a></p>"
+    },
+    {
+      "__resolveType": "Banner APP"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

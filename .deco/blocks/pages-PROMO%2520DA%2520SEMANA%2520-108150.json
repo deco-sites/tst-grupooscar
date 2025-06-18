@@ -1,0 +1,100 @@
+{
+  "name": "PROMO DA SEMANA ",
+  "path": "/promo-da-semana",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/UxWriting.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h1",
+          "matcher": "/promo-da-semana",
+          "title": "Promo da Semana: Ofertas Imperdíveis",
+          "description": "<p>Descubra a promoção da semana e aproveite ofertas imperdíveis em diversos produtos.</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/BenefitContent.tsx",
+        "benefits": [
+          {
+            "text": "<p><strong>Ganhe 10% de desconto em produtos desta lista! Use o cupom:</strong></p>",
+            "codCupom": "BIBI10",
+            "labelButton": "Regulamento",
+            "linkButton": "Regulamento"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "query": "/bibi",
+          "count": 24,
+          "sort": "orders:desc",
+          "fuzzy": "automatic",
+          "selectedFacets": [],
+          "advancedConfigs": {
+            "includeOriginalAttributes": []
+          }
+        },
+        "layout": {
+          "variant": "aside",
+          "columns": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "cardLayout": {
+          "__resolveType": "Product Card Layout - 01"
+        },
+        "startingPage": 1,
+        "minFilterPrice": 50,
+        "maxFilterPrice": 1.999
+      }
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/promo-da-semana",
+            "title": "Promoções de Calçados da Semana - Melhores ofertas!",
+            "description": "Toda semana uma seleção nova de promoções em calçados masculinos e feminos! Confira nossa lista e garanta os melhores preços. Acesse!"
+          }
+        ],
+        "title": "promo-da-semana"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+      "sort": "",
+      "count": 24,
+      "fuzzy": "disabled",
+      "selectedFacets": [
+        {
+          "key": "productClusterIds",
+          "value": "183"
+        }
+      ],
+      "hideUnavailableItems": true,
+      "advancedConfigs": {
+        "includeOriginalAttributes": []
+      },
+      "pageOffset": 1
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

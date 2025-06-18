@@ -1,0 +1,251 @@
+{
+  "name": "Haus Creators",
+  "path": "/haus-creators-oscar",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "preload": true,
+      "images": [
+        {
+          "desktop": "https://assets.decocache.com/oscarcalcados/d1ff1e84-eda5-4d2d-8050-f060ca5bf548/1440x480-(3).jpg",
+          "mobile": "https://assets.decocache.com/oscarcalcados/05e9d059-119e-413e-a2a4-97e86f4da26e/375x492-(3).jpg",
+          "alt": "Um smartphone com tela rosa e vermelha exibindo uma mulher sorridente vestindo um vestido cinza. Na tela, há o logo 'Haus Creators' e o texto 'Crie conteúdos, inspire seu público e ganhe recompensas incríveis. Inscreva-se'",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSct0fkBMt_dT1oONNIdpq3y0yYvfmhFBcjk2Psy96jOb_q55A/viewform"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+      "title": "O QUE É O PROGRAMA?",
+      "content": "<p>O Haus Creators Oscar é um programa de influencers da Oscar, projetado para influenciadores que desejam criar conteúdo, engajar suas comunidades e monetizar suas redes sociais. Com categorias para perfis de diferentes tamanhos e benefícios que crescem junto com sua influência, o programa é ideal para quem deseja levar sua presença digital para outro nível!</p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/ImageWithModal.tsx",
+        "title": "BENEFÍCIOS",
+        "cards": [
+          {
+            "imageCard": "https://assets.decocache.com/oscarcalcados/c967f4dc-13b9-4bc4-a913-3914c4c5e0f0/320x320_1.jpg",
+            "content": "<p>O influenciador ganha vouchers de compras que variam de R$250 a R$1.000 ao ingressar no programa.</p>",
+            "alt": "voucher"
+          },
+          {
+            "imageCard": "https://assets.decocache.com/oscarcalcados/1935211f-13a4-4eed-b79d-90d27eb766d6/320x320_2.jpg",
+            "content": "<p>Encontros online com nosso time para dicas de moda, influência e insights sobre o mercado.</p>",
+            "alt": "treinamento"
+          },
+          {
+            "imageCard": "https://assets.decocache.com/oscarcalcados/ac26b8ad-2dda-4edd-845d-03abe1fdd135/320x320_3.jpg",
+            "content": "<p>Recompensas baseadas nos maiores engajamentos.</p>",
+            "alt": "recompensa"
+          },
+          {
+            "imageCard": "https://assets.decocache.com/oscarcalcados/6a88833f-3791-4ef1-9247-2120c528598a/320x320_4.jpg",
+            "content": "<p>Premiações baseadas no alcance e cliques nos links das postagens.</p>",
+            "alt": "Bonus"
+          }
+        ],
+        "imageMobile": "https://assets.decocache.com/oscarcalcados/ceb17675-9d65-4953-b9ca-c494ed42a3d8/750x690.jpg",
+        "content": "<p>Ao se tornar parte do programa de influenciadores da Oscar, você terá acesso a:</p>",
+        "preload": true,
+        "imageDesktop": "https://assets.decocache.com/oscarcalcados/ab013fee-de7c-4f5f-9ff4-83beb2f3b96a/1440x442.jpg",
+        "alt": "Uma mulher sorridente segurando um smartphone com a palavra 'ONLINE TICKET' na tela. Ao fundo, uma multidão em um show ou evento. O texto ao lado da mulher diz 'Inspire seu público, monetize seus conteúdos com comissões em vendas e ganhe recompensas incríveis como celular, ingressos para shows, festivais e eventos de moda"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/BannerApp.tsx",
+        "banner": {
+          "desktop": "https://assets.decocache.com/oscarcalcados/2ace7443-bb46-403a-941b-111ac027a523/1440X270.jpg",
+          "mobile": "https://assets.decocache.com/oscarcalcados/214ba8f6-2c90-4307-922d-1b389c0696eb/375X213-(1).jpg",
+          "altText": "Anúncio da plataforma Haus Creators convidando a criar conteúdo e ganhar recompensas. A imagem mostra um smartphone com a logo da plataforma e o texto 'Mantenha seus seguidores inspirados, monetize seus conteúdos e aproveite experiências exclusivas através de recompensas e premiações!"
+        },
+        "text": "<p></p>",
+        "apps": []
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/Faq.tsx",
+        "contact": {
+          "link": {
+            "text": "QUERO PARTICIPAR",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSct0fkBMt_dT1oONNIdpq3y0yYvfmhFBcjk2Psy96jOb_q55A/viewform"
+          }
+        },
+        "questions": [
+          {
+            "question": "O que é Haus Creators Oscar?",
+            "answer": "<p>O Haus Creators Oscar é um programa exclusivo, de acesso limitado, para captação de influenciadores que tenham interesse em criar e monetizar conteúdo através das redes sociais.</p>"
+          },
+          {
+            "question": "Como posso participar do processo de seleção?",
+            "answer": "<p>Para participar, basta preencher o <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSct0fkBMt_dT1oONNIdpq3y0yYvfmhFBcjk2Psy96jOb_q55A/viewform\">formulário </a>de inscrição com as seguintes informações: nome completo, @user no Instagram e/ou TikTok, CPF, telefone, e-mail, endereço, número de calçado, como conheceu o programa, dados bancários e insights das redes sociais (alcance, engajamento e público-alvo).</p>"
+          },
+          {
+            "question": "Quem pode se inscrever no programa Haus Creators Oscar?",
+            "answer": "<p>Influenciadores e creators de diferentes tamanhos, com 18 anos ou mais, desde que atuem no segmento de moda e beleza.</p>"
+          },
+          {
+            "question": "Existe uma seleção dos perfis inscritos?",
+            "answer": "<p>Sim, o time OSCAR será responsável pela seleção dos perfis inscritos e somente os aprovados poderão aderir ao programa e seus benefícios.</p>"
+          },
+          {
+            "answer": "<p>Não, é possível se inscrever utilizando uma conta no Instagram ou no Tik Tok. Não é necessário atuar nas duas redes simultaneamente.</p>",
+            "question": "Devo ser criador de conteúdo de uma rede social específica?"
+          },
+          {
+            "question": "Existe número mínimo de seguidores para me qualificar?",
+            "answer": "<p>Sim, serão aceitos apenas perfis com o número mínimo de seguidores de 5k no Instagram e 10k no Tik Tok.</p>"
+          },
+          {
+            "question": "O programa categoriza influenciadores conforme o número de seguidores?",
+            "answer": "<p>Sim, os influenciadores serão classificados em cinco categorias, de acordo com o número de seguidores e rede social inscrita, sendo:</p><p><strong>INSTAGRAM</strong></p><p><strong>Categoria A</strong> – 5 a 10k seguidores</p><p><strong>Categoria B </strong>– 10.001 a 50k seguidores</p><p><strong>Categoria C</strong> – 50.001 a 100k seguidores</p><p><strong>Categoria D</strong> – 100.001 a 250k seguidores</p><p><strong>Categoria E</strong> – acima de 250k seguidores</p><p><strong>TIKTOK</strong></p><p><strong>Categoria A</strong> – 10 a 30k seguidores</p><p><strong>Categoria B</strong> – 30.001 a 100k seguidores</p><p><strong>Categoria C</strong> – 100.001 a 250k seguidores</p><p><strong>Categoria D</strong> – 250.001 a 500k seguidores</p><p><strong>Categoria E</strong> – acima de 500k seguidores</p>"
+          },
+          {
+            "answer": "<p>A comissão de vendas e o voucher mensal de produtos Oscar é variável, de acordo com cada categoria, sendo:</p><p><strong>INSTAGRAM E TIKTOK</strong></p><p><strong>Categoria A</strong> – Comissão 4% / Voucher até R$ 250/mês</p><p><strong>Categoria B</strong> – Comissão 4% / Voucher até R$ 400/mês</p><p><strong>Categoria C</strong> – Comissão 4% / Voucher até R$ 500/mês</p><p><strong>Categoria D </strong>– Comissão 4% / Voucher até R$ 700/mês</p><p><strong>Categoria E</strong> – Comissão 4% / Voucher até R$ 1.000/mês</p>",
+            "question": "O que difere uma categoria da outra?"
+          },
+          {
+            "question": "Preciso compartilhar insights da minha conta para me inscrever? Quais são eles?",
+            "answer": "<p>Sim, será necessário enviar imagens ou prints com métricas do perfil inscrito. O influenciador deverá fornecer dados dos últimos 90 dias, incluindo número de contas alcançadas, engajamento, público-alvo, gênero e localização.</p>"
+          },
+          {
+            "question": "Existe um período específico para inscrição?",
+            "answer": "<p>Não existe uma data/período específico para a inscrição. Tanto a inclusão, como o desligamento de influenciadores, pode ocorrer a qualquer momento.</p>"
+          },
+          {
+            "question": "O que acontece após a inscrição?",
+            "answer": "<p>Após a inscrição no programa Haus Creators Oscar, a equipe OSCAR analisará as informações e selecionará os perfis. Em seguida, cada influenciador receberá um e-mail informando se seu perfil foi aprovado ou não</p>"
+          },
+          {
+            "question": "O que é voucher?",
+            "answer": "<p>Um voucher é um vale-presente, um código que pode ser usado para comprar produtos no site <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/\">www.oscarcalcados.com.br</a>, funcionando como uma forma de pagamento parcial ou total.</p>"
+          }
+        ],
+        "title": "Haus Creators Oscar",
+        "description": "Saiba mais sobre o programa de influencers da Oscar",
+        "layout": {
+          "variation": "Compact",
+          "headerAlignment": "center"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/Faq.tsx",
+        "contact": {
+          "link": {
+            "text": "QUERO PARTICIPAR",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSct0fkBMt_dT1oONNIdpq3y0yYvfmhFBcjk2Psy96jOb_q55A/viewform"
+          },
+          "title": "Venha para o Haus Creators Oscar"
+        },
+        "title": "Perguntas frequentes sobre o trabalho",
+        "questions": [
+          {
+            "question": "Após a aprovação do meu perfil, o que devo fazer?",
+            "answer": "<p>Após a aprovação no programa Haus Creators Oscar, o influenciador receberá um e-mail com orientações, informações sobre a marca e detalhes de comissionamento. Em seguida, será enviado um voucher personalizado para compras no site da Oscar. Após o uso do voucher, outro e-mail será enviado com o link para compartilhar um cupom de desconto exclusivo e as instruções de divulgação.</p>"
+          },
+          {
+            "question": "O que eu recebo para iniciar o trabalho?",
+            "answer": "<p>Os influenciadores aprovados no programa Haus Creators Oscar receberão, mensalmente, um voucher com valor definido por categoria. Após o uso, será enviado um link com um cupom de desconto para divulgação, com comissionamento aplicado conforme a categoria.</p>"
+          },
+          {
+            "question": "Posso converter meu voucher em dinheiro?",
+            "answer": "<p>Não, o voucher é exclusivo para uso no site <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.oscarcalcados.com.br\">www.oscarcalcados.com.br</a>, apenas para produtos vendidos e entregues pela Oscar. Não é permitido transferi-lo a terceiros.</p>"
+          },
+          {
+            "question": "Qual o prazo para utilizar meu voucher?",
+            "answer": "<p>O voucher deve ser utilizado no site da Oscar (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.oscarcalcados.com.br\">www.oscarcalcados.com.br</a>) em até 7 dias corridos. Caso contrário, o influenciador será desligado do programa.</p>"
+          },
+          {
+            "question": "Como faço para utilizar meu voucher?",
+            "answer": "<p>Utilizar o voucher é simples: acesse o site da Oscar (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.oscarcalcados.com.br\">www.oscarcalcados.com.br</a>), escolha os produtos e finalize a compra. No pagamento, insira o código recebido por e-mail no campo indicado dentro do checkout, e o desconto será aplicado conforme o valor definido para cada categoria. Qualquer valor excedente será de responsabilidade do influenciador e não acumulativo com outro voucher. O voucher é válido apenas para produtos vendidos e entregues pela Oscar.</p>"
+          },
+          {
+            "question": "Como vou monetizar meu conteúdo?",
+            "answer": "<p>A Oscar fornecerá a cada influenciador um link com um cupom de desconto exclusivo para seus seguidores. As vendas realizadas através desse cupom gerarão comissão, com porcentagens variáveis conforme a categoria.</p>"
+          },
+          {
+            "question": "Como vou receber minha comissão de vendas?",
+            "answer": "<p>Ao atingir o valor mínimo de comissão de R$ 2.500,00, o influenciador deve solicitar o pagamento ao time OSCAR. É necessário emitir nota fiscal.</p>"
+          },
+          {
+            "question": "Qual a quantidade mínima de posts devo fazer?",
+            "answer": "<p>Após receber o voucher de produtos, o influenciador deve produzir conteúdo no mês vigente para manter sua participação no programa. Não há um número específico de posts, ficando a critério de cada influenciador. O time OSCAR analisará as postagens para avaliar a permanência no programa.</p>"
+          },
+          {
+            "question": "Existe um script a ser seguido na criação de conteúdo?",
+            "answer": "<p>Não há um script definido para cada postagem, a criação é livre. Porém, é obrigatório marcar o perfil @oscarcalcados e usar a hashtag #HausCreatorsOscar em todos os conteúdos. É importante também respeitar os valores éticos e a história da marca, conforme as orientações enviadas ao influenciador no momento da aprovação.</p>"
+          },
+          {
+            "question": "Existe alguma bonificação para os melhores vendedores da plataforma?",
+            "answer": "<p>Sim, periodicamente será divulgado o ranking de vendas dos influenciadores nos respectivos grupos de WhatsApp, aqueles que se destacarem ganharão vouchers e benefícios exclusivos.</p>"
+          },
+          {
+            "question": "Posso ter minha participação cancelada?",
+            "answer": "<p>O quadro de influenciadores do programa Haus Creators Oscar não é fixo nem permanente. Mensalmente, os participantes serão avaliados com base em seu desempenho. A exclusão ocorre automaticamente se o influenciador não produzir conteúdo dentro de 30 dias após o uso do voucher de produtos ou se desviar dos padrões éticos exigidos pela marca.</p>"
+          },
+          {
+            "question": "O programa disponibiliza algum benefício extra?",
+            "answer": "<p>Sim. As premiações do programa incluem diversos benefícios extras, como: ingressos para shows, smartphones, notebooks, viagens e treinamentos online.</p>"
+          },
+          {
+            "question": "Como minha permanência será avaliada pelo programa Haus Creators Oscar?",
+            "answer": "<p>O time OSCAR ficará responsável por avaliar o desempenho dos influenciadores inscritos no programa. Para validar sua permanência serão analisadas métricas de engajamento, vendas e conteúdo.</p>"
+          },
+          {
+            "question": "Quando vou receber o voucher de produtos?",
+            "answer": "<p>O voucher será enviado mensalmente por e-mail e sua utilização deve ser efetuada dentro do prazo de 7 dias corridos a partir da data de recebimento.</p>"
+          },
+          {
+            "question": "Para fazer parte do programa Haus Creators Oscar eu devo assinar um contrato com a marca?",
+            "answer": "<p>Não, o programa dispensa a necessidade de um contrato direto e reserva a Oscar o direito do não pagamento ao criador de conteúdo que não estiver em conformidade com as regras do projeto.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/ImageWithModal.tsx"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "title": "Haus Creators - O programa de influencers da Oscar",
+            "description": "Haus Creators: descubra inovação e criatividade na Oscar. Ofertas especiais, frete grátis* e vantagens exclusivas!",
+            "matcher": "/haus-creators-oscar"
+          }
+        ],
+        "title": "/haus-creators-oscar"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "description": "Haus Creators: descubra inovação e criatividade na Oscar. Ofertas especiais, frete grátis* e vantagens exclusivas!",
+    "title": "Haus Creators - O programa de influencers da Oscar"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

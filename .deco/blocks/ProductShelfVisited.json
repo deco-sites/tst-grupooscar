@@ -1,0 +1,47 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfVisited.tsx",
+  "products": null,
+  "title": "Acessados Recentemente",
+  "cardLayout": {
+    "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+    "layout": {
+      "hide": {
+        "allPrices": false,
+        "skuSelector": true,
+        "favoriteIcon": false,
+        "installments": false,
+        "productDescription": true,
+        "cta": true
+      },
+      "basics": {
+        "oldPriceSize": "Small",
+        "contentAlignment": "Left"
+      },
+      "onMouseOver": {
+        "card": "None",
+        "image": "Change image",
+        "showCta": false,
+        "showCardShadow": false,
+        "showSkuSelector": false,
+        "showFavoriteIcon": true
+      },
+      "elementsPositions": {
+        "skuSelector": "Top",
+        "favoriteIcon": "Top right"
+      },
+      "configPix": {
+        "__resolveType": "Default-Pix"
+      }
+    }
+  },
+  "layout": {
+    "showArrows": true,
+    "headerfontSize": "Small",
+    "headerAlignment": "center",
+    "numberOfSliders": {
+      "mobile": 2,
+      "desktop": 4
+    },
+    "maxProducts": 8
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "name": "Nossas Lojas",
+  "path": "/nossas-lojas",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "Button Navigation"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institucionals/CardsStore.tsx",
+        "cards": [
+          {
+            "image": {
+              "alt": "Loja 001 - Calçadão II, Centro, São José dos Campos - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/f4303f98-520a-40d4-b1ba-e9fc32f4e713/WhatsApp-Image-2025-04-13-at-9.24.56-PM-(4).jpeg"
+            },
+            "label": "Loja 001 - Calçadão II, Centro, São José dos Campos - SP",
+            "address": "<p>R. 7 de Setembro, 344, Centro - CEP 12210-260</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/R.+Sete+de+Setembro,+358+-+Centro,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP,+12210-260/@-23.183559,-45.8855498,17z/data=!4m6!3m5!1s0x94cc4a17ee177b23:0xd79a23574b721c06!8m2!3d-23.1835885!4d-45.8857251!16s%2Fg%2F11crrcx2nf?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974111448"
+          },
+          {
+            "image": {
+              "alt": "Loja 002 - Jardim Paulista - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/043fcecf-7115-4fd0-a0d1-2a7a13031a5b/WhatsApp-Image-2025-04-13-at-9.27.37-PM-(6).jpeg"
+            },
+            "label": "Loja 002 - Jardim Paulista, São José dos Campos - SP",
+            "address": "<p>Av. Pedro Alvares Cabral, 905, Jardim Paulista - CEP 12216-000</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Av.+Pedro+%C3%81lvares+Cabral,+905+-+Jardim+Paulista,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP,+12216-000/@-23.1883311,-45.8761733,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a4826964f91:0x854f792ff9646d2f!8m2!3d-23.1883311!4d-45.8739846",
+            "linkWhatsapp": "https://wa.me/5512974020423"
+          },
+          {
+            "image": {
+              "alt": "Loja 003 - Calçadão I, Centro, São José dos Campos - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/2c1425df-8ba0-418f-b8e6-4d1e9ef42c00/IMG_6853.JPG"
+            },
+            "label": "Loja 003 - Calçadão I, Centro, São José dos Campos - SP",
+            "address": "<p>Rua 7 de Setembro, 142, Centro - CEP 12210-260</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/R.+Sete+de+Setembro,+136+-+Centro,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP,+12210-260/@-23.1815686,-45.886256,17z/data=!3m1!4b1!4m6!3m5!1s0x94cc4a184247fa25:0x32acd1c186c6ef87!8m2!3d-23.1815686!4d-45.886256!16s%2Fg%2F11bw4n8hb0?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974106235"
+          },
+          {
+            "image": {
+              "alt": "Loja 006 - Center Vale Shopping - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/8553df57-87da-4539-9f32-006fc33ce235/Loja-006---Center-Vale-Shopping.png"
+            },
+            "label": "Loja 006 - Center Vale Shopping, São José dos Campos - SP ",
+            "address": "<p>Av. Dep. Benedito Matarazzo, 9403, Jd. Oswaldo Cruz - CEP 12215-900</p><p><strong>De: </strong>Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.1996751,-45.8830672,18z/data=!4m9!1m2!2m1!1zb3NjYXIgY2Fsw4PCp2Fkb3M!3m5!1s0x94cc4a48260c112b:0x6368fa02307208d1!8m2!3d-23.1996751!4d-45.8817797!16s%2Fg%2F1tf61df5?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974083216"
+          },
+          {
+            "image": {
+              "alt": "Loja 007 -  Colinas Shopping, São José dos Campos - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/406d3ee3-c22e-451b-81df-bbefde122e8d/Loja-007-Colinas-Shopping-Sao-Jose-dos-Campos.png"
+            },
+            "label": "Loja 007 -  Colinas Shopping, São José dos Campos - SP",
+            "address": "<p>Av. São João, 2200, Jd. das Colinas - CEP 12242-000</p><p><strong>De: </strong>Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados+-+Colinas/@-23.2043442,-45.9092453,18z/data=!4m15!1m8!3m7!1s0x94cc358f35383591:0xa4cd6dc99d85fd73!2sOscar+Cal%C3%A7ados+-+Colinas!8m2!3d-23.2040474!4d-45.9089691!10e5!16s%2Fg%2F1tf5rbkq!3m5!1s0x94cc358f35383591:0xa4cd6dc99d85fd73!8m2!3d-23.2040474!4d-45.9089691!16s%2Fg%2F1tf5rbkq?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974117843"
+          },
+          {
+            "image": {
+              "alt": "Loja 009 - Jardim Satélite, São José dos Campos - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/d3f04ce6-693f-466d-aeef-eec4844e13ee/00265104-c8dc-4183-be53-faa6ca44ba15.JPG"
+            },
+            "label": "Loja 009 - Jardim Satélite , São José dos Campos - SP",
+            "address": "<p>Av. Andrômeda, 1868, Jd. Satélite - CEP 12230-001</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.2289539,-45.8868089,17z/data=!3m1!4b1!4m5!3m4!1s0x94cc4a954c52b6d1:0x6346bc6425977b96!8m2!3d-23.2289539!4d-45.8846208",
+            "linkWhatsapp": "https://wa.me/5512974041272"
+          },
+          {
+            "image": {
+              "alt": "Loja 017 - Oscar Tênis Vale Sul Shopping, São José dos Campos - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/5549a935-2e3b-4fe9-93a5-8469872f0abe/Loja-017---Oscar-Tenis-Vale-Sul-Shopping-Sao-Jose-dos-Campos.png"
+            },
+            "label": "Loja 017 - Oscar Tênis Vale Sul Shopping, São José dos Campos - SP",
+            "address": "<p>Av. Andrômeda, 227, Jd. Satélite, - CEP 12230-000</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+T%C3%AAnis+Vale+Sul/@-23.217403,-45.9025303,15z/data=!4m10!1m2!2m1!1zIE9zY2FyIFTDg8KqbmlzIC0gQXYuIEFuZHLDg8K0bWVkYSwgMjI3IC0gSmFyZGltIFNhdMODwqlsaXRlLCBTw4PCo28gSm9zw4PCqSBkb3MgQ2FtcG9zIC0gU1A!3m6!1s0x94cc4bccb92fba0b:0x67d6a05ef9b86c49!8m2!3d-23.217403!4d-45.8922306!15sCltPc2NhciBUw4PCqm5pcyAtIEF2LiBBbmRyw4nCtG1lZGEsIDIyNyAtIEphcmRpbSBTYXTDg8KpbGl0ZSwgU8ODwqNvIEpvc8ODwqkgZG9zIENhbXBvcyAtIFNQWk8iTW9zY2FyIHTDo8KqbmlzIGF2IGFuZHLDqSBtZWRhIDIyNyBqYXJkaW0gc2F0w6MgbGl0ZSBzw6MgbyBqb3PDoyBkb3MgY2FtcG9zIHNwkgEKc2hvZV9zdG9yZeABAA!16s%2Fg%2F11vyrh1_j6?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974027510"
+          },
+          {
+            "image": {
+              "alt": "Loja 022 - Oscar Tênis Calçadão, Centro, São José dos Campos - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/ec807e7f-ab4a-4e66-8c12-4100514b5922/Loja-022---Oscar-Tenis-Calcadao-Centro-Sao-Jose-dos-Campos.png"
+            },
+            "label": "Loja 022 - Oscar Tênis Calçadão, Centro, São José dos Campos - SP",
+            "address": "<p>Rua 7 de Setembro, 156, Centro - CEP 12210-260</p><p><strong>De: </strong>Seg a Sexta: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+T%C3%AAnis/@-23.1817379,-45.8860214,17z/data=!4m15!1m8!3m7!1s0x94cc4a186bb24fe7:0x25c140596f2181f0!2sOscar+T%C3%AAnis!8m2!3d-23.181757!4d-45.8861163!10e5!16s%2Fg%2F1vpptmqb!3m5!1s0x94cc4a186bb24fe7:0x25c140596f2181f0!8m2!3d-23.181757!4d-45.8861163!16s%2Fg%2F1vpptmqb?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974111976"
+          },
+          {
+            "image": {
+              "alt": "Loja 026 - Vale Sul Shopping, São José dos Campos - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/8cf1ff1e-a402-466b-a683-e2322404b8f1/Loja-026---Vale-Sul-Shopping-Sao-Jose-dos-Campos.png"
+            },
+            "label": "Loja 026 - Vale Sul Shopping, São José dos Campos - SP",
+            "address": "<p>Av. Andrômeda, 227, Jd. Satélite - CEP 12230-000</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Mega+Oscar/@-23.2175397,-45.8943094,17z/data=!3m2!4b1!5s0x94cc4a88e0a6dfa5:0x3810cb125180443c!4m5!3m4!1s0x94cc4bd9a7980593:0xe9b460cd972adaa5!8m2!3d-23.2175397!4d-45.8921207",
+            "linkWhatsapp": "https://wa.me/5512974100436"
+          },
+          {
+            "image": {
+              "alt": "Loja 067 - Shopping Jardim Oriente, São José dos Campos - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/833b042d-7835-44b8-bc1f-885db87838ab/PHOTO-2024-01-09-23-42-41.jpg"
+            },
+            "label": "Loja 067 - Shopping Jardim Oriente, São José dos Campos - SP",
+            "address": "<p>Rua Andorra, 500, Jardim América - CEP 12235-050</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/Shopping+Jardim+Oriente/@-23.2382179,-45.8982976,17z/data=!4m15!1m8!3m7!1s0x94cc4aa24b7df72f:0x925ffd548ca1d08!2sR.+Andorra,+500+-+Jardim+America,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP,+12235-050!3b1!8m2!3d-23.2366378!4d-45.8976932!16s%2Fg%2F11f15fx6lb!3m5!1s0x94cc4aa30bf55685:0x9a8b6fe5f74882f2!8m2!3d-23.237639!4d-45.8978927!16s%2Fg%2F11gfj5bvr1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974100256"
+          },
+          {
+            "image": {
+              "alt": "Loja 076 - Outlet Oscar Motorama, Jardim Motorama, São José dos Campos - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/798d708d-8f4e-4162-bc12-d03f14171971/Loja-068---Centro-Bauru-SP.png"
+            },
+            "label": "Loja 076 - Outlet Oscar Motorama, Jardim Motorama, São José dos Campos - SP",
+            "address": "<p>Rua dos Lírios, 459 Jardim Motorama  - CEP: 12224010</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/@-23.1753296,-45.8231345,3a,75y,327.92h,78.21t/data=!3m7!1e1!3m5!1sEhHM_hjH32EZaIgV1HW2kQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.791679215955384%26panoid%3DEhHM_hjH32EZaIgV1HW2kQ%26yaw%3D327.92456614875005!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512992056082"
+          },
+          {
+            "image": {
+              "alt": "Loja 124 - Centro, São José dos Campos - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/1d17307a-935a-47b2-9521-481efa2f8fd7/IMG_2403.jpg"
+            },
+            "address": "<p>Rua 7 de Setembro, 115, Centro, SJC - CEP 12210-260</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "label": "Loja 124 - Centro, São José dos Campos - SP",
+            "linkMap": "https://www.google.com/maps/place/R.+Sete+de+Setembro,+118+-+Centro,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP,+12210-260/@-23.1813759,-45.8860623,17z/data=!4m15!1m8!3m7!1s0x94cc4a18690b3c57:0x51ef0a7d3a6831de!2sR.+Sete+de+Setembro,+115+-+Centro,+S%C3%A3o+Jos%C3%A9+dos+Campos+-+SP,+12210-260!3b1!8m2!3d-23.1813969!4d-45.8860104!16s%2Fg%2F11c5lm1vq9!3m5!1s0x94cc4a186f4a528d:0xd163083f5888640b!8m2!3d-23.1813225!4d-45.8859264!16s%2Fg%2F11bw447_mm?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974110774"
+          },
+          {
+            "image": {
+              "alt": "Loja 125 - Centro, Jô Calçadão II, São José dos Campos - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/470a9cf9-714d-44a3-a4f3-e393dfb619a5/Loja-125---Centro-Jo-Calcadao-II.png"
+            },
+            "label": "Loja 125 - Centro, Jô Calçadão II, São José dos Campos - SP",
+            "address": "<p>Rua Sete de Setembro, 358, Centro - CEP: 12210260</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/@-23.1835859,-45.885559,3a,75y,259.36h,99.82t/data=!3m7!1e1!3m5!1sHtgr7AbNqzVTvmlz3yaBTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.819717744169651%26panoid%3DHtgr7AbNqzVTvmlz3yaBTQ%26yaw%3D259.35735812006175!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974119761"
+          },
+          {
+            "image": {
+              "alt": "Loja 004 - Centro, Jacareí - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/0d21339e-0db5-40b1-a0d0-c65ca7c0f066/Loja-004---Centro-Jacarei.png"
+            },
+            "label": "Loja 004 - Centro, Jacareí - SP",
+            "address": "<p>Rua Sargento Acrísio Santana, 149, Centro, Jacareí - CEP 12327-320</p><p><strong>De: </strong>Segunda a Sexta: 11h às 19h - Sábado: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.304231,-45.9696053,1110m/data=!3m1!1e3!4m14!1m7!3m6!1s0x94cdcb65872110bf:0x2be310907d7786f1!2sOscar+Cal%C3%A7ados!8m2!3d-23.3042234!4d-45.9698328!16s%2Fg%2F1v8326r1!3m5!1s0x94cdcb65872110bf:0x2be310907d7786f1!8m2!3d-23.3042234!4d-45.9698328!16s%2Fg%2F1v8326r1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974066835"
+          },
+          {
+            "image": {
+              "alt": "Loja 005 -  Oscar Tênis Centro, Jacareí - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/1cac4392-b6ce-4275-ad27-e85676291d66/Loja-005----Oscar-Tenis-Centro-Jacarei.png"
+            },
+            "label": "Loja 005 -  Oscar Tênis Centro, Jacareí - SP",
+            "address": "<p>Praça Raul Chaves, 79, Centro - CEP 12308-011</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+T%C3%AAnis/@-23.3046761,-45.9692983,17z/data=!3m1!4b1!4m5!3m4!1s0x94cdcb6e18633223:0x6f41491e5a60722d!8m2!3d-23.3046761!4d-45.9671096",
+            "linkWhatsapp": "https://wa.me/5512974067534"
+          },
+          {
+            "image": {
+              "alt": "Loja 019 - Jacareí Shopping - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/7e92df78-6bce-4995-a6fa-0a4dc7c5a15e/Loja-019---Jacarei-Shopping.png"
+            },
+            "label": "Loja 019 - Jacareí Shopping - SP",
+            "address": "<p>Rua Barão de Jacareí, 364, Centro - CEP 12308-001</p><p><strong>De: </strong>Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.3039874,-45.9630826,1110m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94cdcb6e27aa56b1:0xd103b2f4a61915ef!8m2!3d-23.3039874!4d-45.9630826!16s%2Fg%2F1tdmr4yx?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974117172"
+          },
+          {
+            "image": {
+              "alt": "Loja 127 - Centro, Jacareí - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/fb3cc44a-5752-40fb-873f-0acf00b67e49/PHOTO-2024-03-21-11-50-17.jpg"
+            },
+            "address": "<p>Rua Alfredo Schuring, 418, Centro - CEP 12327-005</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "label": "Loja 127 - Centro, Jacareí - SP",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Alfredo+Schurig,+148+-+Centro,+Jacare%C3%AD+-+SP,+12327-005/@-23.305604,-45.9698136,17z/data=!4m6!3m5!1s0x94cdcb6f9c8fd6d7:0x98f237831ddde5b7!8m2!3d-23.3053993!4d-45.9699502!16s%2Fg%2F11c3q48ptc?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512992056383"
+          },
+          {
+            "image": {
+              "alt": "Loja 121 - Centro, Caçapava - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/f07eca78-99f8-486d-9b3f-e15d374c90e1/PHOTO-2023-11-16-10-30-55.jpg"
+            },
+            "label": "Loja 121 - Centro, Caçapava - SP",
+            "address": "<p>Rua 7 de Setembro, 185, Centro - CEP 12281-620</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Alfredo+Schurig,+148+-+Centro,+Jacare%C3%AD+-+SP,+12327-005/@-23.305604,-45.9698136,17z/data=!4m6!3m5!1s0x94cdcb6f9c8fd6d7:0x98f237831ddde5b7!8m2!3d-23.3053993!4d-45.9699502!16s%2Fg%2F11c3q48ptc?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512991813882"
+          },
+          {
+            "image": {
+              "alt": "Loja 020 - Taubaté Shopping - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/b56ee2f4-fce3-4030-b8ed-a951b5e931f1/IMG_7562.jpg"
+            },
+            "address": "<p>Av. Charles Schnneider, 1700, Vila Costa - CEP 12040-000</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "label": "Loja 020 - Taubaté Shopping - SP",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.0247819,-45.5811579,1112m/data=!3m1!1e3!4m6!3m5!1s0x94ccf86728584d2f:0xb33c18c3b1a98167!8m2!3d-23.0244696!4d-45.5813454!16s%2Fg%2F1tgh42hv?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974115917"
+          },
+          {
+            "image": {
+              "alt": "Loja 028 - Centro, Taubaté - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/b178cae8-4539-42ea-a3aa-d6adaa4d6cf3/IMG_1866.jpg"
+            },
+            "label": "Loja 028 - Centro, Taubaté - SP",
+            "address": "<p>Rua Doutor Pedro Costa, 6, Centro, Taubaté - CEP 12010-160</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.0272017,-45.5551602,1112m/data=!3m1!1e3!4m6!3m5!1s0x94ccf9044f211a91:0x6352e3a366ef990c!8m2!3d-23.0272017!4d-45.5551602!16s%2Fg%2F1tfdfl2w?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974071208"
+          },
+          {
+            "image": {
+              "alt": "Loja 122 - Taubaté Shopping - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/7a2e20d8-8308-4b43-a937-92aa5ffef500/Loja-122---Taubate-Shopping.jpg"
+            },
+            "label": "Loja 122 - Taubaté Shopping - SP",
+            "address": "<p>Av. Charles Schnneider, 1700, Vila Costa - CEP 12040-900</p><p><strong>De</strong>: Seg: 10 às 22h - Sáb: 10h às 22h - Dom: 12h às 20</p>",
+            "linkMap": "https://www.google.com.br/maps/place/Av.+Charles+Schnneider,+1700+-+142+145+-+Parque+Sr.+do+Bonfim,+Taubat%C3%83%C2%A9+-+SP,+12050-181/@-23.0243503,-45.5840341,17z/data=!3m1!4b1!4m5!3m4!1s0x94ccf85e08a94187:0xd2dc19884a59d2f6!8m2!3d-23.0243503!4d-45.5818454",
+            "linkWhatsapp": "https://wa.me/5512974094938"
+          },
+          {
+            "image": {
+              "alt": "Loja 128 - Centro, Taubaté - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/68d3f3b9-8952-4c31-87e0-5a119f6eb361/Loja-128.jpg"
+            },
+            "label": "Loja 128 - Centro, Taubaté - SP",
+            "address": "<p>Rua Carneiro de Souza, 147, Centro - CEP 12010-070</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Carneiro+de+Souza,+147+-+Centro,+Taubat%C3%A9+-+SP,+12010-070/@-23.026042,-45.5582027,17z/data=!3m1!4b1!4m5!3m4!1s0x94ccf9044c564c99:0x5e23f1a3ad944505!8m2!3d-23.026042!4d-45.556014",
+            "linkWhatsapp": "https://wa.me/5512974119618"
+          },
+          {
+            "image": {
+              "alt": "Loja 016 - Centro, Guaratinguetá - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/7ed1920a-c167-4037-8c9a-ab5de1e28400/IMG_4297.jpg"
+            },
+            "label": "Loja 016 - Centro, Guaratinguetá - SP",
+            "address": "<p>Rua Comendador João Galvão, 36, Centro - CEP 12.500-150</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-22.8153376,-45.1947564,17z/data=!3m1!4b1!4m5!3m4!1s0x94ccc4561626f34b:0xc726d1ed2cafdaf9!8m2!3d-22.8153274!4d-45.1925727",
+            "linkWhatsapp": "https://wa.me/5512974111083"
+          },
+          {
+            "image": {
+              "alt": "Loja 023 - Buriti Shopping, Guaratinguetá - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/aaa5e2f5-3ea2-4c18-87db-91d46eeaacc3/IMG_4327.jpg"
+            },
+            "label": "Loja 023 - Buriti Shopping, Guaratinguetá - SP",
+            "address": "<p>Av. Juscelino Kubitschek de Oliveira 351, Campo Galvão - CEP 12505-300 - <strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p><p></p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-22.8138752,-45.1963355,18z/data=!3m1!5s0x94ccc45a3a02b3fb:0xa0850677f44c2c6e!4m12!1m6!3m5!1s0x94ccc45a561614ff:0xd6aa09f9be7e84d0!2sOscar+Cal%C3%A7ados!8m2!3d-22.8124178!4d-45.1979093!3m4!1s0x94ccc45a561614ff:0xd6aa09f9be7e84d0!8m2!3d-22.8124178!4d-45.1979093",
+            "linkWhatsapp": "https://wa.me/5512974033715"
+          },
+          {
+            "image": {
+              "alt": "Loja 126 - Centro Guaratinguetá - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/549aec1e-73bb-40e9-b322-2a0abf1353c3/Loja-126---Centro-Guaratingueta.png"
+            },
+            "label": "Loja 126 - Centro Guaratinguetá - SP",
+            "address": "<p>Rua Com. Rodrigues Alves, 107, Centro - CEP 12500-010</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Comendador+Rodrigues+Alves,+107+-+Centro,+Guaratinguet%C3%A1+-+SP,+12500-020/@-22.8149738,-45.1934365,17z/data=!3m1!4b1!4m6!3m5!1s0x94ccc45648661c5d:0x5312acebe298b124!8m2!3d-22.8149738!4d-45.1934365!16s%2Fg%2F11bw3_r8tr?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974117325"
+          },
+          {
+            "image": {
+              "alt": "Loja 031 - Constantino, Mogi das Cruzes - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/9efca2cc-eea6-4bea-a51e-d78c7d0dbc54/Loja-031---Constantino-Mogi-das-Cruzess.png"
+            },
+            "label": "Loja 031 - Constantino, Mogi das Cruzes - SP",
+            "address": "<p>Av. Vereador Narciso Yague Guimarães 1001 Jd. Armênia - CEP: 08780-500 - <strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Constantino+-+Mogi+Shopping/@-23.5163677,-46.1809935,17z/data=!3m1!5s0x94cdd83a61962cfb:0x1840bfe19becf3f!4m14!1m7!3m6!1s0x94cdd8308b968d9d:0xc72df8be7df80e68!2sConstantino+-+Mogi+Shopping!8m2!3d-23.515835!4d-46.179809!16s%2Fg%2F11c3l6fll8!3m5!1s0x94cdd8308b968d9d:0xc72df8be7df80e68!8m2!3d-23.515835!4d-46.179809!16s%2Fg%2F11c3l6fll8?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5511940780983"
+          },
+          {
+            "image": {
+              "alt": "Loja 032 - Mogi Shopping, Mogi das Cruzes - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/4bdc0f29-52e6-4c55-8817-43e5caefab2a/Loja-032---Mogi-Shopping-Mogi-das-Cruzes.png"
+            },
+            "label": "Loja 032 - Mogi Shopping, Mogi das Cruzes - SP",
+            "address": "<p>Av. Ver. Narciso Y. Guimarães, 1001, Jd. Armênia - CEP 08780-000</p><p><strong>De: </strong>Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados+-+Mogi+Shopping/@-23.5162544,-46.1801647,1108m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94cdd830d072a0c1:0x507b519a9d69eedf!8m2!3d-23.5162544!4d-46.1801647!16s%2Fg%2F1tf721b0?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5511940095981"
+          },
+          {
+            "image": {
+              "alt": "Loja 039 - Calçadão, Mogi das Cruzes - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/46bacaae-85ad-45f6-9673-127d21381902/Loja-039.png"
+            },
+            "label": "Loja 039 - Calçadão, Mogi das Cruzes - SP",
+            "address": "<p>Rua Dr. Deodato Wertheimer, 1395, Centro, Mogi das Cruzes - CEP 08710-430 - <strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.5232878,-46.1970389,17z/data=!3m1!4b1!4m5!3m4!1s0x94cdd813fffc7d87:0x7837936d27f5a998!8m2!3d-23.5232798!4d-46.194809",
+            "linkWhatsapp": "https://wa.me/5511940340063"
+          },
+          {
+            "image": {
+              "alt": "Loja 008 - Rio Preto Shopping Center, São José do Rio Preto SP",
+              "src": "https://data.decoassets.com/oscarcalcados/f29f7f56-1ed5-44cf-9419-922aed61b2b2/Loja-008---Rio-Preto-Shopping-Center-Sao-Jose-do-Rio-Preto.png"
+            },
+            "label": "Loja 008 - Rio Preto Shopping Center, São José do Rio Preto - SP",
+            "address": "<p>Av. Brigadeiro Faria Lima, 6363, Vila São José - CEP 15090-000</p><p><strong>De</strong>: Seg a Sex: 10h às 20h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-20.83427,-49.3990312,1129m/data=!3m1!1e3!4m6!3m5!1s0x94bdb284b1ab78c7:0x22bfa5be80d9e1b3!8m2!3d-20.8343334!4d-49.3989847!16s%2Fg%2F11hcmnfbnq?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5516974002273"
+          },
+          {
+            "image": {
+              "alt": "Loja 041 - Centro, São José do Rio Preto - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/dd08b8a7-3e1f-420c-803f-4b69ac22de15/Loja-041---Centro-Sao-Jose-do-Rio-Preto-SP.png"
+            },
+            "label": "Loja 041 - Centro, São José do Rio Preto - SP",
+            "address": "<p>Rua General Glicério, 2826, Centro - CEP 15015-400</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-20.8095009,-49.3803626,1130m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94bdb28fa7b9a307:0x21efc18d000b9a77!8m2!3d-20.8095009!4d-49.3803626!16s%2Fg%2F11dxddn58f?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5517974005794"
+          },
+          {
+            "image": {
+              "alt": "Loja 106 - Centro, São José do Rio Preto - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/1a0136ca-f31e-4709-9303-4c9e427c2547/Loja-106---Centro-Sao-Jose-do-Rio-Preto-SP.png"
+            },
+            "label": "Loja 106 - Centro, São José do Rio Preto - SP",
+            "linkMap": "https://www.google.com/maps/place/R.+Gen.+Glic%C3%A9rio,+2928+-+Centro,+S%C3%A3o+Jos%C3%A9+do+Rio+Preto+-+SP,+15015-400/@-20.8101076,-49.3832319,17z/data=!3m1!4b1!4m5!3m4!1s0x94bdad5ca37671ed:0xdae72cbab57082f6!8m2!3d-20.810114!4d-49.381001",
+            "address": "<p>Rua General Glicério, 2928, Centro - CEP 15015-400</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkWhatsapp": "https://wa.me/5517974005079"
+          },
+          {
+            "image": {
+              "alt": "Loja 047 - Shopping Pátio Pinda, Pindamonhangaba - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/2aba9f23-3fc9-4d1c-9708-1902b792939b/IMG_4343.jpg"
+            },
+            "label": "Loja 047 - Shopping Pátio Pinda, Pindamonhangaba - SP",
+            "address": "<p>Rua Alcides Ramos Nogueira, 650, Mombaça - CEP 12421-705</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-22.9470015,-45.4830005,1113m/data=!3m2!1e3!5s0x94ccf07b3a2025d5:0x69618462ebcd7e10!4m22!1m15!4m14!1m6!1m2!1s0x94ccf07ae7712aa5:0x7e15950434baaf9a!2sShopping+P%C3%A1tio+Pinda,+R.+Alcides+Ramos+Nogueira,+650+-+Nossa+Sra.+do+Perpetuo+Socorro,+Pindamonhangaba+-+SP,+12421-681!2m2!1d-45.4811885!2d-22.9468901!1m6!1m2!1s0x94ccf07ae74b33f5:0xb21b9f3ed55d7d02!2sOscar+Cal%C3%A7ados,+Avenida+Nicanor+Ramos+Nogueira,+650+-+Momba%C3%A7a,+Pindamonhangaba+-+SP,+12421-705!2m2!1d-45.4805747!2d-22.947089!3m5!1s0x94ccf07ae74b33f5:0xb21b9f3ed55d7d02!8m2!3d-22.947089!4d-45.4805747!16s%2Fg%2F11b5wmfcxc?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974117551"
+          },
+          {
+            "image": {
+              "alt": "Loja 048 - Centro, Pindamonhangaba - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/7e5beee2-d180-43f4-93ac-9a3cac98b142/PHOTO-2024-09-12-14-36-47.jpg"
+            },
+            "label": "Loja 048 - Centro, Pindamonhangaba - SP",
+            "address": "<p>Praça Monsenhor Marcondes, 50, Centro - CEP 12400-470</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-22.9255723,-45.4626596,1113m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94ccf13ad01bb6cf:0x846b44a64d87557f!8m2!3d-22.9255723!4d-45.4626596!16s%2Fg%2F11fm0p5dzh?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974112318"
+          },
+          {
+            "image": {
+              "alt": "Loja 043 - Suzano Shopping - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/a0b09d2d-f41a-4f8d-a9ba-353c6522938d/Loja-043---Suzano-Shopping.png"
+            },
+            "label": "Loja 043 - Suzano Shopping - SP",
+            "address": "<p>Rua 7 de Setembro, 555, Cidade Cruzeiro do Sul - CEP 08673-020</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 12h às 20h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-23.5431087,-46.3181811,1108m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94ce7a64c795b8c9:0xdc2dc4769aba16be!8m2!3d-23.5431087!4d-46.3181811!16s%2Fg%2F1ptvznpjd?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5511940290796"
+          },
+          {
+            "image": {
+              "alt": "Loja 044 - Serramar Shopping, Caraguatatuba - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/8cf1ff1e-a402-466b-a683-e2322404b8f1/Loja-026---Vale-Sul-Shopping-Sao-Jose-dos-Campos.png"
+            },
+            "label": "Loja 044 - Serramar Shopping, Caraguatatuba - SP",
+            "address": "<p>Av. José Herculano, 1086, Santa Marina - CEP 11666-000</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p><p></p>",
+            "linkMap": "https://www.google.com/maps/@-23.6637037,-45.4353631,3a,75y,13.53h,90t/data=!3m7!1e1!3m5!1sF26oTOsr9J5wzTIlBJ2ONg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DF26oTOsr9J5wzTIlBJ2ONg%26yaw%3D13.532264!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974051457"
+          },
+          {
+            "image": {
+              "alt": "Loja 049 - Centro, Lorena - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/c8c9c61b-5a27-460c-aa85-9dfdbcbfb8d2/Loja-049-Centro-Lorena-SP.png"
+            },
+            "label": "Loja 049 - Centro, Lorena - SP",
+            "address": "<p>Rua Rodrigues de Azevedo, 240, Centro, Lorena - CEP 12600-005</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-22.7329985,-45.1232488,17z/data=!3m1!4b1!4m5!3m4!1s0x94ccc8e7dc3b3a57:0xe38e65133478017c!8m2!3d-22.7329336!4d-45.1210336",
+            "linkWhatsapp": "https://wa.me/5512974117364"
+          },
+          {
+            "image": {
+              "alt": "Loja 045 - Centro, Araçatuba - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/b192dc99-0a40-4888-9d8d-24d34560f599/Loja-045---Centro-Aracatuba.png"
+            },
+            "label": "Loja 045 - Centro, Araçatuba - SP",
+            "address": "<p>R. Mal. Deodoro, 139, Centro - CEP 16010-300</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-21.2064026,-50.4429695,17z/data=!3m1!4b1!4m5!3m4!1s0x949643e553b94667:0x321525d42b625332!8m2!3d-21.2064026!4d-50.4407808",
+            "linkWhatsapp": "https://wa.me/5518974004018"
+          },
+          {
+            "image": {
+              "alt": "Loja 053 - Bauru Shopping - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/30891f4c-fd4c-4c49-9628-02c46abb828b/WhatsApp-Image-2024-06-25-at-18.40.36-(2).jpeg"
+            },
+            "label": "Loja 053 - Bauru Shopping - SP",
+            "address": "<p>Rua Henrique Savi, 55, Vila Nova Cidade Universitária - CEP 17011-900 - <strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Bauru+Shopping/@-22.341965,-49.049805,2236m/data=!3m1!1e3!4m6!3m5!1s0x94bf6767accbc561:0x9a34c30518a523d6!8m2!3d-22.341965!4d-49.0498045!16s%2Fg%2F11crtffxr_?hl=pt-BR&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5517974000340"
+          },
+          {
+            "image": {
+              "alt": "Loja 117 - Centro, Bauru - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/2a69dbb8-23bb-420e-86b2-61a9a2b1bca0/WhatsApp-Image-2024-06-21-at-14.39.56.jpeg"
+            },
+            "label": "Loja 117 - Centro, Bauru - SP",
+            "address": "<p>Rua Batista de Carvalho, 461 , Centro - CEP 17010-000</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Batista+de+Carvalho,+461+-+Centro,+Bauru+-+SP,+17010-000/@-22.3229266,-49.074321,17z/data=!3m1!4b1!4m6!3m5!1s0x94bf67b1d4740001:0xcd30367206f040ea!8m2!3d-22.3229266!4d-49.074321!16s%2Fg%2F11fj1npw2t?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5514974001352"
+          },
+          {
+            "image": {
+              "alt": "Loja 068 - Centro, Bauru - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/d235e33a-a9b4-45c5-a7e0-e85fd22fd117/WhatsApp-Image-2024-06-21-at-13.36.00.jpeg"
+            },
+            "label": "Loja 068 - Centro, Bauru - SP",
+            "address": "<p>Rua Batista de Carvalho, 5, Centro - CEP 17010-001</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-22.3229819,-49.0740767,1118m/data=!3m1!1e3!4m6!3m5!1s0x94bf67b1d8b20e6d:0x984904c016fab2f4!8m2!3d-22.3229266!4d-49.074321!16s%2Fg%2F1tznnfyx?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974060288"
+          },
+          {
+            "image": {
+              "alt": "Loja 101 - Centro, Botucatu - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/599f66fa-e124-462a-9f24-0ac04b175224/WhatsApp-Image-2024-06-24-at-11.24.15.jpeg"
+            },
+            "label": "Loja 101 - Centro, Botucatu - SP",
+            "address": "<p>Rua Praça Comendador Emilio Pedutti, 35, Centro - CEP 18600-410 - <strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Jo+Cal%C3%A7ados/@-22.8879523,-48.4406946,1113m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94c6df663b5647df:0xaf726db7657327e9!8m2!3d-22.8879523!4d-48.4406946!16s%2Fg%2F1tvtcg1c?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5514974001059"
+          },
+          {
+            "image": {
+              "alt": "Loja 054 - Centro, Ribeirão Preto - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/c0e32ddf-1cea-4a03-926a-dcd13999e74f/Loja-054---Centro-Ribeirao-Preto-SP.png"
+            },
+            "label": "Loja 054 - Centro, Ribeirão Preto - SP",
+            "address": "<p>Rua Alvares Cabral, 470, Centro - CEP 14010-080</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-21.175257,-47.8123399,17z/data=!3m1!4b1!4m5!3m4!1s0x94b9bf2013158baf:0xb30676b3e4866938!8m2!3d-21.175257!4d-47.8101512",
+            "linkWhatsapp": "https://wa.me/5516974002273"
+          },
+          {
+            "image": {
+              "alt": "Loja 058 - Ribeirão Shopping, Ribeirão Preto - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/c6c7df7b-8484-453c-a4e0-b90a1f574d7b/Loja-058---Ribeirao-Preto-Shopping.png"
+            },
+            "label": "Loja 058 - Ribeirão Shopping, Ribeirão Preto - SP",
+            "address": "<p>Av. Coronel Fernando Ferreira Leite, 1540 - CEP 14026-900</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-21.2119833,-47.815878,1127m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94b9b9a4fdc93b9f:0x7eaab071db0da4be!8m2!3d-21.2119833!4d-47.815878!16s%2Fg%2F11h_bvn2h1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5516974013273"
+          },
+          {
+            "image": {
+              "alt": "Loja 072 - Novo Shopping, Ribeirão Preto - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/edc7928f-6ea7-45d4-823f-1301f8c1b0bb/WhatsApp-Image-2024-06-21-at-16.23.24.jpeg"
+            },
+            "label": "Loja 072 - Novo Shopping, Ribeirão Preto - SP",
+            "address": "<p>Av. Pres. Kennedy, 1500, Ribeirânia - CEP 14096-901</p><p><strong>De: </strong>Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkMap": "https://www.google.com/maps/place/Novo+Shopping+Center+Ribeir%C3%A3o+Preto/@-21.2071556,-47.7679492,1127m/data=!3m1!1e3!4m6!3m5!1s0x94b9b8af5ef3bb29:0xf02d81906f61e7bb!8m2!3d-21.2071556!4d-47.7679492!16s%2Fg%2F1ptvyx7bg?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5516993355751"
+          },
+          {
+            "image": {
+              "alt": "Loja 114 - Centro, Limeira - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/79f51ac8-b694-48f8-ade4-300441a81e0d/Loja-114---Limeira.png"
+            },
+            "label": "Loja 114 - Centro, Limeira - SP",
+            "address": "<p>Rua Senador Vergueiro, 396, Centro - CEP: 13480-005</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Oscar+Cal%C3%A7ados/@-22.562727,-47.4034547,17z/data=!3m1!4b1!4m5!3m4!1s0x94c880f2959e6ce5:0x70571da54d50cdc7!8m2!3d-22.562727!4d-47.401266",
+            "linkWhatsapp": "https://wa.me/5519974012656"
+          },
+          {
+            "image": {
+              "alt": "Loja 061 - Centro, Jundiaí - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/1a7bd177-7fc0-4abf-9e09-b37e3838051e/Loja-061---Centro-Jundiai.png"
+            },
+            "label": "Loja 061 - Centro, Jundiaí - SP",
+            "address": "<p>Rua Barão de Jundiaí, 640, Centro - CEP: 13.201-011</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/@-23.1892196,-46.8837727,3a,90y,16.87h,100.75t/data=!3m7!1e1!3m5!1s3U_Ejo3IDSKqLmr_Nn2-6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.746279930861562%26panoid%3D3U_Ejo3IDSKqLmr_Nn2-6w%26yaw%3D16.865710636549558!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5511947769077"
+          },
+          {
+            "image": {
+              "alt": "Loja 062 - Centro, Piracicaba - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/2832b838-e959-408d-8be8-3b0719e98ca8/WhatsApp-Image-2024-06-22-at-09.27.36.jpeg"
+            },
+            "label": "Loja 062 - Centro, Piracicaba - SP",
+            "address": "<p>Rua Governador Pedro Toledo, 1211 - Centro, 13.400-070<br><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/@-22.727805,-47.6489587,3a,75y,73.64h,76.74t/data=!3m7!1e1!3m5!1snKuikxBWORz-Uyn4hqs0Ew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D13.26393087304966%26panoid%3DnKuikxBWORz-Uyn4hqs0Ew%26yaw%3D73.64059013977692!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5519974014761"
+          },
+          {
+            "image": {
+              "alt": "Loja 074 - Shopping Piracicaba - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/209bf81f-ab77-48fd-b48e-98c72a37287b/WhatsApp-Image-2024-06-21-at-13.38.52-(9).jpeg"
+            },
+            "label": "Loja 074 - Shopping Piracicaba - SP",
+            "linkMap": "https://www.google.com/maps/place/Shopping+Piracicaba/@-22.7040081,-47.6498321,1115m/data=!3m1!1e3!4m6!3m5!1s0x94c6317ebcbf4c1f:0x14c46a0ee49c4bce!8m2!3d-22.7040081!4d-47.6498321!16s%2Fg%2F11bydj8bm7?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "address": "<p>Av. Limeira, Piracicaba 722 - Areião - CEP 13414-018</p><p><strong>De:</strong> Seg a Sex: 10h às 22h - Sáb: 10h às 22h - Dom: 12h às 20h</p>",
+            "linkWhatsapp": "https://wa.me/5519993917528"
+          },
+          {
+            "image": {
+              "alt": "Loja 063 - Centro, Sorocaba - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/5e18199a-ae48-4b55-9bfc-ea8bc7f51a22/WhatsApp-Image-2024-06-21-at-16.37.38.jpeg"
+            },
+            "address": "<p>Rua Dr. Braguinha, Centro, 264 - CEP: 18010-120</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "label": "Loja 063 - Centro, Sorocaba - SP",
+            "linkMap": "https://www.google.com/maps/place/Rua+Dr.+Braguinha,+264+-+Centro,+Sorocaba+-+SP,+18010-120/@-23.4987572,-47.458402,17z/data=!3m1!4b1!4m5!3m4!1s0x94c58aa375a05b95:0x4a09dd0c06b7bc56!8m2!3d-23.4990286!4d-47.4565946",
+            "linkWhatsapp": "https://wa.me/5515991536793"
+          },
+          {
+            "image": {
+              "alt": "Loja 064 - Centro, Araraquara - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/bfa8ef51-55d0-4ba3-a020-7efc5de582c9/WhatsApp-Image-2024-06-25-at-14.08.27-(1).jpeg"
+            },
+            "label": "Loja 064 - Centro, Araraquara - SP",
+            "address": "<p>Rua 9 de julho, Centro, 793 - CEP: 14801-295</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/R.+Nove+de+Julho,+793+-+Araraquara,+SP,+14801-040/@-21.7914102,-48.1752809,1122m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94b8f3e6912e7363:0x297d6e65758ae922!8m2!3d-21.7914102!4d-48.1752809!16s%2Fg%2F11c1_jw1x2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5516974001925"
+          },
+          {
+            "image": {
+              "alt": "Loja 109 - Centro, Araraquara - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/a32f510f-be39-4d43-b470-04b967650046/WhatsApp-Image-2025-02-27-at-18.00.04.jpeg"
+            },
+            "label": "Loja 109 - Centro, Araraquara - SP",
+            "address": "<p>Rua Nove de Julho, Centro, 991 - CEP: 14801-295</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Nove+de+Julho,+991+-+Centro,+Araraquara+-+SP,+14801-295/@-21.7896285,-48.1757644,17z/data=!3m1!4b1!4m6!3m5!1s0x94b8f3e14bb6f699:0x47e682d6aafa3f41!8m2!3d-21.7896285!4d-48.1757644!16s%2Fg%2F11bw3y11tq?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5516974002919"
+          },
+          {
+            "image": {
+              "alt": "Loja 108 - Patrimônio Novo, Votuporanga - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/efa1a903-1de6-4e6f-8f0a-828f1003e53f/WhatsApp-Image-2024-06-21-at-12.58.40-(1).jpeg"
+            },
+            "label": "Loja 108 - Patrimônio Novo, Votuporanga - SP",
+            "address": "<p>Rua Amazonas, 3281 - Patrimônio Novo - CEP: 15500-004</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/@-20.4235261,-49.9742725,3a,75y,238.88h,92.58t/data=!3m7!1e1!3m5!1se4LroFPQIx5MWurHaE2rBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.5797220056068113%26panoid%3De4LroFPQIx5MWurHaE2rBg%26yaw%3D238.87726796101904!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5517974002447"
+          },
+          {
+            "image": {
+              "alt": "Loja 119 - Centro, Barretos - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/53f23f28-c8d3-4784-af60-3f70288cae8f/Loja-119-barretos-centro.png"
+            },
+            "label": "Loja 119 - Centro, Barretos - SP",
+            "address": "<p>Av. Dezenove, Centro, 875 - CEP: 14780-300</p><p><strong>De: </strong>Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/Av.+Dezenove,+875+-+Centro,+Barretos+-+SP,+14780-300/@-20.5593424,-48.5714571,17z/data=!3m1!4b1!4m5!3m4!1s0x94bb853a7058a041:0xca1dabd9010526c3!8m2!3d-20.5593424!4d-48.5692684",
+            "linkWhatsapp": "https://wa.me/5517974005534"
+          },
+          {
+            "image": {
+              "alt": "Loja 118 - Centro, Catanduva - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/e5f6fc62-746f-4ffe-b1b1-db5958ea7e1a/WhatsApp-Image-2024-06-27-at-10.58.13-(1).jpeg"
+            },
+            "label": "Loja 118 - Centro, Catanduva - SP",
+            "address": "<p>Rua Praça Monsenhor Albino, Centro, 80 - CEP: 15800-215</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p><p></p>",
+            "linkMap": "https://www.google.com.br/maps/place/Pra%C3%A7a+Monsenhor+Albino,+80+-+Centro,+Catanduva+-+SP,+15800-215/@-21.1377878,-48.9754885,17z/data=!3m1!4b1!4m5!3m4!1s0x94bc1e6456480869:0x39e4d2b7aa03533a!8m2!3d-21.1377878!4d-48.9732998",
+            "linkWhatsapp": "https://wa.me/5517974006025"
+          },
+          {
+            "image": {
+              "alt": "Loja 111 - Centro, Franca - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/c9b28c21-3b7b-4aa0-86e0-8d0e0a10e9bd/Loja-111---Franca.png"
+            },
+            "label": "Loja 111 - Centro, Franca - SP",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Maj.+Claudiano,+1950+-+Centro,+Franca+-+SP,+14400-690/@-20.5365642,-47.400227,17z/data=!3m1!4b1!4m6!3m5!1s0x94b0a6300a3660a1:0x9b6ec9279b46c5ba!8m2!3d-20.5365642!4d-47.400227!16s%2Fg%2F11cncmk83l?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "address": "<p>Rua major Claudino, Centro, 1950 - CEP: 14400-690</p><p><strong>De:</strong> Seg a Sex: 09h às 18h - Sáb: 09h às 15h</p>",
+            "linkWhatsapp": "https://wa.me/5516974030489"
+          },
+          {
+            "image": {
+              "alt": "Loja 115 - Centro, Ourinhos - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/4cc6ed1d-2601-4c76-a0df-7416e551c3cf/WhatsApp-Image-2024-06-21-at-14.59.56-(3).jpeg"
+            },
+            "label": "Loja 115 - Centro, Ourinhos - SP",
+            "address": "<p>Rua Antônio Carlos Mori, Centrom, 273 - CEP: 19900-080</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p><p></p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Ant%C3%B4nio+Carlos+Mori,+273+-+Centro,+Ourinhos+-+SP,+19900-080/@-22.978847,-49.8719937,17z/data=!3m1!4b1!4m5!3m4!1s0x94c0183a2151fc9d:0x308d916e7f283f31!8m2!3d-22.978847!4d-49.869805",
+            "linkWhatsapp": "https://wa.me/5514974001431"
+          },
+          {
+            "image": {
+              "alt": "Loja 120, Centro Presidente Prudente - SP",
+              "src": "https://data.decoassets.com/oscarcalcados/07b952d9-2b50-47f2-a673-7196283af465/Loja-120-Centro-Presidente-Prudente.png"
+            },
+            "label": "Loja 120, Centro Presidente Prudente - SP",
+            "address": "<p>Rua Siqueira Campos, Centro 615  - CEP: 19010-061</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/Oscar+Cal%C3%A7ados/@-22.1231951,-51.3864037,15z/data=!4m16!1m9!3m8!1s0x9493f5b301332899:0x8e5fb2cdd7d432e0!2sR.+Siqueira+Campos,+615+-+Centro,+Pres.+Prudente+-+SP,+19010-061!3b1!8m2!3d-22.1237767!4d-51.3865554!10e5!16s%2Fg%2F11bw4klzd7!3m5!1s0x9493f5b303f80ae9:0x765b5076e71ebae7!8m2!3d-22.1238174!4d-51.3867127!16s%2Fg%2F1tj2pkdy?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5518974002276"
+          },
+          {
+            "image": {
+              "alt": "Loja 116 - Centro, São Carlos - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/9bd33fd7-2b8f-41c5-af40-0c9039844cce/WhatsApp-Image-2024-06-24-at-10.32.49.jpeg"
+            },
+            "label": "Loja 116 - Centro, São Carlos - SP",
+            "address": "<p>Rua General Osório, Centro, 848 - CEP: 13560-640</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p><p></p>",
+            "linkMap": "https://www.google.com.br/maps/place/Av.+S%C3%A3o+Carlos,+1390+-+Centro,+S%C3%A3o+Carlos+-+SP,+13560-001/@-22.0209486,-47.8924437,17z/data=!3m1!4b1!4m5!3m4!1s0x94b8772312b696f1:0x72b3148a4237154e!8m2!3d-22.0209486!4d-47.890255",
+            "linkWhatsapp": "https://wa.me/5516974030556"
+          },
+          {
+            "image": {
+              "alt": "Loja 102 - Centro, Ituiutaba - MG",
+              "src": "https://data.decoassets.com/oscarcalcados/1f9e941c-7b26-485d-b31f-4f19136f9d78/102---Centro-ituiutaba.png"
+            },
+            "label": "Loja 102 - Centro, Ituiutaba - MG",
+            "address": "<p>Rua Vinte e Dois, Centro, 616 - CEP: 38300-076</p><p><strong>De:</strong> Seg a Sex: 09h às 19h - Sáb: 09h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Vinte+e+Dois,+616+-+Centro,+Ituiutaba+-+MG,+38300-076/@-18.9726991,-49.4652546,17z/data=!3m1!4b1!4m5!3m4!1s0x94a231e6b61050d5:0xda06ee5b6550c2b0!8m2!3d-18.9726991!4d-49.4630659",
+            "linkWhatsapp": "https://wa.me/553474008217"
+          },
+          {
+            "image": {
+              "alt": "Loja 105 - Centro, Uberaba - MG",
+              "src": "https://assets.decocache.com/oscarcalcados/44708ca1-c403-40f2-8482-c497ddfa250e/WhatsApp-Image-2024-06-21-at-18.43.12.jpeg"
+            },
+            "label": "Loja 105 - Centro, Uberaba - MG",
+            "address": "<p>Rua Artur Machado, Centro, 41 - CEP: 38010-020</p><p><strong>De:</strong> Seg a Sex: 09h às 19h - Sáb: 09h às 17h</p><p></p>",
+            "linkMap": "https://www.google.com/maps/place/R.+Artur+Machado,+41+-+Centro,+Uberaba+-+MG,+38010-020/@-19.7492401,-47.9407464,17z/data=!3m1!4b1!4m6!3m5!1s0x94bad0339937bc9f:0x249535820ad459ac!8m2!3d-19.7492402!4d-47.9358755!16s%2Fg%2F11h5tw_28h?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/553474006023"
+          },
+          {
+            "image": {
+              "alt": "Loja 113 - Centro, Uberlândia - MG",
+              "src": "https://assets.decocache.com/oscarcalcados/3092491c-f71f-4b76-bd40-229c5cedb892/WhatsApp-Image-2024-06-25-at-16.21.29-(1).jpeg"
+            },
+            "label": "Loja 113 - Centro, Uberlândia - MG",
+            "address": "<p>Av. Floriano Peixoto, Centro, 396 - CEP: 38400-100</p><p><strong>De:</strong> Seg a Sex: 09h às 19h - Sáb: 09h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/Av.+Floriano+Peixoto,+396+-+Centro,+Uberl%C3%A2ndia+-+MG,+38400-100/@-18.9197931,-48.2790665,17z/data=!3m1!4b1!4m5!3m4!1s0x94a445aa872c0001:0x637f1ffcc8b212dd!8m2!3d-18.9197931!4d-48.2768778",
+            "linkWhatsapp": "https://wa.me/553474006637"
+          },
+          {
+            "image": {
+              "alt": "Loja 065 - Centro, Mogi Mirim - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/f5df2dd8-2b40-4d49-b762-5df2a96812d3/WhatsApp-Image-2024-06-26-at-08.46.35-(1).jpeg"
+            },
+            "address": "<p>Rua Quinze de Novembro, Centro, 102 - CEP: 13800-185</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "label": "Loja 065 - Centro, Mogi Mirim - SP",
+            "linkMap": "https://www.google.com.br/maps/place/R.+XV+de+Novembro,+102+-+Centro,+Mogi+Mirim+-+SP,+13800-185/@-22.4344242,-46.9611975,17z/data=!3m1!4b1!4m9!1m2!2m1!1sRua+Quinze+de+Novembro,+102+-+Centro,+CEP:+13.800-185!3m5!1s0x94c8f84b1e2e7b23:0x9fce65c2c12fd70b!8m2!3d-22.4344292!4d-46.9586226!16s%2Fg%2F11hb6_2_s0?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512974116633"
+          },
+          {
+            "image": {
+              "alt": "Loja 066 - Centro, Mogi Guaçu - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/bae4de16-a648-4387-a3cb-02851e65072c/IMG-20240625-WA0039.jpg"
+            },
+            "label": "Loja 066 - Centro, Mogi Guaçu - SP",
+            "address": "<p>Rua Apolinario, Centro, 79 - CEP: 13840-035</p><p><strong>De:</strong> Seg a Sex: 09h às 19h - Sáb: 09h às 13h</p><p></p><p></p>",
+            "linkMap": "https://www.google.com.br/maps/place/R.+Apolin%C3%A1rio,+79+-+Centro,+Mogi+Gua%C3%A7u+-+SP,+13840-035/@-22.3717634,-46.9439474,17z/data=!3m1!4b1!4m5!3m4!1s0x94c857b54a917281:0xc5d4d6353213fd69!8m2!3d-22.3717684!4d-46.9417587",
+            "linkWhatsapp": "https://wa.me/5512978130006"
+          },
+          {
+            "image": {
+              "alt": "Loja 075 - Itagaçaba, Cruzeiro - SP",
+              "src": "https://assets.decocache.com/oscarcalcados/2f176c2c-1d0d-453e-8efb-c02602b8a252/IMG_9375.jpg"
+            },
+            "label": "Loja 075 - Itagaçaba, Cruzeiro - SP",
+            "address": "<p>Rua Doutor Othon Barcelos, 05 - CEP: 12730-010</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com/maps/place/Rua+Dr.+Othon+Barcellos,+5+-+Centro,+Cruzeiro+-+SP,+12730-010/@-22.5837015,-44.9618786,16z/data=!4m6!3m5!1s0x9df42d70d2a91d:0x379be2f2824b48b9!8m2!3d-22.583065!4d-44.9606429!16s%2Fg%2F11lcc3gcb1?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5512992352499"
+          },
+          {
+            "image": {
+              "alt": "Loja 123 - Resende - RJ",
+              "src": "https://assets.decocache.com/oscarcalcados/86a7d490-6179-4863-b747-0675a2d3a73a/WhatsApp-Image-2025-04-13-at-9.31.55-PM.jpeg"
+            },
+            "label": "Loja 123 - Resende - RJ",
+            "address": "<p>Rua Alfredo Whately, Campos Elíseos, 200 - CEP: 27542-170.</p><p><strong>De:</strong> Seg a Sex: 11h às 19h - Sáb: 11h às 17h</p>",
+            "linkMap": "https://www.google.com.br/maps/place/Oscar+Cal%C3%A7ados+Resende/@-22.4630328,-44.4521706,17z/data=!4m15!1m8!3m7!1s0x9e7e90981980f5:0xdff59357a03a35d7!2sR.+Alfredo+Whately,+200+-+Campos+El%C3%ADseos,+Resende+-+RJ,+27542-170!3b1!8m2!3d-22.4630378!4d-44.4499819!16s%2Fg%2F11q2nftjj2!3m5!1s0x9e7e909818ebab:0x93a4db5f7fc43ab6!8m2!3d-22.4643864!4d-44.4480275!16s%2Fg%2F1tz96zqq?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+            "linkWhatsapp": "https://wa.me/5521964221103"
+          }
+        ],
+        "title": "Nossas lojas",
+        "description": "Conheça cada uma das nossas lojas, possuimos uma grande rede, com mais de 180 lojas multimarcas espalhadas pelos estados de São Paulo, Minas Gerais, Rio de Janeiro, Porto Alegre e Santa Catarina."
+      }
+    },
+    {
+      "__resolveType": "Banner APP"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/nossas-lojas",
+            "title": "Nossas Lojas - Encontre a mais próxima de você",
+            "description": "Encontre a loja Oscar mais próxima de você e aproveite ofertas exclusivas. Frete grátis* e parcelamento facilitado!"
+          }
+        ],
+        "title": "/nossas-lojas"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "description": "Encontre a loja Oscar mais próxima de você e aproveite ofertas exclusivas. Frete grátis* e parcelamento facilitado!",
+    "title": "Nossas Lojas - Encontre a mais próxima de você",
+    "type": "website"
+  }
+}

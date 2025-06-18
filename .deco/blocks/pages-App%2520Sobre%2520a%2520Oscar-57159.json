@@ -1,0 +1,138 @@
+{
+  "name": "App Sobre a Oscar",
+  "path": "/sobre-a-oscar-app",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/ImageWithModal.tsx",
+        "preload": true,
+        "imageDesktop": "https://data.decoassets.com/oscarcalcados/da3d2ab3-ff41-42dc-bd5a-662bde6775b6/1440x442.jpg",
+        "alt": "oscar",
+        "title": "Saiba mais sobre o Grupo Oscar",
+        "content": "<p style=\"text-align: center\"><span>Com mais de 40 anos de história, o Grupo Oscar é composto por uma rede de lojas que integram as marcas Oscar, Jô, Carioca, Aby’s, Gaston e Paquetá, além de ser responsável pela gestão da Diadora no Brasil.</span></p>",
+        "cards": [
+          {
+            "imageCard": "https://data.decoassets.com/oscarcalcados/409e38e9-7431-486e-9bd2-c4e390fde9cc/Prancheta-1.jpg",
+            "alt": "loja",
+            "title": "180 lojas físicas",
+            "content": "<p style=\"text-align: center\"><span>Lojas multimarcas de calçados, roupas e acessórios sob seu comando</span></p>"
+          },
+          {
+            "imageCard": "https://data.decoassets.com/oscarcalcados/6f3322ba-c6dd-43c2-b22d-2fe27654987c/Prancheta-2.jpg",
+            "alt": "6 marcas exclusivas",
+            "title": "6 marcas exclusivas",
+            "content": "<p style=\"text-align: center\"><span>como: Constantino, Done Head, OSC, KULT, M SHUZ e a licença da Diadora.</span></p>"
+          },
+          {
+            "alt": "Mais de 6 estados",
+            "title": "Mais de 6 estados",
+            "imageCard": "https://data.decoassets.com/oscarcalcados/8a764203-2454-45ae-9d84-91fd25b3ee6d/Prancheta-3.jpg",
+            "content": "<p style=\"text-align: center\"><span>São Paulo, Minas Gerais, Rio Grande do Sul, Santa Catarina e Pernambuco.</span></p>"
+          },
+          {
+            "imageCard": "https://data.decoassets.com/oscarcalcados/2d832cd7-098f-4ad0-8086-aa99b19db453/Prancheta-4.jpg",
+            "alt": "5 e-commerces",
+            "title": "5 e-commerces",
+            "content": "<p style=\"text-align: center\"><span>Sendo eles: Oscar Calçados, Diadora, Gaston, Paqueta e Paqueta Esportes.</span></p>"
+          },
+          {
+            "alt": "+3500 colaboradores",
+            "title": "+3500 colaboradores",
+            "imageCard": "https://data.decoassets.com/oscarcalcados/b1e690e3-4f8d-49f0-b542-fa4b66dc739c/Prancheta-5.jpg",
+            "content": "<p style=\"text-align: center\"><span>Contamos com mais de 3500 colaboradores atuando em diversas frentes por todo o Brasil.</span></p>"
+          }
+        ],
+        "imageMobile": "https://data.decoassets.com/oscarcalcados/245288ad-4836-407a-ad23-e3afd5983d11/750x690.jpg"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/CardBenefits.tsx",
+        "cards": [
+          {
+            "alt": "Propósito",
+            "content": "<p><span style=\"color: rgb(255 255 255 / var(--tw-text-opacity))\">Satisfação de estar bem a cada passo.</span></p>",
+            "image": "https://data.decoassets.com/oscarcalcados/bdbcb5fc-49fc-41ff-895b-1421921deef9/1.jpg",
+            "title": "Propósito"
+          },
+          {
+            "alt": "Proposta de Valor",
+            "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: medium\">Oferecer uma experiência de compra diferenciada com bons produtos.</span></p>",
+            "image": "https://data.decoassets.com/oscarcalcados/094e97be-2766-4db6-a08a-e5e6d4e1d099/2.jpg",
+            "title": "Proposta de Valor"
+          },
+          {
+            "alt": "Visão",
+            "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: medium\">Ser líder no varejo calçadista através de um ecossistema inovador e sustentável.</span></p>",
+            "image": "https://data.decoassets.com/oscarcalcados/c08067c8-bff2-4a81-b4be-74561e84b49c/3.jpg",
+            "title": "Visão"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/TextWithImageHistory.tsx",
+        "content": "<p><span style=\"color: rgb(172, 57, 57); font-size: 22pt\">OSCAR<br></span><br>Com mais de 40 anos de história, o Grupo Oscar é composto por uma rede de lojas que integram as marcas Oscar, Jô, Carioca, Aby’s, Gaston e Paquetá, além de ser responsável pela gestão da Diadora no Brasil. Ao total são 6 e-commerces e mais de 180 lojas multimarcas de calçados, roupas e acessórios sob seu comando. As lojas do grupo oferecem produtos de marcas próprias, como: Constantino, Done Head, OSC, KULT, M SHUZ e também faz uma curadoria de marcas parceiras consolidadas.</p><p><br></p><p>Com foco em fortalecer sua presença nacional, o Grupo Oscar vem expandindo suas ações desde 2021, quando anunciou a aquisição da Carioca Calçados, em Santa Catarina. Ainda neste mesmo ano, formou uma joint venture em Pernambuco com a Aby’s Calçados. Em 2022, assumiu a operação e o marketing brasileiro da tradicional marca italiana Diadora e, assim, fundou a Oscar Corporate Venture, VC com foco em startups early stage que tragam inovação aos negócios do grupo e ao mercado. No ano seguinte, 2023, anunciou a aquisição da operação de varejo do Grupo Paquetá, tradicional rede varejista de calçados do Rio Grande do Sul. Atualmente, o Grupo Oscar possui lojas em seis estados brasileiros: São Paulo, Minas Gerais, Rio Grande do Sul, Santa Catarina e Pernambuco.</p>",
+        "image": "https://data.decoassets.com/oscarcalcados/6f0f827d-3828-4c56-a4e9-617d5bd77a23/Banner_Recicalce.png",
+        "alt": "sobre a oscart",
+        "textImage": "A Recicalce, projeto social do Grupo Oscar, trabalha em prol do meio ambiente, da sustentabilidade e da inclusão social.",
+        "ImageText": "<p><span>A Recicalce, </span><strong><span>projeto social do Grupo Oscar</span></strong><span>, trabalha em prol do meio ambiente, da sustentabilidade e da inclusão social.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/CarrouselStores.tsx",
+        "content": "<p><span>Conheça as lojas físicas que fazem parte do Grupo Oscar, sendo elas: Oscar Calçados, Jô, Carioca, Gaston e Paqueta.</span></p>",
+        "cards": [
+          {
+            "alt": "Loja Oscar Vale Sul",
+            "content": "em São José dos Campos e +38 cidades.",
+            "image": "https://data.decoassets.com/oscarcalcados/e63cead9-1f3c-4faf-8b53-3ebb995e648a/1.jpg",
+            "title": "Oscar Calçados",
+            "link": "https://www.google.com/maps/place/Mega+Oscar/@-23.2175397,-45.8943094,17z/data=!3m2!4b1!5s0x94cc4a88e0a6dfa5:0x3810cb125180443c!4m5!3m4!1s0x94cc4bd9a7980593:0xe9b460cd972adaa5!8m2!3d-23.2175397!4d-45.8921207"
+          },
+          {
+            "alt": "Loja Carioca 218",
+            "content": "em Florianópolis e +7 cidades. ",
+            "image": "https://data.decoassets.com/oscarcalcados/2c1e3c1e-cc14-4cf1-adbc-6ba9ce1238e1/2.jpg",
+            "title": "Carioca",
+            "link": "https://www.google.com/maps/@-27.5912816,-48.5141065,3a,75y,298.15h,75.6t/data=!3m7!1e1!3m5!1sO3G1KwVTUsCYuUMQ4ic3kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.400000000000006%26panoid%3DO3G1KwVTUsCYuUMQ4ic3kw%26yaw%3D298.15!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "alt": "Loja Gaston",
+            "content": "em Porto Alegre e 2 cidades.",
+            "image": "https://data.decoassets.com/oscarcalcados/27a455fe-18d4-43b0-a0e0-95bf181a1bb4/3.jpg",
+            "title": "Gaston",
+            "link": "https://www.google.com.br/maps/place/Iguatemi+Porto+Alegre/@-30.0251176,-51.1649947,17z/data=!3m1!4b1!4m6!3m5!1s0x9519779ea66d9993:0x9477cb21ba5c4f62!8m2!3d-30.0251223!4d-51.1624198!16s%2Fg%2F122tvds0?entry=tts"
+          },
+          {
+            "title": "Paquetá Esportes",
+            "content": "em Porto Alegre e 3 cidades.",
+            "link": "https://www.google.com/maps/place/Barra+Shopping+Sul/@-30.0846697,-51.2484133,17z/data=!3m1!4b1!4m6!3m5!1s0x951979d2d2c319bb:0x634d012e6d0d3b52!8m2!3d-30.0846697!4d-51.2458384!16s%2Fg%2F11jcmf3jqn?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D",
+            "alt": "Loja Paquetá Esportes ",
+            "image": "https://data.decoassets.com/oscarcalcados/a21d1d31-19bd-4e22-89d4-3218d63f2007/5.jpg"
+          },
+          {
+            "title": "Paquetá Calçados",
+            "content": "em Canoas e 2 cidades.",
+            "link": "https://www.google.com/maps/place/Canoas+Shopping/@-29.9103118,-51.1852658,17z/data=!3m1!4b1!4m6!3m5!1s0x95197aaba8281361:0x50e8362ed629900c!8m2!3d-29.9103118!4d-51.1826909!16s%2Fg%2F11bx8h_hrd?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D",
+            "alt": "Loja Paquetá Calçados",
+            "image": "https://data.decoassets.com/oscarcalcados/6b08c615-4d3d-474c-bad8-ff25019d08b5/4.jpg"
+          }
+        ],
+        "title": "Lojas físicas do Grupo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "title": "Sobre a Oscar - Conheça nossa loja de calçados",
+    "description": "Conheça a história da Oscar e descubra mais sobre nossa loja de calçados. Há mais de 40 anos oferecendo os melhores produtos. Saiba mais!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

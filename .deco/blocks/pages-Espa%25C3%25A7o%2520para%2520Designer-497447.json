@@ -1,0 +1,606 @@
+{
+  "name": "Espaço para Designer",
+  "path": "/designer-preview",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx"
+    },
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/BenefitContent.tsx",
+        "benefits": [
+          {
+            "text": "<p><strong>Ganhe R$ 50,00 na primeira compra do app. Aproveite as ofertas exclusivas! Use o cupom:</strong></p>",
+            "codCupom": "APP50",
+            "labelButton": "Baixe o App Oscar agora",
+            "linkButton": "https://onelink.to/7qk2u8"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/Carousel.tsx",
+        "images": [
+          {
+            "desktop": "https://assets.decocache.com/oscarcalcados/5ef674c5-d043-405f-9cc3-ae450e929216/1440x480.jpg",
+            "mobile": "https://assets.decocache.com/oscarcalcados/63a41b5f-ac6a-452a-82fb-eaf40896636d/375x492.jpg",
+            "alt": "TESTE"
+          }
+        ],
+        "preload": false,
+        "arrows": true
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ShelfWithImage.tsx",
+        "stopwatch": {},
+        "bgColor": "#ffffff",
+        "image": {
+          "desktop": "https://assets.decocache.com/oscarcalcados/6ac3ea56-b052-4d26-ba28-c468b256febb/375x492.jpg",
+          "mobile": "https://assets.decocache.com/oscarcalcados/6ac3ea56-b052-4d26-ba28-c468b256febb/375x492.jpg",
+          "alt": "Coca",
+          "href": "/coca"
+        },
+        "title": "Moda Urbana com a Essência Coca-cola",
+        "activeStopwatch": false,
+        "headerAlignment": "center",
+        "headerfontSize": "Normal",
+        "section": {
+          "__resolveType": "site/sections/Product/ProductShelf.tsx",
+          "products": {
+            "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+            "props": {
+              "sort": "price:desc",
+              "fuzzy": "automatic",
+              "query": "/coca-cola",
+              "count": 12,
+              "hideUnavailableItems": true
+            }
+          },
+          "layout": {
+            "numberOfSliders": {
+              "mobile": 2,
+              "desktop": 4
+            },
+            "headerAlignment": "center",
+            "headerfontSize": "Small",
+            "showArrows": true
+          },
+          "cardLayout": {
+            "basics": {
+              "contentAlignment": "Left",
+              "oldPriceSize": "Small"
+            },
+            "elementsPositions": {
+              "favoriteIcon": "Top right"
+            },
+            "onMouseOver": {
+              "image": "Change image",
+              "card": "None",
+              "showFavoriteIcon": true
+            },
+            "hide": {
+              "productDescription": true,
+              "skuSelector": true,
+              "cta": true
+            },
+            "configPix": {
+              "__resolveType": "site/loaders/Pix/showPix.ts",
+              "props": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/BannerApp.tsx",
+        "banner": {
+          "desktop": "https://assets.decocache.com/oscarcalcados/77f94928-cfbf-4364-ba49-8877a63b5a1e/1440x270.jpg",
+          "mobile": "https://assets.decocache.com/oscarcalcados/4e8dd411-d8f9-4e2d-bf89-6b256aeb88c6/375x213.jpg",
+          "altText": "Banner aplicativo oscar"
+        },
+        "text": "<p><span style=\"color: #404040\">Aponte a câmera do celular, baixe o app ou busque na sua loja de aplicativos.</span></p>",
+        "apps": [
+          {
+            "label": "Android",
+            "image": "https://data.decoassets.com/oscarcalcados/529bfef9-a4a2-4e9a-a2f4-2119bc249bc1/botao_2.png",
+            "link": "https://play.google.com/store/apps/details?id=com.kobe.oscarcalcados"
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/BannerGrid.tsx",
+              "banners": [
+                {
+                  "alt": "Categoria Feminina",
+                  "srcMobile": "https://assets.decocache.com/oscarcalcados/01a53dd6-1157-4bc4-942a-f0b4d65222f5/343x334_fem-(1).jpg",
+                  "srcDesktop": "https://assets.decocache.com/oscarcalcados/4b667f2e-2ef1-4687-962d-6e1d2cd39171/644x314_fem-(1).jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos"
+                },
+                {
+                  "srcMobile": "https://assets.decocache.com/oscarcalcados/cf56476e-ee77-4c74-92e8-a154a4deaba4/343x334_masc-(1).jpg",
+                  "srcDesktop": "https://assets.decocache.com/oscarcalcados/687fd1a4-515f-48a7-9433-e3d356c71708/644x314_masc-(3).jpg",
+                  "alt": "Categoria Masculina ",
+                  "href": "https://www.oscarcalcados.com.br/calcados-masculinos"
+                }
+              ],
+              "borderRadius": {
+                "mobile": "3xl",
+                "desktop": "3xl"
+              },
+              "itemsPerLine": {
+                "mobile": 2,
+                "desktop": 2
+              }
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Banner Grid - 01"
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Category/CategoryList.tsx",
+        "list": [
+          {
+            "href": "/masculino",
+            "image": "https://assets.decocache.com/oscarcalcados/b9848258-4907-4208-b3ec-74f75e529326/396x514_2.jpg",
+            "description": "Amazing"
+          },
+          {
+            "href": "/feminino",
+            "image": "https://assets.decocache.com/oscarcalcados/e958cff4-2847-41b1-b438-822c7510fe13/396x514_1.jpg",
+            "description": "Bags"
+          },
+          {
+            "href": "/",
+            "image": "https://assets.decocache.com/oscarcalcados/44f1d5b0-8c60-4d4f-8a50-7c0e8baba634/396x514_3.jpg",
+            "description": "New deals"
+          }
+        ],
+        "header": {
+          "title": "Mais Ofertas",
+          "description": "Take a look at our categories"
+        },
+        "layout": {
+          "categoryCard": {
+            "textPosition": "top",
+            "textAlignment": "center"
+          },
+          "headerAlignment": "center"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Category/CategoryList.tsx",
+        "layout": {
+          "categoryCard": {
+            "textPosition": "bottom",
+            "textAlignment": "left"
+          },
+          "headerAlignment": "center"
+        },
+        "list": [
+          {
+            "href": "/sand",
+            "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+            "label": "Sandálias"
+          },
+          {
+            "href": "/scarpin",
+            "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+            "label": "Scarpin"
+          },
+          {
+            "href": "/botas",
+            "image": "https://assets.decocache.com/oscarcalcados/81ab75ba-9d47-47a0-9823-6dfaf3246f6f/Botas.jpg",
+            "label": "Botas"
+          },
+          {
+            "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+            "label": "Sandálias",
+            "href": "/sand"
+          },
+          {
+            "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+            "label": "Scarpin",
+            "href": "/scarpin"
+          },
+          {
+            "image": "https://assets.decocache.com/oscarcalcados/81ab75ba-9d47-47a0-9823-6dfaf3246f6f/Botas.jpg",
+            "label": "Botas",
+            "href": "/botas"
+          },
+          {
+            "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+            "label": "Sandálias",
+            "href": "/sand"
+          },
+          {
+            "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+            "label": "Scarpin",
+            "href": "/scarpin"
+          },
+          {
+            "image": "https://assets.decocache.com/oscarcalcados/81ab75ba-9d47-47a0-9823-6dfaf3246f6f/Botas.jpg",
+            "label": "Botas",
+            "href": "/botas"
+          }
+        ],
+        "header": {
+          "title": "CATEGORIAS"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Category/CategoryList.tsx",
+        "list": [
+          {
+            "href": "/masculino",
+            "image": "https://assets.decocache.com/oscarcalcados/f80decd9-20b1-4925-8ff8-9e5ca7eb73d2/396x514_2.jpg",
+            "description": "Amazing"
+          },
+          {
+            "href": "/feminino",
+            "image": "https://assets.decocache.com/oscarcalcados/e958cff4-2847-41b1-b438-822c7510fe13/396x514_1.jpg",
+            "description": "Bags"
+          },
+          {
+            "href": "/",
+            "image": "https://assets.decocache.com/oscarcalcados/6010bf14-277c-4b66-8bd5-e526647d1a99/396x514_3.jpg",
+            "description": "New deals"
+          }
+        ],
+        "header": {
+          "title": "As Marcas mais acessadas",
+          "description": "Take a look at our categories"
+        },
+        "layout": {
+          "categoryCard": {
+            "textPosition": "top",
+            "textAlignment": "center"
+          },
+          "headerAlignment": "center"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "layout": {
+          "numberOfSliders": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "products": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+          "props": {
+            "sort": "price:desc",
+            "collection": "199",
+            "count": 16,
+            "hideUnavailableItems": true
+          }
+        },
+        "cardLayout": {
+          "hide": {
+            "productDescription": true,
+            "skuSelector": true,
+            "installments": true
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "card": "None"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryGridMatcher.tsx",
+              "categoriesURL": [
+                {
+                  "items": [
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+                      "href": "andálias",
+                      "label": "Sandálias"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+                      "href": "/scarpin",
+                      "label": "Scarpin"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/18fc0a99-214b-48fa-b1eb-62bde6c00215/Coturnos.jpg",
+                      "href": "/coturnos",
+                      "label": "Coturnos"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+                      "href": "andálias",
+                      "label": "Sandálias"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+                      "href": "/scarpin",
+                      "label": "Scarpin"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/18fc0a99-214b-48fa-b1eb-62bde6c00215/Coturnos.jpg",
+                      "href": "/coturnos",
+                      "label": "Coturnos"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+                      "href": "andálias",
+                      "label": "Sandálias"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+                      "href": "/scarpin",
+                      "label": "Scarpin"
+                    },
+                    {
+                      "image": "https://assets.decocache.com/oscarcalcados/18fc0a99-214b-48fa-b1eb-62bde6c00215/Coturnos.jpg",
+                      "href": "/coturnos",
+                      "label": "Coturnos"
+                    }
+                  ],
+                  "matcher": "/designer-preview"
+                }
+              ]
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/BannerGrid.tsx",
+              "banners": [
+                {
+                  "alt": "Categoria Feminina",
+                  "srcMobile": "https://assets.decocache.com/oscarcalcados/01a53dd6-1157-4bc4-942a-f0b4d65222f5/343x334_fem-(1).jpg",
+                  "srcDesktop": "https://assets.decocache.com/oscarcalcados/4b667f2e-2ef1-4687-962d-6e1d2cd39171/644x314_fem-(1).jpg",
+                  "href": "https://www.oscarcalcados.com.br/calcados-femininos"
+                },
+                {
+                  "srcMobile": "https://assets.decocache.com/oscarcalcados/cf56476e-ee77-4c74-92e8-a154a4deaba4/343x334_masc-(1).jpg",
+                  "srcDesktop": "https://assets.decocache.com/oscarcalcados/687fd1a4-515f-48a7-9433-e3d356c71708/644x314_masc-(3).jpg",
+                  "alt": "Categoria Masculina ",
+                  "href": "https://www.oscarcalcados.com.br/calcados-masculinos"
+                }
+              ],
+              "borderRadius": {
+                "mobile": "3xl",
+                "desktop": "3xl"
+              },
+              "itemsPerLine": {
+                "mobile": 2,
+                "desktop": 2
+              }
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/SearchResult.tsx",
+              "layout": {
+                "variant": "aside",
+                "columns": {
+                  "mobile": 2,
+                  "desktop": 3
+                }
+              },
+              "page": {
+                "__resolveType": "commerce/loaders/product/extensions/listingPage.ts",
+                "data": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+                  "sort": "price:desc",
+                  "fuzzy": "automatic",
+                  "selectedFacets": [
+                    {
+                      "key": "productClusterIds",
+                      "value": "138"
+                    }
+                  ],
+                  "advancedConfigs": {
+                    "includeOriginalAttributes": []
+                  },
+                  "count": 8,
+                  "hideUnavailableItems": true,
+                  "similars": true
+                },
+                "extensions": [
+                  {
+                    "__resolveType": "vtex/loaders/product/extensions/listingPage.ts"
+                  }
+                ]
+              },
+              "minFilterPrice": 50,
+              "maxFilterPrice": 1,
+              "cardLayout": {
+                "basics": {
+                  "contentAlignment": "Left",
+                  "oldPriceSize": "Small"
+                },
+                "elementsPositions": {
+                  "favoriteIcon": "Top right"
+                },
+                "hide": {
+                  "productDescription": true,
+                  "skuSelector": true,
+                  "cta": true
+                },
+                "onMouseOver": {
+                  "image": "Change image",
+                  "card": "None"
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              }
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Category/CategoryList.tsx",
+              "layout": {
+                "categoryCard": {
+                  "textAlignment": "left",
+                  "textPosition": "bottom"
+                },
+                "headerAlignment": "center"
+              },
+              "list": [
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+                  "label": "Sandálias",
+                  "href": "/sand"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+                  "label": "Scarpin",
+                  "href": "/scarpin"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/81ab75ba-9d47-47a0-9823-6dfaf3246f6f/Botas.jpg",
+                  "label": "Botas",
+                  "href": "/botas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+                  "label": "Sandálias",
+                  "href": "/sand"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+                  "label": "Scarpin",
+                  "href": "/scarpin"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/81ab75ba-9d47-47a0-9823-6dfaf3246f6f/Botas.jpg",
+                  "label": "Botas",
+                  "href": "/botas"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6a46b6f5-28b2-4e7c-aede-d4120b5a8a59/Alana-Marins.jpg",
+                  "label": "Sandálias",
+                  "href": "/sand"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/6bfc44a0-4a29-4d02-842c-e6d2f245b861/Brasileiro-Laura.jpg",
+                  "label": "Scarpin",
+                  "href": "/scarpin"
+                },
+                {
+                  "image": "https://assets.decocache.com/oscarcalcados/81ab75ba-9d47-47a0-9823-6dfaf3246f6f/Botas.jpg",
+                  "label": "Botas",
+                  "href": "/botas"
+                }
+              ],
+              "header": {
+                "title": "CATEGORIAS"
+              }
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Banner APP"
+      }
+    },
+    {
+      "__resolveType": "CookiesModal"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

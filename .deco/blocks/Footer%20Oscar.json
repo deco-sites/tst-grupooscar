@@ -1,0 +1,267 @@
+{
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "menus": [
+    {
+      "links": [
+        {
+          "label": "App Oscar",
+          "href": "/app-loja-oscar",
+          "emphasis": true,
+          "children": []
+        },
+        {
+          "label": "Sobre a Oscar",
+          "href": "/sobre-a-oscar",
+          "children": []
+        },
+        {
+          "label": "Blog Oscar",
+          "href": "https://blog.oscarcalcados.com.br/",
+          "children": []
+        },
+        {
+          "label": "Haus Creators",
+          "href": "/haus-creators-oscar"
+        },
+        {
+          "label": "Política de privacidade",
+          "href": "/politica-de-privacidade",
+          "children": []
+        },
+        {
+          "label": "Cartão presente",
+          "href": "https://oscarcalcados.todocartoes.com.br/#/purchase",
+          "children": []
+        },
+        {
+          "label": "Nossas lojas",
+          "href": "/nossas-lojas",
+          "children": []
+        },
+        {
+          "label": "Trabalhe conosco",
+          "href": "https://grupooscar.vagas.solides.com.br/",
+          "children": []
+        },
+        {
+          "label": "Loja da Águia",
+          "href": "/lojadaaguia",
+          "children": []
+        },
+        {
+          "href": "https://recicalce.org.br/",
+          "label": "Recicalce",
+          "children": []
+        }
+      ],
+      "title": "Institucional",
+      "children": []
+    },
+    {
+      "links": [
+        {
+          "label": "Regulamentos",
+          "href": "/regulamentos",
+          "children": []
+        },
+        {
+          "label": "Entregas",
+          "href": "/entregas",
+          "children": []
+        },
+        {
+          "label": "Trocas e Devoluções",
+          "href": "/troca-e-devolucao",
+          "children": []
+        },
+        {
+          "label": "Cancelamentos",
+          "href": "/cancelamentos",
+          "children": []
+        },
+        {
+          "label": "Formas de pagamento",
+          "href": "/formas-de-pagamento"
+        }
+      ],
+      "title": "Ajuda",
+      "children": []
+    },
+    {
+      "links": [
+        {
+          "label": "Minha conta",
+          "href": "/my-account",
+          "children": []
+        },
+        {
+          "children": [],
+          "label": "Meus pedidos",
+          "href": "/my-account#/orders"
+        },
+        {
+          "children": [],
+          "label": "Lista de desejos",
+          "href": "/my-account#/wishlist"
+        }
+      ],
+      "title": "Meus acessos",
+      "children": [
+        {
+          "links": [
+            {
+              "children": [],
+              "label": "Sobre o cartão",
+              "href": "https://cartaofestcard.com.br/"
+            },
+            {
+              "children": [],
+              "label": "Pagar fatura",
+              "href": "https://portador-festcard.mob4pay.com/payment-init"
+            },
+            {
+              "children": [],
+              "label": "Solicitar cartão",
+              "href": "https://cartaofestcard.com.br/"
+            }
+          ],
+          "children": [],
+          "title": "Cartão Oscar - Festcard"
+        }
+      ]
+    }
+  ],
+  "relationshipCenter": {
+    "links": [
+      {
+        "label": "Oscar Calçados",
+        "description": "De segunda a sexta, 9h às 18h (exceto feriados)",
+        "labelBtn": "Fale com a Oscar",
+        "href": "mailto:sac@grupooscar.com.br"
+      },
+      {
+        "label": "Cartão Festcard",
+        "description": "De segunda a sábado, 9h às 22h",
+        "labelBtn": "Fale com a Festcard",
+        "href": "https://wa.me/551239252628"
+      }
+    ],
+    "title": "Horário de atendimento"
+  },
+  "social": {
+    "icons": [
+      {
+        "icon": "insta-menu",
+        "name": "Instagram",
+        "href": "https://www.instagram.com/oscarcalcados"
+      },
+      {
+        "icon": "face-menu",
+        "name": "Facebook",
+        "href": "https://www.facebook.com/oscarcalcados"
+      },
+      {
+        "icon": "pinterest-menu",
+        "name": "Pinterest",
+        "href": "https://br.pinterest.com/oscarcalcados"
+      },
+      {
+        "icon": "youtube-menu",
+        "name": "Youtube",
+        "href": "https://www.youtube.com/user/OscarCalcados/videos"
+      }
+    ],
+    "title": "Redes sociais"
+  },
+  "newsletter": {
+    "form": {
+      "placeholderEmail": "E-mail",
+      "placeholderNome": "Nome",
+      "terms": "Ao se cadastrar você irá concordar com a nossa política de privacidade",
+      "buttonText": "Cadastrar-se"
+    },
+    "title": "Inscreva-se para receber novidades e descontos!",
+    "description": "Inscreva-se e garanta vantagens, descontos e cupons exclusivos!"
+  },
+  "paymentMethods": {
+    "items": [
+      {
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/bf3fa946-2c18-4440-b977-33ff94b30ff5/image-(11).png",
+        "alt": "Visa"
+      },
+      {
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/57d56426-311b-4823-9869-72899563b781/image-(12).png",
+        "alt": "Mastercard"
+      },
+      {
+        "alt": "Festcard",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/0bc812a5-bbf4-4f5d-a4cd-f9efe800d17d/logo-festcard-oscar-calcados.png"
+      },
+      {
+        "alt": "Elo",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/64dfa5dc-f503-4ebe-8867-b14fe01acb05/logo-elo-oscar-calcados.png"
+      },
+      {
+        "alt": "Hipercard",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/10c6476e-5207-4ace-8121-7aba00dedc84/logo-hipercard-oscar-calcados.png"
+      },
+      {
+        "alt": "Amercan Express",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/13d2ff83-33fb-4a8d-b252-50490823b8f2/logo-american-express-oscar-calcados.png"
+      },
+      {
+        "alt": "Pagaleve",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/2fbfee6a-b864-4e3b-9fef-b43dd9bc46a6/logo-pagaleve-oscar-calcados.png"
+      },
+      {
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/8a3cc537-d77b-4d0b-937b-e565a8fc49d5/logo-pix-oscar-calcados.png",
+        "alt": "Pix"
+      }
+    ],
+    "title": "Formas de pagamento:"
+  },
+  "security": {
+    "items": [
+      {
+        "logo": "https://data.decoassets.com/oscarcalcados/fb6f16d8-d06d-4914-a565-bcefa73e03bd/Frame-427322433.png",
+        "alt": "Reclame aqui",
+        "href": "https://www.reclameaqui.com.br/empresa/oscar-calcados/?utm_source=referral&utm_medium=embbed&utm_campaign=reputacao&utm_term=vertical",
+        "width": 65,
+        "height": 65
+      },
+      {
+        "alt": "Selo Ebit",
+        "logo": "https://data.decoassets.com/oscarcalcados/75af1e95-a706-440c-80c5-a339cda88a33/Frame-427322437.png",
+        "href": "https://www.ebit.com.br/76531/selo",
+        "width": 65,
+        "height": 65
+      },
+      {
+        "logo": "https://data.decoassets.com/oscarcalcados/2da5612c-576f-4b2f-8dfe-f0b68b1e4619/Frame-427322435.png",
+        "alt": "Vtex PCI",
+        "href": "https://secure.vtex.com/?an=oscarcalcados",
+        "width": 65,
+        "height": 65
+      },
+      {
+        "alt": "Reviews verificados",
+        "href": "https://certificados.trustvox.com.br/www.oscarcalcados.com.br",
+        "logo": "https://data.decoassets.com/oscarcalcados/26ba4424-b8a9-4b7a-9404-47e7dbfa9f6d/Frame-427322436.png",
+        "width": 130,
+        "height": 65
+      }
+    ],
+    "title": "Segurança:"
+  },
+  "socialResponsibility": {
+    "items": [
+      {
+        "alt": "Recicalce",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/914343f3-165b-4618-a989-071a0000a54e/Logo-recicalce-oscar-calcados.svg",
+        "href": "https://recicalce.org.br/"
+      }
+    ],
+    "title": "Responsabilidade social:"
+  },
+  "copyright": "<p><span style=\"font-size: 10pt\">Rua Paraibuna - 1692 - Vila Nair SJC - 12231-010. CNPJ: 54.650.901/0001-58 | Razão Social: Oscar Calcados Comercio Eletronico LTDA. Todos os direitos reservados.</span></p><p><span style=\"font-size: 10pt\">Eventuais promoções, descontos e prazos de pagamento expostos aqui são válidos apenas para compras via internet.As fotos, textos e layout aqui veiculados são de propriedade da Loja.</span></p><p><span style=\"font-size: 10pt\">É proibida a utilização total ou parcial sem nossa autorização.</span></p>"
+}

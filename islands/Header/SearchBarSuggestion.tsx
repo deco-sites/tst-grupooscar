@@ -1,0 +1,1 @@
+export {default, SearchBarSuggestionsMobile} from "../../components/oscar/header/SearchBar/SearchBarSuggestions.tsx"

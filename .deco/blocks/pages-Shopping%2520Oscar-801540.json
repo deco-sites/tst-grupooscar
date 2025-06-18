@@ -1,0 +1,256 @@
+{
+  "name": "Shopping Oscar",
+  "path": "/parceiros",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/BenefitContent.tsx",
+      "benefits": [
+        {
+          "text": "<p><strong>Ganhe R$50 OFF</strong> em sua 1ª compra pelo App Oscar com o cupom:</p>",
+          "codCupom": "APP50",
+          "labelButton": "Baixe o App Oscar agora",
+          "linkButton": "/"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "dots": true,
+      "arrows": true,
+      "images": [
+        {
+          "alt": "Ofertas de Verão Shopping Oscar",
+          "href": "/ofertas-verao-shopping-oscar",
+          "mobile": "https://data.decoassets.com/oscarcalcados/2df74ced-7e78-4d5f-a450-6115f8b7b394/375x492-MOBILE-(1).jpg",
+          "desktop": "https://data.decoassets.com/oscarcalcados/5aa8b00d-c937-45e2-b870-eeca48e791d8/1440x480-HOME.jpg"
+        },
+        {
+          "alt": "Grandes Marcas e Descontos - Frete Grátis R$199,99",
+          "href": "/frete-gratis-shopping-oscar",
+          "mobile": "https://data.decoassets.com/oscarcalcados/22907e9b-440d-463e-bab2-877ce99ea62b/375x492-MOBILE-(2).jpg",
+          "desktop": "https://data.decoassets.com/oscarcalcados/98c150de-0383-4812-8306-b4ac66e39f29/1440x480-HOME-(1).jpg"
+        },
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/a5bfc553-21e9-4f20-8372-268af6498e13/1440x480-HOME-(2).jpg",
+          "mobile": "https://data.decoassets.com/oscarcalcados/bff56ce4-5279-4b31-92a1-9eb270056a5a/375x492-MOBILE-(3).jpg",
+          "href": "/frete-gratis-todo-brasil-rovitex",
+          "alt": "Frete Grátis Todo Brasil Rovitex"
+        },
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/d14071b0-27c5-46bb-9d79-fc1e7cdd4fac/1440x480-HOME-(3).jpg",
+          "mobile": "https://data.decoassets.com/oscarcalcados/2d854cbc-1330-4a48-9781-87e54a232897/375x492-MOBILE-(4).jpg",
+          "alt": "Lançamentos Vestuários Shopping Oscar",
+          "href": "/lancamentos-roupas"
+        },
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/0e82cf88-e870-4b03-994f-c2744db5085a/1440x480-HOME-(6).jpg",
+          "mobile": "https://data.decoassets.com/oscarcalcados/f0660f15-1ee0-40db-a0a5-8b3043903ef7/375x492-MOBILE.jpg",
+          "alt": "Shopping Oscar + Festcard",
+          "href": "/shopping-oscar-festcard"
+        }
+      ],
+      "preload": true
+    },
+    {
+      "__resolveType": "site/sections/SEO/HeadingTag.tsx",
+      "text": "Lojas destaques do Shopping Oscar",
+      "bgText": "#000000",
+      "headingTag": "h1"
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryList.tsx",
+      "layout": {
+        "headerAlignment": "center",
+        "categoryCard": {
+          "textPosition": "bottom",
+          "textAlignment": "center"
+        }
+      },
+      "list": [
+        {
+          "href": "/frete-gratis-todo-brasil-rovitex?sort=orders%3Adesc&filter.productClusterIds=331&filter.genero=feminino&filter.genero=adulto-feminino",
+          "image": "https://data.decoassets.com/oscarcalcados/4a320e20-5f2e-4454-83e0-7faf0cdb9aee/360x468-DECO.jpg",
+          "label": "Roupas Femininas Frete Grátis"
+        },
+        {
+          "href": "/frete-gratis-todo-brasil-rovitex?sort=orders%3Adesc&filter.productClusterIds=331&filter.genero=masculino&filter.genero=adulto-masculino",
+          "image": "https://data.decoassets.com/oscarcalcados/02d9537e-ea64-49a6-b9d9-130e48ffeb83/360x468-DECO-(1).jpg",
+          "label": "Roupas Masculinas Frete Grátis"
+        },
+        {
+          "href": "/frete-gratis-todo-brasil-rovitex?sort=orders%3Adesc&filter.productClusterIds=331&filter.genero=menina&filter.genero=infantil-feminino",
+          "image": "https://data.decoassets.com/oscarcalcados/a3aa1a3e-74ce-4872-9191-f247288bda5b/360x468-DECO-(3).jpg",
+          "label": "Roupas Meninas Frete Grátis"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/142dd265-a6e5-4748-93ff-a014480cc625/360x468-DECO-(2).jpg",
+          "href": "/frete-gratis-todo-brasil-rovitex?sort=orders%3Adesc&filter.productClusterIds=331&filter.genero=menino&filter.genero=infantil-masculino",
+          "label": "Roupas Meninos Frete Grátis"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/396605cf-7cf7-4cc7-b239-de14ec6738a2/360x468-DECO.jpg",
+          "label": "Conheça todas as lojas",
+          "href": "/s?q=produtos-shopping-oscar"
+        }
+      ],
+      "header": {}
+    },
+    {
+      "__resolveType": "site/sections/Images/BannerGrid.tsx",
+      "itemsPerLine": {
+        "mobile": 1,
+        "desktop": 2
+      },
+      "borderRadius": {
+        "mobile": "none",
+        "desktop": "lg"
+      },
+      "banners": [
+        {
+          "srcDesktop": "https://data.decoassets.com/oscarcalcados/5e1a9116-a644-46a5-9a7f-f78f58e19106/644x314-AUXILIAR.jpg",
+          "alt": "Sawary Feminino com Desconto",
+          "href": "/sawary?filter.brand=sawary&filter.genero=feminino",
+          "srcMobile": "https://data.decoassets.com/oscarcalcados/15674273-654a-4cc4-b0e7-62c809790cf3/343x334-AUXILIAR.jpg"
+        },
+        {
+          "srcDesktop": "https://data.decoassets.com/oscarcalcados/3c9d0403-23f2-4936-89e6-581da766f453/644x314-AUXILIAR-(1).jpg",
+          "alt": "Sawary Masculino com Desconto",
+          "href": "/sawary?filter.brand=sawary&filter.genero=masculino",
+          "srcMobile": "https://data.decoassets.com/oscarcalcados/4efef034-e5a5-468f-a801-f8d076c337c7/343x334-AUXILIAR-(1).jpg"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Images/Banner.tsx",
+      "borderRadius": "xl",
+      "bgGray": false,
+      "alt": "Diadora com desconto",
+      "href": "/diadora?filter.brand=diadora&filter.sellername=diadora-brasil",
+      "srcMobile": "https://data.decoassets.com/oscarcalcados/94e214fd-0aee-4408-959c-cf00a9edf0ac/344x334-BARRA.jpg",
+      "srcDesktop": "https://data.decoassets.com/oscarcalcados/b4b2ef98-9340-4af8-95d1-c2ac20d4d558/1312x420-BARRA.jpg"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "bgGray": false,
+      "layout": {
+        "headerAlignment": "center",
+        "showArrows": true,
+        "headerfontSize": "Small",
+        "numberOfSliders": {
+          "mobile": 2,
+          "desktop": 4
+        }
+      },
+      "markupTitle": false,
+      "products": {
+        "props": {
+          "sort": "release:desc",
+          "count": 100,
+          "similars": false,
+          "hideUnavailableItems": true,
+          "collection": "143"
+        },
+        "crossSelling": "similars",
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": false,
+            "installments": false,
+            "productDescription": true,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      },
+      "title": "AINDA DÁ TEMPO! VOLTA ÁS AULAS COM DESCONTO"
+    },
+    {
+      "__resolveType": "site/sections/LPs/NewsletterPartners.tsx",
+      "title": "seja parceiro oscar!",
+      "text": "<p><span>Informe os seus dados para que o nossos time comercial entre em contato!</span></p>",
+      "form": {
+        "placeholderName": "Nome",
+        "placeholderEmail": "E-mail",
+        "labelCta": "Enviar"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Images/Banner.tsx",
+      "bgGray": false,
+      "alt": "Faça parte do Time Shopping Oscar",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSfEB6Gkz5cumYGfJX2QLYTsBGgVUHP24KeXvjtpN9WjmpjkvA/viewform",
+      "srcMobile": "https://data.decoassets.com/oscarcalcados/691e82ae-0ad3-42b7-bcc7-ea576d7f1a27/344x334-BARRA.jpg",
+      "srcDesktop": "https://data.decoassets.com/oscarcalcados/0ef47238-686d-44ae-9c7a-e1ad33053a56/1312x420-BARRA-(1).jpg",
+      "borderRadius": "xl"
+    },
+    {
+      "__resolveType": "site/sections/Category/CategorySEO.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h3",
+          "matcher": "/parceiros",
+          "image": "https://data.decoassets.com/oscarcalcados/c0c7a11e-dfbf-4893-aa77-8501bdc92e70/Design-sem-nome.jpg",
+          "title": "Marketplace Shopping Oscar",
+          "description": "<p>Lançado em 2020, o Marketplace Shopping Oscar nasceu com a proposta de conectar consumidores a uma seleção diversificada de produtos de qualidade, fortalecendo o comércio digital. Desde o início, o projeto demonstrou grande potencial, conquistando rapidamente parceiros e clientes por meio de uma experiência de compra prática e confiável. Esse crescimento significativo refletiu-se nos resultados financeiros: o marketplace alcançou, em <strong>2024, um faturamento superior a 6 milhões de reais.</strong></p><p></p><p>Ao longo de sua trajetória, o Shopping Oscar cresceu de forma consistente, ampliando seu leque de parceiros para cerca de <strong>50 marcas em 2024</strong>. Esses parceiros abrangem diferentes setores, desde moda, calçados e acessórios, garantindo uma oferta variada que atende a diversos perfis de consumidores. Os fatores que contribuíram para esse sucesso incluem uma estratégia digital robusta, foco na experiência do cliente e um forte relacionamento com os parceiros comerciais. Além disso, a adoção de tecnologias avançadas de gestão e logística permitiu ao Shopping Oscar oferecer um serviço ágil e eficiente, destacando-se em um mercado altamente competitivo. Com planos ambiciosos para os próximos anos, o Marketplace Shopping Oscar segue inovando e expandindo, consolidando sua posição como um dos líderes no comércio digital brasileiro.</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Banner APP"
+    },
+    {
+      "__resolveType": "CookiesModal"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "title": "Parceiros - Descubra nossas marcas parceiras",
+            "description": "Conheça nossos parceiros e aproveite ofertas especiais. Frete grátis* e parcelamento sem juros. Compre já!",
+            "matcher": "/parceiros"
+          }
+        ],
+        "title": "Parceiros"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "description": "Conheça nossos parceiros e aproveite ofertas especiais. Frete grátis* e parcelamento sem juros. Compre já!",
+    "title": "Parceiros - Descubra nossas marcas parceiras"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

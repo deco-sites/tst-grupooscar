@@ -1,0 +1,331 @@
+{
+  "name": "Loja da Águia",
+  "path": "/lojadaaguia",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/LowBannerCarrousel.tsx",
+        "images": [
+          {
+            "desktop": "https://assets.decocache.com/oscarcalcados/2dd6728b-0d05-4d38-b6d8-c0740cd58fb6/1440x270.jpg",
+            "mobile": "https://assets.decocache.com/oscarcalcados/6071768d-e085-488d-a2de-2fb376717f93/375x213.jpg",
+            "alt": "Imagem de um anúncio do São José Esporte Clube, com um águia azul em destaque no centro. O texto 'Sócio Águia' e 'Aproveite as vantagens exclusivas' aparecem em letras grandes e amarelas. Um botão com a frase 'Quero ser um sócio Águia' convida à ação.",
+            "href": "https://socioaguia.com.br/"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "commerce/loaders/product/productListingPage.ts",
+          "data": {
+            "__resolveType": "vtex/loaders/legacy/productListingPage.ts",
+            "term": "São José",
+            "count": 24,
+            "sort": "OrderByTopSaleDESC",
+            "filters": "dynamic",
+            "advancedConfigs": {
+              "includeOriginalAttributes": []
+            }
+          },
+          "extensions": [
+            {
+              "__resolveType": "vtex/loaders/product/extensions/listingPage.ts"
+            }
+          ]
+        },
+        "minFilterPrice": 50,
+        "maxFilterPrice": 1999,
+        "layout": {
+          "variant": "aside",
+          "columns": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "cardLayout": {
+          "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+          "layout": {
+            "basics": {
+              "contentAlignment": "Left",
+              "oldPriceSize": "Small"
+            },
+            "elementsPositions": {
+              "favoriteIcon": "Top right"
+            },
+            "onMouseOver": {
+              "image": "Change image",
+              "card": "None",
+              "showFavoriteIcon": true
+            },
+            "hide": {
+              "productDescription": true,
+              "skuSelector": true,
+              "cta": true
+            },
+            "configPix": {
+              "__resolveType": "Default-Pix"
+            }
+          }
+        },
+        "startingPage": 1
+      }
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "preload": true,
+            "arrows": false,
+            "images": [
+              {
+                "desktop": "https://assets.decocache.com/oscarcalcados/c2c0bad5-00b1-49c9-8d9e-37e96a08cd3a/1440x480-(1).jpg",
+                "mobile": "https://assets.decocache.com/oscarcalcados/9533f437-23ec-41be-b2ab-52aac956e300/375x492-(1).jpg",
+                "alt": "Imagem de um anúncio do São José Esporte Clube, com um águia azul em destaque no centro. O texto 'Sócio Águia' e 'Aproveite as vantagens exclusivas' aparecem em letras grandes e amarelas. Um botão com a frase 'Quero ser um sócio Águia' convida à ação.",
+                "href": "https://socioaguia.com.br/"
+              }
+            ]
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "title": "Produtos oficiais Águia do Vale",
+              "products": {
+                "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                "props": {
+                  "sort": "orders:desc",
+                  "collection": "1062",
+                  "count": 12,
+                  "hideUnavailableItems": true
+                }
+              },
+              "layout": {
+                "numberOfSliders": {
+                  "mobile": 2,
+                  "desktop": 4
+                },
+                "headerAlignment": "center",
+                "headerfontSize": "Small"
+              },
+              "cardLayout": {
+                "basics": {
+                  "contentAlignment": "Left",
+                  "oldPriceSize": "Small"
+                },
+                "elementsPositions": {
+                  "favoriteIcon": "Top right"
+                },
+                "hide": {
+                  "productDescription": true,
+                  "skuSelector": true,
+                  "cta": true,
+                  "discount": false
+                },
+                "onMouseOver": {
+                  "image": "Change image",
+                  "card": "None",
+                  "showFavoriteIcon": true
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              },
+              "description": "Venha conhecer as versões retro e o novo uniforme do time Águia do Vale."
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "title": "Kit torcedor",
+              "products": {
+                "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                "props": {
+                  "sort": "orders:desc",
+                  "collection": "1061",
+                  "count": 12,
+                  "hideUnavailableItems": true
+                }
+              },
+              "layout": {
+                "numberOfSliders": {
+                  "mobile": 2,
+                  "desktop": 4
+                },
+                "headerAlignment": "center",
+                "headerfontSize": "Small"
+              },
+              "cardLayout": {
+                "basics": {
+                  "contentAlignment": "Left",
+                  "oldPriceSize": "Small"
+                },
+                "elementsPositions": {
+                  "favoriteIcon": "Top right"
+                },
+                "hide": {
+                  "productDescription": true,
+                  "skuSelector": true,
+                  "cta": true,
+                  "discount": false
+                },
+                "onMouseOver": {
+                  "image": "Change image",
+                  "card": "None",
+                  "showFavoriteIcon": true
+                },
+                "configPix": {
+                  "__resolveType": "Default-Pix"
+                }
+              }
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Content/Institutional.tsx",
+              "title": "Águia do Vale",
+              "description": "<p>O Esporte Clube São José, orgulho de São José dos Campos, é mais do que um time de futebol; é um símbolo de paixão e tradição na cidade do Vale do Paraíba. Fundado em 13 de agosto de 1933, o clube carrega o apelido carinhoso de \"Águia do Vale\", em homenagem ao seu mascote, a águia, que reflete os valores de força, determinação e coragem.<br></p><p>Mais do que números e títulos, o Esporte Clube São José representa a paixão de sua torcida e a força de uma comunidade que vibra a cada jogo, mantendo viva a essência do futebol raiz.</p>",
+              "marcas": {
+                "logos": [
+                  {
+                    "image": "https://data.decoassets.com/oscarcalcados/29a2b7e6-96ca-4337-8418-e1781439baa7/oscar.svg",
+                    "alt": "logotipo oscar calçados"
+                  },
+                  {
+                    "image": "https://data.decoassets.com/oscarcalcados/dc5362a6-f3b9-4a15-ba2a-04c0c3c2effe/Sicred.svg",
+                    "alt": "logotipo Sicred"
+                  },
+                  {
+                    "alt": "logotipo Farma Conde",
+                    "image": "https://data.decoassets.com/oscarcalcados/6014fc33-a233-4b6e-8684-9a249a2c00ab/farmaconde.svg"
+                  },
+                  {
+                    "image": "https://data.decoassets.com/oscarcalcados/85212491-2078-4445-8d6d-af13cc7056c7/inovar.svg",
+                    "alt": "Logotipo Inovar"
+                  },
+                  {
+                    "image": "https://data.decoassets.com/oscarcalcados/7f22a302-bf0f-47ae-84ae-ae349429ee9c/DM.svg",
+                    "alt": "logotipo DM"
+                  }
+                ],
+                "title": "Patrocinadores"
+              },
+              "links": [
+                {
+                  "image": "https://data.decoassets.com/oscarcalcados/33b09c4c-3fb4-45a2-a2d6-e1d848fc2bfc/instagram-saojoseoficial.svg",
+                  "href": "https://www.instagram.com/saojoseecoficial/",
+                  "alt": "logo instagram @saojoseoficial"
+                },
+                {
+                  "image": "https://data.decoassets.com/oscarcalcados/b61ce77a-118f-4d48-bafe-cd75dc71a3f0/facebook-saojoseoficial.svg",
+                  "alt": "logo facebook @soajoseoficial",
+                  "href": "https://www.facebook.com/saojoseoficial"
+                },
+                {
+                  "image": "https://data.decoassets.com/oscarcalcados/6ba823a5-a457-479a-afec-af99ab1797bd/youtube-tv-aguia.svg",
+                  "href": "https://www.youtube.com/@tvaguiaoficial",
+                  "alt": "logo youtube TV AGUIA"
+                },
+                {
+                  "image": "https://data.decoassets.com/oscarcalcados/4f018e3f-03ec-4f4a-8c68-53b9fd539c1b/tik-tok-_sjec.svg",
+                  "href": "https://www.tiktok.com/@_sjec",
+                  "alt": "logo tik tok @_sjec"
+                }
+              ]
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/flags/multivariate/section.ts",
+      "variants": [
+        {
+          "value": {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+              "title": "São José Esporte Clube",
+              "content": "<p>O São José Esporte Clube é um dos clubes mais tradicionais do Vale do Paraíba e do Interior de São Paulo.</p><p>Fundado com o nome de Esporte Clube São José no dia 13 de agosto de 1933, por mais de 20 anos disputou torneios amadores. O clube mandava os seus jogos no antigo Estádio Martins Pereira que ficava no Centro da cidade, na Rua Antônio Saes e o seu primeiro mascote foi o “Formigão” por conta do grande número de “içás” que habitavam o município.</p><p><img src=\"https://assets.decocache.com/oscarcalcados/2292e904-f5b0-4dfa-a57f-6c55c0a291cf/Torcida_Edit.jpg\"></p><p>Sua estreia em competições profissionais foi em 1957, porém no ano seguinte voltou a disputar torneios amadores, voltando ao cenário profissional em 1964 com um time competitivo e dois títulos consecutivos: Campeão da Quarta Divisão e no ano seguinte Campeão da Terceira Divisão.</p><p>Em 1968 pediu licença das competições para que pudesse priorizar a construção do seu novo, e atual, Estádio Martins Pereira. Os anos seguintes não repetiram o sucesso dos primeiros e com dívidas acumuladas, o clube mudou de identidade e passou a se chamar São José Esporte Clube em 1976. Na esteira desta mudança, a Formiga e as cores preto e branco deram lugar à Águia e as cores do município (azul, amarelo e branco).</p><p>Os anos seguintes anteciparam o que viria a ser a década de maior projeção do São José.</p><p>Em 1980, o clube conquista o título Paulista da Divisão Intermediária após bater o Catanduvense por 4 a 0, no Pacaembu. Em 1981, pela primeira vez na sua história, participou da 1ª. Divisão Estadual, equivalente à atual Série A1. O São José enfrentou os clubes grandes de igual para igual e terminou a competição na 4ª colocação.</p><p>Por conta da boa campanha no Estadual, no ano seguinte, se tornaria o primeiro clube do Vale do Paraíba a figurar no cenário nacional tendo vaga garantida na Primeira Divisão do Campeonato Brasileiro de 1982 e teve um trio de ataque que marcou época para os joseenses: Edinho, Tião Marino e Nenê, que estavam no clube desde 1979.</p><p>Tião Marino, no período que esteve no São José (1979-1983) se tornou o maior artilheiro da história do clube, com 82 gols anotados, boa parte deles, de cabeça, especialidade do camisa 9.</p><p>Após alguns anos nas divisões menores, o São José ressurge na elite do Paulista em 1987. No ano seguinte, em 1988, treinado pelo ex-arqueiro joseense Emerson Leão, terminou a competição na 4º colocação, sendo parado na semifinal pelo Guarani de Campinas.</p><p>1989 foi o ano mágico do São José!</p><p>Treinado pelo ex-meio campista da Águia, Ademir Mello, e com um elenco composto por vários atletas de nível nacional, como Luis Henrique, Joãozinho, Delacir, Vander Luis, Tita, e o artilheiro do Paulistão, Toni. O São José surpreendeu todos os grandes e fez, no Martins Pereira um dos jogos mais memoráveis de sua história contra o Corinthians. No dia 25 de junho de 1989, o São José chegava, pela primeira vez, em uma semifinal do Paulistão e, com a vantagem de decidir em casa, buscava reverter o placar adverso da primeira partida na capital. A Águia não tomou conhecimento dos corinthianos e garantiu a sua vaga na final com uma vitória de 3 a 0 (1 x 0 no tempo regulamentar e 2 x 0 na prorrogação). Na finalíssima, enfrentou o São Paulo em duas partidas no Morumbi, e sagrou-se vice-campeão Paulista. Após a bela campanha vitoriosa, o clube fez sua primeira excursão internacional para a Espanha, onde fez 9 jogos amistosos (com 5 vitórias e 4 empates). No mesmo ano, foi vice-campeão Brasileiro da Série B, o que assegurou novamente uma vaga na elite do Brasil.</p><p>Em 1990, disputou os dois principais torneios do país: o Brasileirão da Série A e a Copa do Brasil, mas sem o brilho do ano anterior. Foi rebaixado no Brasileirão e eliminado na primeira fase da Copa do Brasil pelo Coritiba.</p><p>Voltaria a disputar a Série A1 no ano de 1997, mas em 1999 seria novamente rebaixado e, não somente não mais voltou a disputar o Paulistão, como, entre acessos e descensos, por alguns anos flertou com a real possibilidade de extinção. Um dos anos mais marcantes foi o de 2006. Com o apoio do ex-zagueiro Roque Júnior (revelado pelo clube nos anos 90) e um elenco formado por garotos da cidade sob o comando do também ex-zagueiro Mário Amado (conhecido como Marião), o São José fez uma campanha surpreendente e subiu da Série A3 para a Série A2, conquistando o vice-campeonato da competição. Nos anos seguintes chegou próximo do sonhado acesso, mas, mesmo chegando próximo, o objetivo acabou não sendo conquistado.</p><p>Um dos maiores destaques deste período, foi o atacante Renato Santiago, o “Santiagol”, que marcou 35 gols em 78 jogos com a camisa do São José.</p><p>Neste intervalo de tempo, o São José Futebol Feminino também teve a sua década de ouro e teve um papel fundamental no desenvolvimento e difusão do Futebol Feminino, alcançando títulos de expressão no cenário nacional e Internacional. Contando com atletas com passagens vitoriosas pela Seleção Brasileira, como: Formiga e Cristiane, o São José fez história: 3 títulos Paulistas (2012, 2014 e 2015), 2 Copas do Brasil (2012 e 2013), 3 Libertadores da América (2011, 2013 e 2014) e um inédito Campeonato Mundial de Clubes em 2014. O São José é, até hoje, o único time das Américas a ter vencido essa competição.</p><p>Voltando ao Futebol Masculino, em 2020, em um processo de reestruturação que estava em curso, em meio a pandemia da COVID-19, voltou a levantar uma taça, de Campeão Paulista da Segunda Divisão (atual série A4) e garantiu o tão aguardado retorno à Série A3.</p><p>Em 2022, com o advento da Lei da SAF, constituiu-se o São José EC- SAF e em seu primeiro ano de existência, garantiu o seu acesso à Série A2 com o vice-campeonato da Série A3 e, com o vice-campeonato da Copa Paulista, também assegurou, após 23 anos, o retorno ao cenário nacional para a disputa do Campeonato Brasileiro da Série D.</p><p>A construção de um Centro de Treinamento, a administração sob concessão pública do estádio Martins Pereira, investimentos nas categorias de base e o apoio de uma cidade apaixonada pelo São José são alguns dos pilares para assegurar uma estrutura de acordo com as ambições do clube para as próximas décadas.</p>"
+            }
+          },
+          "rule": {
+            "__resolveType": "website/matchers/never.ts"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/lojadaaguia",
+            "title": "Loja da Águia - O Esporte Clube São José",
+            "description": "Loja da Águia: aproveite vantagens exclusivas do Esporte Clube São José. Saiba mais sobre o time e como ser um sócio Águia!"
+          }
+        ],
+        "title": "/lojadaaguia"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "title": "Loja da Águia - O Esporte Clube São José",
+    "description": "Loja da Águia: aproveite vantagens exclusivas do Esporte Clube São José. Saiba mais sobre o time e como ser um sócio Águia!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

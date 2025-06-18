@@ -1,0 +1,271 @@
+{
+  "name": "Warner DC",
+  "path": "/warner-dc-oscar",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "images": [
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/9a8dd3e9-fd31-440f-9107-9a72854d2caa/44408dea-d127-4496-b6e5-1e25e5ce5252___4b37b5d264cdb7d657020dc6fde2d872.webp",
+          "href": "/warner",
+          "alt": "Warner DC",
+          "mobile": "https://data.decoassets.com/oscarcalcados/20e23fcb-7d72-4daf-b084-487751635cdb/3dfa379a-26ce-4933-8cbc-d7a89512efb5.jpg"
+        }
+      ],
+      "preload": true,
+      "arrows": true,
+      "dots": true
+    },
+    {
+      "__resolveType": "site/sections/Institucionals/RichText.tsx",
+      "title": "WARNER + DC+ OSCAR",
+      "variant": "Light",
+      "text": "<p>A Warner Bros, a DC Comics e a Oscar Calçados uniram forças para trazer o mundo das animações e do cinema para o seu estilo geek. Encontre uma variedade de produtos da Liga da Justiça, Cartoon Network, Harry Potter, Rick and Morty e muitos outros desenhos, filmes e séries, e adicione diversão aos seus visuais</p>"
+    },
+    {
+      "__resolveType": "site/sections/Content/CarouselSlider.tsx",
+      "content": [
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/2d723adb-e5f0-4376-81d0-d33910a95d7f/1783b6d8-8d96-4d44-8b51-29a616e7549b___26ac301998121d19d0de4011f7765ed4.webp",
+          "href": "/warner?filter.brand=warner&filter.personagens=jovens-titas",
+          "altText": "Jovens Titãs"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/020ebd6c-fd12-440b-80b3-8706cd8afabb/Harry-Potter.webp",
+          "href": "/warner?filter.brand=warner&filter.personagens=harry-potter",
+          "altText": "Harry Potter"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/ca2054b6-3b04-4e2e-b45d-bc072a03accc/Os-Flinstones.webp",
+          "href": "/warner",
+          "altText": "Os Flinstones"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/2f75fa40-8284-4a13-9ded-ea132d18acfd/Meninas-Super-poderosas.webp",
+          "href": "/warner",
+          "altText": "Meninas Super Poderosas"
+        },
+        {
+          "href": "/warner",
+          "altText": "Looney Tunes",
+          "image": "https://data.decoassets.com/oscarcalcados/e173f07e-307e-4e44-a69c-51dc2ffe7a01/Looney-Tunes.webp"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/7f9da5f9-79bd-4a05-9c54-365ef34cedc0/DC.webp",
+          "href": "/warner?filter.brand=warner&filter.personagens=batman&filter.personagens=flash&filter.personagens=mulher-maravilha&filter.personagens=superman&filter.personagens=dc",
+          "altText": "DC"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/020ebd6c-fd12-440b-80b3-8706cd8afabb/Harry-Potter.webp",
+          "href": "/warner?filter.brand=warner&filter.personagens=harry-potter",
+          "altText": "Harry Potter"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/ca2054b6-3b04-4e2e-b45d-bc072a03accc/Os-Flinstones.webp",
+          "href": "/warner",
+          "altText": "Os Flinstones"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/2f75fa40-8284-4a13-9ded-ea132d18acfd/Meninas-Super-poderosas.webp",
+          "href": "/warner",
+          "altText": "Meninas Super Poderosas"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/e173f07e-307e-4e44-a69c-51dc2ffe7a01/Looney-Tunes.webp",
+          "href": "/warner",
+          "altText": "Looney Tunes"
+        },
+        {
+          "href": "/warner?filter.brand=warner&filter.personagens=batman&filter.personagens=flash&filter.personagens=mulher-maravilha&filter.personagens=superman&filter.personagens=dc",
+          "altText": "DC",
+          "image": "https://data.decoassets.com/oscarcalcados/7f9da5f9-79bd-4a05-9c54-365ef34cedc0/DC.webp"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/2d723adb-e5f0-4376-81d0-d33910a95d7f/1783b6d8-8d96-4d44-8b51-29a616e7549b___26ac301998121d19d0de4011f7765ed4.webp",
+          "href": "/warner?filter.brand=warner&filter.personagens=jovens-titas",
+          "altText": "Jovens Titãs"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/ca2054b6-3b04-4e2e-b45d-bc072a03accc/Os-Flinstones.webp",
+          "href": "/warner",
+          "altText": "Os Flinstones"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/2f75fa40-8284-4a13-9ded-ea132d18acfd/Meninas-Super-poderosas.webp",
+          "href": "/warner",
+          "altText": "Meninas Super Poderosas"
+        },
+        {
+          "image": "https://data.decoassets.com/oscarcalcados/e173f07e-307e-4e44-a69c-51dc2ffe7a01/Looney-Tunes.webp",
+          "href": "/warner",
+          "altText": "Looney Tunes"
+        },
+        {
+          "href": "/warner?filter.brand=warner&filter.personagens=batman&filter.personagens=flash&filter.personagens=mulher-maravilha&filter.personagens=superman&filter.personagens=dc",
+          "altText": "DC",
+          "image": "https://data.decoassets.com/oscarcalcados/7f9da5f9-79bd-4a05-9c54-365ef34cedc0/DC.webp"
+        }
+      ],
+      "title": "Conheça os produtos por personagem"
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryBanner.tsx",
+      "banners": [
+        {
+          "image": {
+            "desktop": "https://data.decoassets.com/oscarcalcados/29c840a9-9c3a-4e0c-9a62-c3e0d0a00f99/Harry-Potter-Banner_11zon.jpg",
+            "mobile": "https://data.decoassets.com/oscarcalcados/399df9b0-ccfd-459f-b596-5261154fa809/7bd72e53-39d5-41a6-a6f5-56457aacaeb7.jpg",
+            "alt": "Harry Potter"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+          "props": {
+            "query": "harry potter",
+            "count": 16,
+            "sort": "orders:desc"
+          }
+        },
+        "title": "Para os fãs de Harry Potter",
+        "layout": {
+          "numberOfSliders": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "headerAlignment": "center",
+          "headerfontSize": "Small",
+          "showArrows": true
+        },
+        "cardLayout": {
+          "basics": {
+            "contentAlignment": "Left",
+            "oldPriceSize": "Small"
+          },
+          "elementsPositions": {
+            "favoriteIcon": "Top right"
+          },
+          "hide": {
+            "productDescription": true,
+            "skuSelector": true,
+            "productName": false,
+            "cta": true
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "card": "None",
+            "showFavoriteIcon": true
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Category/CategoryBanner.tsx",
+        "banners": [
+          {
+            "image": {
+              "desktop": "https://data.decoassets.com/oscarcalcados/3cfdbd37-06e6-410a-89f9-405eb53f1f81/Cartoon.webp",
+              "mobile": "https://data.decoassets.com/oscarcalcados/1fda1a69-a4e2-40ef-9317-dd2b761203f6/2bc3bfc8-cf5e-463e-84ab-0cfcda3d37d4.jpg",
+              "alt": "Cartoon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+          "props": {
+            "sort": "release:desc",
+            "collection": "1537",
+            "count": 16,
+            "hideUnavailableItems": true
+          }
+        },
+        "title": "Conheça todo o lançamento ",
+        "layout": {
+          "numberOfSliders": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "headerAlignment": "center",
+          "headerfontSize": "Small",
+          "showArrows": true
+        },
+        "cardLayout": {
+          "basics": {
+            "contentAlignment": "Left",
+            "oldPriceSize": "Small"
+          },
+          "elementsPositions": {
+            "favoriteIcon": "Top right"
+          },
+          "hide": {
+            "productDescription": true,
+            "skuSelector": true,
+            "productName": false,
+            "cta": true
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "card": "None",
+            "showFavoriteIcon": true
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Banner APP"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/warner-dc-oscar",
+            "title": "Warner DC - Produtos exclusivos para fãs",
+            "description": "Explore produtos exclusivos da Warner DC para fãs com frete grátis*. Só na Oscar você garante preços imperdíveis em itens colecionáveis! Aproveite."
+          }
+        ],
+        "title": "warner "
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "title": "Warner DC - Produtos exclusivos para fãs",
+    "description": "Explore produtos exclusivos da Warner DC para fãs com frete grátis*. Só na Oscar você garante preços imperdíveis em itens colecionáveis! Aproveite."
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

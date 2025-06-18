@@ -1,0 +1,42 @@
+{
+  "name": "Cancelamentos",
+  "path": "/cancelamentos",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+      "content": "<h3><strong>Ainda não recebi a minha compra.</strong></h3><p>Caso você ainda não tenha recebido seu pedido, pode solicitar o cancelamento do seu pedido antes que ele seja faturado ou despachado.</p><p>Após o faturamento ou envio, não será mais possível efetuar o cancelamento imediato, pois o pedido já estará em processo logístico.</p><p>Caso o seu pedido já tenha sido despachado, orientamos que recuse a entrega no momento em que os Correios ou a transportadora realizarem a tentativa. Assim que o produto retornar ao nosso centro de distribuição, iniciaremos o processo de conferência e, em seguida, faremos a devolução dos valores conforme a forma de pagamento utilizada na compra.</p><p>Se tiver dúvidas ou precisar de ajuda, acesse nossos canais de atendimento e nossa equipe de atendimento está à disposição para te auxiliar. Os canais de atendimento ficará disponível na nossa página principal. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/\"><strong><u>Clique aqui.</u></strong></a></p><p></p><h3><strong>Já recebi e gostaria de devolver a minha compra, como faço?</strong></h3><p>Agora, se você já recebeu o seu pedido, informamos que é possível solicitar a devolução, somente se seu pedido encontra-se dentro das exigências, conforme previsto em Lei N° 8.078/90 Art. 49 do Código de Defesa do que diz:</p><p></p><p><strong><em>“O consumidor pode desistir do contrato, no prazo de 7 dias a contar de sua assinatura ou do ato de recebimento do produto ou serviço, sempre que a contratação de fornecimento de produtos e serviços ocorrer fora do estabelecimento comercial, especialmente por telefone ou a domicílio”.</em></strong></p><p></p><p><strong>Se seu pedido cumpre essa exigência, favor entrar em contato para preencher um formulário de devolução. </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/troca-e-devolucao\"><strong><u>Clique aqui.</u></strong></a></p><p>Depois de preencher o formulário com todas as informações necessárias, em seu e-mail você receberá uma autorização de postagem para envio de seu(s) produto(s), que deverá ser impressa e entregue junto com o(s) produto(s) seguindo instruções abaixo:</p><p></p><p><strong>Passo 1</strong> - Os produtos devem ser enviados com suas caixas originais e embalados com embalagem plástica ou papel, para proteção do conteúdo, evitando adicionar fitas adesivas diretamente nas caixas dos produtos.</p><p><strong>Passo 2</strong> - Após a chegada do pedido, o(s) produto(s) passarão pelo Setor de Análise que verificará possíveis indícios de uso ou desgastes. Se seu produto(s) estiver de acordo com as exigências de nossa loja você receberá o estorno do seu pedido.</p><p></p><h3><strong>Depois de cancelar ou devolver meu pedido, qual o prazo para receber meu estorno?</strong></h3><p>O prazo de estorno pode variar conforme cada forma de pagamento, segue o exemplo de cada uma delas:</p><p></p><p><strong>PIX: </strong>Em até 24h na mesma conta em que você fez o pagamento do seu pedido;</p><p><strong>Cartão de crédito:</strong> em até 5 dias úteis dependendo do fechamento da fatura do seu cartão. Após esse prazo, pedimos que consulte a administradora do seu cartão de crédito para mais informações sobre como e quando será lançado esse estorno em sua fatura. Sua compra aparecerá como débito na fatura e o valor estornado aparecerá como crédito. Se a fatura foi fechada antes do processo de estorno ser concluído, o crédito aparecerá em sua próxima fatura.</p><p><strong>Festcard: </strong>em até 5 dias úteis, <strong>mas o estorno não é feito de forma integral e sim parcial, de acordo com a quantidade de vezes parceladas</strong>, exemplo se pagou a sua compra em 3 vezes, ela será estornada em 3 parcelas e dependendo da data de fechamento da fatura.</p>",
+      "title": "Como faço para cancelar o meu pedido?"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/cancelamentos",
+            "title": "Cancelamentos - Veja nossa política completa",
+            "description": "Tire suas dúvidas sobre cancelamentos e conheça nossa política completa. Compre tranquilo, com segurança e condições especiais!"
+          }
+        ],
+        "title": "cancelamentos"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "title": "Cancelamentos - Veja nossa política completa",
+    "description": "Tire suas dúvidas sobre cancelamentos e conheça nossa política completa. Compre tranquilo, com segurança e condições especiais!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

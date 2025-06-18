@@ -1,0 +1,12 @@
+{
+  "account": "grupooscar",
+  "platform": "vtex",
+  "publicUrl": "https://secure.oscarcalcados.com.br/",
+  "salesChannel": "1",
+  "__resolveType": "decohub/apps/vtex.ts",
+  "defaultSegment": {
+    "channelPrivacy": "public",
+    "channel": "1"
+  },
+  "usePortalSitemap": true
+}

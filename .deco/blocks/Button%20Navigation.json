@@ -1,0 +1,50 @@
+{
+  "__resolveType": "site/sections/Institucionals/ButtonNavigation.tsx",
+  "logo": {
+    "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/6a702532-b890-4722-86ff-9f8dc6b5f1ec/Vector-(1).png",
+    "alt": "oscar"
+  },
+  "navigation": [
+    {
+      "title": "App Oscar",
+      "href": "/app-oscar"
+    },
+    {
+      "title": "Blog Oscar",
+      "href": "/blog-oscar"
+    },
+    {
+      "title": "Sobre a Oscar",
+      "href": "/sobre-a-oscar"
+    },
+    {
+      "title": "Política de privacidade",
+      "href": "/politica-de-privacidade"
+    },
+    {
+      "title": "Cartão presente",
+      "href": "/cartao-presente"
+    },
+    {
+      "title": "Nossas lojas",
+      "href": "/nossas-lojas"
+    },
+    {
+      "title": "Trabalhe conosco",
+      "href": "/trabalhe-conosco"
+    },
+    {
+      "title": "Loja da Águia",
+      "href": "/loja-da-aguia"
+    },
+    {
+      "title": "Recicle",
+      "href": "/recicle"
+    },
+    {
+      "title": "Assessoria de imprensa",
+      "href": "/assessoria-de-imprensa"
+    }
+  ],
+  "title": "Menu institucional"
+}

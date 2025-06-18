@@ -1,0 +1,17 @@
+{
+  "sort": "",
+  "count": 24,
+  "fuzzy": "disabled",
+  "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+  "selectedFacets": [
+    {
+      "key": "productClusterIds",
+      "value": "1224"
+    }
+  ],
+  "hideUnavailableItems": true,
+  "advancedConfigs": {
+    "includeOriginalAttributes": []
+  },
+  "pageOffset": 1
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Harry Potter",
+  "path": "/h",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "jsonLD": {
+        "__resolveType": "PLP Loader"
+      },
+      "noIndexing": false,
+      "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+      "noIndexingFilter": true
+    },
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryBanner.tsx",
+      "banners": [
+        {
+          "image": {
+            "desktop": "https://data.decoassets.com/oscarcalcados/af1ada8c-8509-4003-b3a4-14940fa36c01/Harry-Potter-Banner_11zon.jpg",
+            "mobile": "https://data.decoassets.com/oscarcalcados/399df9b0-ccfd-459f-b596-5261154fa809/7bd72e53-39d5-41a6-a6f5-56457aacaeb7.jpg",
+            "alt": "banner de verão"
+          },
+          "matcher": "/warner"
+        }
+      ]
+    },
+    {
+        "__resolveType": "site/sections/Content/UxWriting.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h1",
+          "matcher": "/calcados-femininos",
+          "title": "calçados femininos",
+          "description": "<p>Aqui na Oscar, você encontra calçados femininos para todas as ocasiões: tênis para se exercitar, trabalhar ou passear, rasteirinhas para usar de dia e à noite, sandálias para eventos formais ou para o dia a dia e muito mais! Confira:</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "PLP Loader"
+      },
+      "layout": {
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        },
+        "variant": "aside",
+        "pagination": "show-more"
+      },
+      "cardLayout": {
+        "layout": {
+          "hide": {
+            "skuSelector": true,
+            "productDescription": true,
+            "allPrices": false,
+            "favoriteIcon": false,
+            "installments": false,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx"
+      },
+      "startingPage": 1,
+      "minFilterPrice": 10,
+      "maxFilterPrice": 2500
+    },
+    {
+      "__resolveType": "site/sections/Category/CategorySEO.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h2",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/e94caddb-dc93-4137-92e1-e51403c1fc68/image-(26).png",
+          "matcher": "/calcados-femininos",
+          "description": "<h3><strong><span style=\"font-size: 18pt\">Dicas para comprar calçados femininos</span></strong></h3><p>Para além de uma necessidade, as mulheres sabem que o <strong>os calçados femininos são uma expressão de estilo e identidade</strong> — e opções para manifestar a sua personalidade da cabeça aos pés não faltam.</p><p>Com a variedade de modelos de calçados <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/feminino\">femininos </a>existentes, seu look pode mudar completamente com a simples troca de sapatos.</p><p>A seguir, confira o nosso<strong> guia de calçados femininos</strong> para não se perder entre todas as opções disponíveis.</p><h4><span style=\"font-size: 16pt\">Tipos de calçados femininos</span></h4><p><strong>TÊNIS FEMININO</strong></p><p>Os<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/calcados-femininos/tenis\"> tênis femininos</a> são um calçado confortável para o dia a dia e dão um ar despojado e moderno para os looks casuais. Além disso, existem os modelos de<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/calcados-femininos/tenis/esportivo\"> tênis femininos esportivos</a>, ideais para a prática de exercícios físicos, como corrida e academia.</p><p><strong>BOTAS FEMININAS</strong></p><p>As botas femininas são um calçado muito utilizado em estações de baixa temperatura ou para compor looks mais ousados e fashionistas em qualquer época do ano. Elas podem ser de cano curto (ou ankle boot), médio ou longo. Existem ainda as botas over the knee, que pegam até a altura da coxa. Esses calçados podem ou não ter saltos.</p><p><strong>SAPATILHAS FEMININAS</strong></p><p>A sapatilha é um tipo de calçado feminino fechado com sola plana e sem salto. É um sapato muito utilizado no dia a dia para eventos casuais, pois proporciona muito conforto e é prático de usar.</p><p><strong>SAPATO SOCIAL FEMININO</strong></p><p>Para looks mais sociais, com calças de alfaiataria, blazer e blusas de linho, o sapato social feminino pode ser a cereja do bolo. Em ocasiões formais, além de usar sapatilhas e saltos baixos, também é uma opção vestir sapatos nos modelos mocassim, mule ou oxford.</p><p><strong>CHINELOS FEMININOS</strong></p><p>Os chinelos femininos são calçados para o dia a dia dentro de casa ou em idas informais à rua. Podem ser de dedo ou slide, feitos de borracha ou couro: o importante é o conforto.</p><p><strong>SANDÁLIAS RASTEIRINHAS</strong></p><p>As sandálias rasteirinhas são excelentes calçados de uso diário, especialmente para situações informais e eventos casuais. Elas deixam qualquer look mais leve e trazem muita praticidade e conforto para a rotina.</p><p><strong>SANDÁLIAS DE SALTO</strong></p><p>As sandálias femininas de salto dão um ar mais elegante para qualquer look, seja ele casual ou formal. Sandálias anabela ou plataforma têm os saltos mais grossos e, por isso, são mais confortáveis para usar no dia-a-dia, assim como modelos de salto baixo ou médio. Para eventos mais formais, os saltos altos e finos ficam mais sofisticados ainda.</p><p>Na Oscar Calçados, você encontra diversos modelos de calçados femininos das principais marcas do mercado, como:</p><p>Nike;</p><p>Adidas;</p><p>Olympikus;</p><p>Vizzano,</p><p>Modare,</p><p>Piccadilly,</p><p>Bebecê,</p><p>Bottero,</p><p>Beira Rio,</p><p>Via Marte,</p><p>Mississipi,</p><p>Ramarim,</p><p>Comfortflex,</p><p>OSC,</p><p>MShuz,</p><p>e muitas outras!</p><p>Pagando suas compras com o Cartão Oscar FestCard, você pode parcelar em até 12x fixas e receber até 10% de cashback. Confira os modelos disponíveis e boas compras na nossa loja de calçados online!</p>",
+          "title": "calçados femininos"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Banner APP"
+      }
+    },
+    {
+      "__resolveType": "CookiesModal"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

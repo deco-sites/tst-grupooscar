@@ -1,0 +1,26 @@
+{
+  "name": "My Account",
+  "path": "/my-account",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/BonifiQ/HeaderBonifiq.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Account/IframeMyAccount.tsx",
+      "src": "https://oscarcalcados.com.br/account"
+    },
+    {
+      "__resolveType": "Banner APP"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

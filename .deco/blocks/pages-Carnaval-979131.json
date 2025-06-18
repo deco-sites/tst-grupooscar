@@ -1,0 +1,75 @@
+{
+  "name": "Carnaval",
+  "path": "/carnaval",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+        "__resolveType": "site/sections/Content/UxWriting.tsx",
+        "seoTexts": [
+          {
+            "headingtag": "h1",
+            "matcher": "/carnaval",
+            "title": "SAPATOS PARA CARNAVAL",
+            "description": "<p><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Para que sua folia seja tranquila e confortável, você precisa de calçados que abracem seus pés. Sendo assim, nada melhor que encontrar sapatos para carnaval aqui em nossa loja de calçados, não é mesmo? Temos diversos modelos e estilos para você arrasar neste carnaval, aproveite!</span></p>"
+          }
+        ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "",
+          "fuzzy": "disabled",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "151"
+            }
+          ],
+          "count": 24,
+          "hideUnavailableItems": true,
+          "pageOffset": 1
+        },
+        "layout": {
+          "variant": "aside",
+          "columns": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "cardLayout": {
+          "__resolveType": "Product Card Layout - 01"
+        },
+        "startingPage": 1,
+        "minFilterPrice": 50,
+        "maxFilterPrice": 1.999
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Category/CategorySEO.tsx",
+        "seoTexts": [
+          {
+            "headingtag": "h3",
+            "matcher": "/carnaval",
+            "title": "Modelos de sapatos para carnaval e as melhores dicas",
+            "image": "https://data.decoassets.com/oscarcalcados/8e5ae2e5-f0db-438e-a656-87b485fb9f6e/OSC00151-(1).jpg",
+            "description": "<h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Arrase no Carnaval com conforto e estilo</span></strong></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">O Carnaval é uma das festas mais aguardadas do ano, repleta de alegria, música e muita dança. Para curtir cada momento sem perder o estilo, é essencial escolher os sapatos para carnaval. Aqui estão algumas dicas de </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/calcados-femininos/sapatos\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">sapatos femininos</span></strong></a><span style=\"color: rgb(0, 0, 0); font-size: 12pt\"> que são a cara do Carnaval, disponíveis na Oscar Calçados:</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Sandálias com strass e brilho</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Nada melhor do que brilhar durante os dias de folia. As sandálias com strass são perfeitas para quem quer se destacar na multidão. Elas adicionam um toque de glamour ao seu look, refletindo as luzes e tornando cada passo um espetáculo.</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Sandálias douradas e prateadas</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">O dourado e o prateado são cores que remetem à riqueza e ao luxo, ideais para o Carnaval. As sandálias nessas cores são versáteis e combinam com qualquer fantasia, desde as mais simples até as mais elaboradas. Além disso, elas são perfeitas para dar aquele toque especial ao seu visual.</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Rasteirinhas metalizadas</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Conforto é fundamental quando se trata de pular Carnaval. As </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/calcados-femininos/rasteirinhas\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">rasteirinhas</span></strong></a><span style=\"color: rgb(0, 0, 0); font-size: 12pt\"> metalizadas são uma excelente escolha, pois além de confortáveis, são super estilosas. Elas vêm em diversas cores metálicas, como prata, dourado, rosa e azul, permitindo que você escolha a que melhor combina com seu look carnavalesco.</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Sandálias metalizadas</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Para quem prefere um pouco mais de altura, as sandálias metalizadas são ideais. Elas oferecem o equilíbrio perfeito entre conforto e elegância. Com um brilho que chama a atenção, essas sandálias são ótimas para quem quer dançar a noite toda sem ignorar o estilo.</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Sandálias com pedrarias</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">As pedrarias são detalhes que fazem toda a diferença. Sandálias com pedrarias são sofisticadas e dão um toque de elegância ao seu visual. Elas são perfeitas para quem quer um look mais elaborado, sem perder a praticidade e o conforto.</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Sandálias coloridas</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">O Carnaval é sinônimo de cores e alegria. Sandálias coloridas são a escolha certa para quem quer entrar no clima da festa. Elas são divertidas, vibrantes e combinam com a energia contagiante do Carnaval. Opte por cores como vermelho, azul, verde e amarelo para um look ainda mais animado.</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Tênis confortáveis e estilosos</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Para quem prefere algo mais casual e confortável, os </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/calcados-femininos/tenis\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">tênis femininos</span></strong></a><span style=\"color: rgb(0, 0, 0); font-size: 12pt\"> são uma ótima opção. Escolha modelos com detalhes brilhantes ou em cores vibrantes para não perder o espírito carnavalesco. Eles são perfeitos para quem vai andar muito e precisa de conforto para aguentar a farra.</span></p><h4><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Dicas extras para escolher o sapato para carnaval ideal</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">:</span></h4><ul><li><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Conforto em primeiro lugar</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">: lembre-se que você vai passar horas em pé e dançando, por isso, escolha sapatos para carnaval que não machuquem seus pés.</span></p></li></ul><ul><li><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Ajuste e estabilidade</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">: verifique se o sapato está bem ajustado ao seu pé e se oferece estabilidade para evitar torções.</span></p></li></ul><ul><li><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Material resistente</span></strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">: opte por materiais de qualidade que suportem o desgaste do Carnaval.</span></p></li></ul><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">Com essas dicas, você estará pronta para curtir o Carnaval com muito estilo e conforto. Não deixe de conferir em nossa </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 12pt\">loja de calçados</span></strong></a><span style=\"color: rgb(0, 0, 0); font-size: 12pt\"> e escolha o sapato para carnaval perfeito para você!</span></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

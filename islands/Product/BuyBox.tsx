@@ -1,0 +1,1 @@
+export {default} from "$store/components/product/BuyBox/Button.tsx"

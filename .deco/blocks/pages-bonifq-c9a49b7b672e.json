@@ -1,0 +1,41 @@
+{
+  "name": "Bonifiq",
+  "path": "/clube-oscar",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+        "__resolveType": "site/sections/Content/RichText.tsx",
+        "text": "<h1 style=\"text-align: center\">Clube Oscar, aguarde 5 segundos para o carregamento.</h1>"
+    },
+    {
+      "__resolveType": "site/sections/Content/BonifiQ.tsx"
+    },
+    {
+      "__resolveType": "Banner APP"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/clube-oscar",
+            "title": "Clube Oscar - Benefícios exclusivos para clientes",
+            "description": "Clube Oscar: benefícios exclusivos para clientes. Frete grátis*, promoções especiais e vantagens imperdíveis. Participe!"
+          }
+        ],
+        "title": "clube oscar"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    }
+  }
+}

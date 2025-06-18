@@ -1,0 +1,21 @@
+{
+  "data": {
+    "sort": "orders:desc",
+    "count": 24,
+    "fuzzy": "disabled",
+    "pageOffset": 1,
+    "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+    "selectedFacets": [],
+    "hideUnavailableItems": true,
+    "priceFacets": false,
+    "useCollectionName": false
+  },
+  "extensions": [
+    {
+      "__resolveType": "vtex/loaders/product/extensions/listingPage.ts",
+      "inventory": false,
+      "variants": false
+    }
+  ],
+  "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+}

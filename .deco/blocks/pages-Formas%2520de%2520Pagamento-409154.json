@@ -1,0 +1,42 @@
+{
+  "name": "Formas de Pagamento",
+  "path": "/formas-de-pagamento",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+      "title": "Formas de pagamento",
+      "content": "<h2><strong>Cartões de Crédito</strong></h2><p>Aceitamos Visa, MasterCard, American Express, Hipercard e Elo. Pagamento em até<strong> 10x sem juros</strong>. com <strong>parcela mínima de R$ 80,00</strong></p><p><strong>IMPORTANTE</strong>: Para sua segurança, os pedidos realizados em cartão de crédito passam por análise de dados e são submetidos a um processo anti-fraude. Esta análise poderá levar até 48 horas úteis, ao longo deste período o valor de sua compra fica reservado junto a sua administradora do cartão para pagamento do pedido. Podemos entrar em contato por telefone durante o período de análise e o pedido poderá ser cancelado caso não seja possível o contato. Por isso, é importante manter seus dados sempre atualizados.</p><h2><strong>Cartão Festcard</strong></h2><p>Com o cartão FestCard você pode parcelar suas compras em até 12x com juros, <strong>parcelando em até 6x não há juros, com parcela mínima de R$ 80,00</strong>. Para saber mais sobre o cartão, clique aqui.</p><h2><strong>PIX</strong></h2><p>Ao escolher esta forma de pagamento, você será direcionado para escanear com celular o código na página do banco da sua preferência ou poderá optar por pagar sem o celular, onde será gerado um código para ser copiado e pago através do internet banking;</p><p>O pedido fica válido por 2 horas e, caso não haja confirmação do pagamento dentro deste prazo, ele será cancelado automaticamente;</p><p>Para casos de reembolso, nossa equipe de atendimento entrará em contato e deverá ser informados os dados bancários (com o dígito da conta);</p><h2><strong>PIX Parcelado</strong></h2><p>Parcele em até 4x sem juros, análise e aprovação é de responsabilidade da Pagaleve.</p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/formas-de-pagamento",
+            "title": "Formas de Pagamento - Conheça suas opções",
+            "description": "Conheça suas opções de pagamento e aproveite as melhores ofertas com frete grátis* em suas compras."
+          }
+        ],
+        "title": "/formas-de-pagamento"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "title": "Formas de Pagamento - Conheça suas opções",
+    "description": "Conheça suas opções de pagamento e aproveite as melhores ofertas com frete grátis* em suas compras.",
+    "type": "website"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

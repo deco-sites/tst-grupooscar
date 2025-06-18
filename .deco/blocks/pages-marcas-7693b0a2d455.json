@@ -1,0 +1,917 @@
+{
+  "name": "Marcas",
+  "path": "/marcas",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/LPs/Marcas.tsx",
+      "marcas": [
+        {
+          "title": "A",
+          "marcas": [
+            {
+              "title": "Actvitta",
+              "href": "/actvitta"
+            },
+            {
+              "title": "Adidas",
+              "href": "/adidas"
+            },
+            {
+              "title": "Asics",
+              "href": "/asics"
+            },
+            {
+              "title": "Addan",
+              "href": "/addan"
+            },
+            {
+              "title": "Alexia Fernanda",
+              "href": "/alexia-fernanda"
+            },
+            {
+              "title": "Azaleia",
+              "href": "/azaleia"
+            },
+            {
+              "title": "Anatomic Gel",
+              "href": "/anatomic-gel"
+            },
+            {
+              "title": "Azzun",
+              "href": "/azzun"
+            }
+          ]
+        },
+        {
+          "title": "B",
+          "marcas": [
+            {
+              "title": "Beira Rio",
+              "href": "/beira-rio"
+            },
+            {
+              "title": "Black Free",
+              "href": "/black-free"
+            },
+            {
+              "title": "Box200",
+              "href": "/box200"
+            },
+            {
+              "title": "Bull Terrier",
+              "href": "/bull-terrier"
+            },
+            {
+              "title": "Braziline",
+              "href": "/braziline"
+            },
+            {
+              "title": "Bebecê",
+              "href": "/bebece"
+            },
+            {
+              "title": "Brizza",
+              "href": "/brizza"
+            },
+            {
+              "title": "Bon Ton",
+              "href": "/bon-ton"
+            },
+            {
+              "title": "Bibi",
+              "href": "/bibi"
+            },
+            {
+              "title": "Bonekinha Linda",
+              "href": "/bonekinha-linda"
+            },
+            {
+              "title": "Botinho",
+              "href": "/botinho"
+            }
+          ]
+        },
+        {
+          "title": "C",
+          "marcas": [
+            {
+              "title": "Coca Cola",
+              "href": "/coca-cola"
+            },
+            {
+              "title": "Campesí",
+              "href": "/campesi"
+            },
+            {
+              "title": "Capricho",
+              "href": "/capricho"
+            },
+            {
+              "title": "Comfortflex",
+              "href": "/comfortflex"
+            },
+            {
+              "title": "Constantino",
+              "href": "/constantino"
+            },
+            {
+              "title": "Crocs",
+              "href": "/crocs"
+            },
+            {
+              "title": "Casio",
+              "href": "/casio"
+            },
+            {
+              "title": "Chenson",
+              "href": "/chenson"
+            },
+            {
+              "title": "Clio",
+              "href": "/clio"
+            },
+            {
+              "title": "Cartago",
+              "href": "/cartago"
+            },
+            {
+              "title": "Cavalera",
+              "href": "/cavalera"
+            },
+            {
+              "title": "Cazzac",
+              "href": "/cazzac"
+            },
+            {
+              "title": "Couro Mania",
+              "href": "/couro-mania"
+            },
+            {
+              "title": "Camin",
+              "href": "/camin"
+            },
+            {
+              "title": "Crik",
+              "href": "/crik"
+            }
+          ]
+        },
+        {
+          "title": "D",
+          "marcas": [
+            {
+              "title": "DC",
+              "href": "/dc"
+            },
+            {
+              "title": "Diadora",
+              "href": "/diadora"
+            },
+            {
+              "title": "Done Head",
+              "href": "/done-head"
+            },
+            {
+              "title": "Dray",
+              "href": "/dray"
+            },
+            {
+              "title": "Dakota",
+              "href": "/dakota"
+            },
+            {
+              "title": "Democrata",
+              "href": "/democrata"
+            },
+            {
+              "title": "Dijean",
+              "href": "/dijean"
+            },
+            {
+              "title": "Domenica Solazzo",
+              "href": "/domenica-solazzo"
+            },
+            {
+              "title": "Diversão",
+              "href": "/diversao"
+            }
+          ]
+        },
+        {
+          "title": "E",
+          "marcas": [
+            {
+              "title": "Everlast",
+              "href": "/everlast"
+            }
+          ]
+        },
+        {
+          "title": "F",
+          "marcas": [
+            {
+              "title": "Fila",
+              "href": "/fila"
+            },
+            {
+              "title": "Ferracini",
+              "href": "/ferracini"
+            },
+            {
+              "title": "Ferrucci",
+              "href": "/ferrucci"
+            },
+            {
+              "title": "Firezzi",
+              "href": "/firezzi"
+            },
+            {
+              "title": "Fellipe Krein",
+              "href": "/fellipe-krein"
+            },
+            {
+              "title": "F1000",
+              "href": "/f1000"
+            },
+            {
+              "title": "Ferricelli",
+              "href": "/ferricelli"
+            },
+            {
+              "title": "Fasolo",
+              "href": "/fasolo"
+            },
+            {
+              "title": "Fokker",
+              "href": "/fokker"
+            },
+            {
+              "title": "Florattinha",
+              "href": "/florattinha"
+            }
+          ]
+        },
+        {
+          "title": "G",
+          "marcas": [
+            {
+              "title": "Giulia Domna",
+              "href": "/giulia-domna"
+            },
+            {
+              "title": "Grendene",
+              "href": "/grendene"
+            },
+            {
+              "title": "Grendene Kids",
+              "href": "/grendene-kids"
+            },
+            {
+              "title": "Grendha",
+              "href": "/grendha"
+            },
+            {
+              "title": "Gash",
+              "href": "/gash"
+            },
+            {
+              "title": "Granado",
+              "href": "/granado"
+            },
+            {
+              "title": "Gibizinho",
+              "href": "/gibizinho"
+            }
+          ]
+        },
+        {
+          "marcas": [
+            {
+              "title": "Hidrolight",
+              "href": "/hidrolight"
+            },
+            {
+              "title": "Havaianas",
+              "href": "/havaianas"
+            }
+          ],
+          "title": "H"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Ipanema",
+              "href": "/ipanema"
+            },
+            {
+              "title": "Itapuã",
+              "href": "/itapua"
+            },
+            {
+              "title": "Izalu",
+              "href": "/izalu"
+            }
+          ],
+          "title": "I"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Joma",
+              "href": "/joma"
+            },
+            {
+              "title": "Julie Henri",
+              "href": "/julie-henri"
+            },
+            {
+              "title": "Jota Pé",
+              "href": "/jota-pe"
+            },
+            {
+              "title": "Jet Kids",
+              "href": "/jet-kids"
+            }
+          ],
+          "title": "J"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Kappa",
+              "href": "/kappa"
+            },
+            {
+              "title": "Kolosh",
+              "href": "/kolosh"
+            },
+            {
+              "title": "Kenner",
+              "href": "/kenner"
+            },
+            {
+              "title": "Kildare",
+              "href": "/kildare"
+            },
+            {
+              "title": "Kult",
+              "href": "/kult"
+            },
+            {
+              "title": "Kidy",
+              "href": "/kidy"
+            },
+            {
+              "title": "Klin",
+              "href": "/klin"
+            },
+            {
+              "title": "Klassipe",
+              "href": "/klassipe"
+            },
+            {
+              "title": "Krisle",
+              "href": "/krisle"
+            }
+          ],
+          "title": "K"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Lacoste",
+              "href": "/lacoste"
+            },
+            {
+              "title": "Lets",
+              "href": "/lets"
+            },
+            {
+              "title": "Lupo",
+              "href": "/lupo"
+            },
+            {
+              "title": "Lore",
+              "href": "/lore"
+            },
+            {
+              "title": "Loucos e Santos",
+              "href": "/loucos-e-santos"
+            },
+            {
+              "title": "Luiza Camargo",
+              "href": "/luiza-camargo"
+            },
+            {
+              "title": "Lalita",
+              "href": "/lalita"
+            },
+            {
+              "title": "LueLua",
+              "href": "/luelua"
+            }
+          ],
+          "title": "L"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Macboot",
+              "href": "/macboot"
+            },
+            {
+              "title": "Mizuno",
+              "href": "/mizuno"
+            },
+            {
+              "title": "Mormaii",
+              "href": "/mormaii"
+            },
+            {
+              "title": "M Shuz",
+              "href": "/m-shuz"
+            },
+            {
+              "title": "Mary Jane",
+              "href": "/mary-jane"
+            },
+            {
+              "title": "Mironneli",
+              "href": "/mironneli"
+            },
+            {
+              "title": "Miss Western",
+              "href": "/miss-western"
+            },
+            {
+              "title": "Mississipi",
+              "href": "/mississipi"
+            },
+            {
+              "title": "Modare",
+              "href": "/modare"
+            },
+            {
+              "title": "Moleca",
+              "href": "/moleca"
+            },
+            {
+              "title": "Molekinha",
+              "href": "/molekinha"
+            },
+            {
+              "title": "Moon City",
+              "href": "/moon-city"
+            },
+            {
+              "title": "My Shoes",
+              "href": "/my-shoes"
+            },
+            {
+              "title": "Mickey Mouse",
+              "href": "/mickey-mouse"
+            },
+            {
+              "title": "M Shuz Kids",
+              "href": "/m-shuz-kids"
+            },
+            {
+              "title": "Mar & Cor",
+              "href": "/mar-e-cor"
+            },
+            {
+              "title": "Melissa",
+              "href": "/melissa"
+            },
+            {
+              "title": "Mini Pé",
+              "href": "/mini-pe"
+            },
+            {
+              "title": "Mininina",
+              "href": "/mininina"
+            },
+            {
+              "title": "Mizzuminho",
+              "href": "/mizzuminho"
+            },
+            {
+              "title": "Molekinho",
+              "href": "/molekinho"
+            },
+            {
+              "title": "Marvel",
+              "href": "/marvel"
+            }
+          ],
+          "title": "M"
+        },
+        {
+          "marcas": [
+            {
+              "title": "New Balance",
+              "href": "/new-balance"
+            },
+            {
+              "title": "Nike",
+              "href": "/nike"
+            },
+            {
+              "title": "New Era",
+              "href": "/new-era"
+            },
+            {
+              "title": "New Face",
+              "href": "/new-face"
+            }
+          ],
+          "title": "N"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Oakley",
+              "href": "/oakley"
+            },
+            {
+              "title": "Olympikus",
+              "href": "/olympikus"
+            },
+            {
+              "title": "Ollie",
+              "href": "/ollie"
+            },
+            {
+              "title": "Opananken",
+              "href": "/opananken"
+            },
+            {
+              "title": "OSC",
+              "href": "/osc"
+            },
+            {
+              "title": "Onfit",
+              "href": "/onfit"
+            },
+            {
+              "title": "OPX",
+              "href": "/opx"
+            },
+            {
+              "title": "Ortopé",
+              "href": "/ortope"
+            }
+          ],
+          "title": "O"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Penalty",
+              "href": "/penalty"
+            },
+            {
+              "title": "Puma",
+              "href": "/puma"
+            },
+            {
+              "title": "Pampili",
+              "href": "/pampili"
+            },
+            {
+              "title": "Pegada",
+              "href": "/pegada"
+            },
+            {
+              "title": "Petite Jolie",
+              "href": "/petite-jolie"
+            },
+            {
+              "title": "Piccadilly",
+              "href": "/piccadilly"
+            },
+            {
+              "title": "Pink Cats",
+              "href": "/pink-cats"
+            },
+            {
+              "title": "Pallas",
+              "href": "/pallas"
+            },
+            {
+              "title": "Palterm",
+              "href": "/palterm"
+            },
+            {
+              "title": "Paganezzi",
+              "href": "/paganezzi"
+            },
+            {
+              "title": "Pipper",
+              "href": "/pipper"
+            },
+            {
+              "title": "Pé com Pé",
+              "href": "/pe-com-pe"
+            },
+            {
+              "title": "Peki Lili",
+              "href": "/peki-lili"
+            }
+          ],
+          "title": "P"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Quiz",
+              "href": "/quiz"
+            }
+          ],
+          "title": "Q"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Rainha",
+              "href": "/rainha"
+            },
+            {
+              "title": "Redley",
+              "href": "/redley"
+            },
+            {
+              "title": "Reebok",
+              "href": "/reebok"
+            },
+            {
+              "title": "Rekoba",
+              "href": "/rekoba"
+            },
+            {
+              "title": "Rayon",
+              "href": "/rayon"
+            },
+            {
+              "title": "Realtex",
+              "href": "/realtex"
+            },
+            {
+              "title": "Rafitthy",
+              "href": "/rafitthy"
+            },
+            {
+              "title": "Ramarim",
+              "href": "/ramarim"
+            },
+            {
+              "title": "Raphaella Booz",
+              "href": "/raphaella-booz"
+            },
+            {
+              "title": "Renata Della Vecchia",
+              "href": "/renata-della-vecchia"
+            },
+            {
+              "title": "Risca",
+              "href": "/risca"
+            },
+            {
+              "title": "Red Nose",
+              "href": "/red-nose"
+            },
+            {
+              "title": "Reserva",
+              "href": "/reserva"
+            },
+            {
+              "title": "Rider",
+              "href": "/rider"
+            }
+          ],
+          "title": "R"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Skechers",
+              "href": "/skechers"
+            },
+            {
+              "title": "São José EC",
+              "href": "/sao-jose-e-c"
+            },
+            {
+              "title": "Selene",
+              "href": "/selene"
+            },
+            {
+              "title": "Spalding",
+              "href": "/spalding"
+            },
+            {
+              "title": "Speedo",
+              "href": "/speedo"
+            },
+            {
+              "title": "SPR",
+              "href": "/spr"
+            },
+            {
+              "title": "Sua Cia",
+              "href": "/sua-cia"
+            },
+            {
+              "title": "Starflex",
+              "href": "/starflex"
+            },
+            {
+              "title": "Savona",
+              "href": "/savona"
+            },
+            {
+              "title": "Street Star",
+              "href": "/street-star"
+            },
+            {
+              "title": "Semax",
+              "href": "/semax"
+            },
+            {
+              "title": "Smartbag",
+              "href": "/smartbag"
+            },
+            {
+              "title": "Sapatoterapia",
+              "href": "/sapatoterapia"
+            },
+            {
+              "title": "States Light",
+              "href": "/states-light"
+            },
+            {
+              "title": "Street Cal",
+              "href": "/street-cal"
+            },
+            {
+              "title": "Sua Cia Mini",
+              "href": "/sua-cia-mini"
+            }
+          ],
+          "title": "S"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Topper",
+              "href": "/topper"
+            },
+            {
+              "title": "Tommy Hilfiger",
+              "href": "/tommy-hilfiger"
+            },
+            {
+              "title": "Tanara",
+              "href": "/tanara"
+            },
+            {
+              "title": "Trifil",
+              "href": "/trifil"
+            }
+          ],
+          "title": "T"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Umbro",
+              "href": "/umbro"
+            },
+            {
+              "title": "Under Armour",
+              "href": "/under-armour"
+            },
+            {
+              "title": "Usaflex",
+              "href": "/usaflex"
+            }
+          ],
+          "title": "U"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Vanscy",
+              "href": "/vanscy"
+            },
+            {
+              "title": "Via Marte",
+              "href": "/via-marte"
+            },
+            {
+              "title": "Vizzano",
+              "href": "/vizzano"
+            },
+            {
+              "title": "Vibe",
+              "href": "/vibe"
+            }
+          ],
+          "title": "V"
+        },
+        {
+          "marcas": [
+            {
+              "title": "West Line",
+              "href": "/west-line"
+            },
+            {
+              "title": "Wonder",
+              "href": "/wonder"
+            },
+            {
+              "title": "Wilson",
+              "href": "/wilson"
+            },
+            {
+              "title": "Warner",
+              "href": "/warner"
+            },
+            {
+              "title": "Werner",
+              "href": "/werner"
+            },
+            {
+              "title": "West Coast",
+              "href": "/west-coast"
+            },
+            {
+              "title": "WJ",
+              "href": "/wj"
+            },
+            {
+              "title": "World Colors",
+              "href": "/world-colors"
+            }
+          ],
+          "title": "W"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Xeryus",
+              "href": "/xeryus"
+            }
+          ],
+          "title": "X"
+        },
+        {
+          "marcas": [],
+          "title": "Y"
+        },
+        {
+          "marcas": [
+            {
+              "title": "Zatz",
+              "href": "/zatz"
+            },
+            {
+              "title": "Zaxy",
+              "href": "/zaxy"
+            },
+            {
+              "title": "Zaxynina",
+              "href": "/zaxynina"
+            }
+          ],
+          "title": "Z"
+        }
+      ],
+      "titleMarcas": "MARCAS"
+    },
+    {
+       "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/UxWriting.tsx",
+        "seoTexts": [
+          {
+            "headingtag": "h3",
+            "description": "<p>Se você busca qualidade, conforto e estilo, escolher entre as melhores marcas de calçados faz toda a diferença. Seja para o dia a dia, prática esportiva ou eventos especiais, marcas renomadas oferecem durabilidade e design inovador.</p><p></p><p>Na nossa <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.oscarcalcados.com.br/\">loja de calçados</a>, você encontra uma seleção exclusiva de tênis, sandálias, botas e muito mais, das principais marcas do mercado. Aproveite ofertas imperdíveis e garanta o calçado ideal para cada ocasião!</p>",
+            "title": "Encontre as melhores marcas de calçados na Oscar!",
+            "matcher": "/marcas"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

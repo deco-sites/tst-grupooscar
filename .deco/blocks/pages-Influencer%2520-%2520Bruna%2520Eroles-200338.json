@@ -1,0 +1,125 @@
+{
+  "name": "Influencer - Bruna Eroles",
+  "path": "/bruna-eroles",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "preload": true,
+      "images": [
+        {
+          "desktop": "https://data.decoassets.com/oscarcalcados/eea84547-f97a-4143-81c8-cd4d958ea319/1440x480.png",
+          "mobile": "https://data.decoassets.com/oscarcalcados/250afba4-27d0-453f-b5a5-cd81db723596/375x492.png",
+          "alt": "Bruna Eroles vai de OSC"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+          "props": {
+            "sort": "orders:desc",
+            "collection": "2064",
+            "count": 16,
+            "hideUnavailableItems": false
+          }
+        },
+        "layout": {
+          "numberOfSliders": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "headerAlignment": "center",
+          "headerfontSize": "Small",
+          "showArrows": true
+        },
+        "cardLayout": {
+          "basics": {
+            "contentAlignment": "Left",
+            "oldPriceSize": "Small"
+          },
+          "elementsPositions": {
+            "favoriteIcon": "Top right"
+          },
+          "hide": {
+            "productDescription": true,
+            "cta": true,
+            "skuSelector": true
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "card": "None",
+            "showFavoriteIcon": true
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "title": "Os queridinhos da Bruna Eroles."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/BannerApp.tsx",
+        "banner": {
+          "desktop": "https://data.decoassets.com/oscarcalcados/7a89689f-ecf1-425f-a6cf-427fcf71d5ee/APP-OSCAR-(1).png",
+          "mobile": "https://data.decoassets.com/oscarcalcados/a446cc8c-060f-4b40-9461-14de4c39582f/Vai-de-OSC.png",
+          "altText": "Bruna Eroles Make your choice"
+        },
+        "apps": []
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/BannerApp.tsx",
+        "banner": {
+          "desktop": "https://data.decoassets.com/oscarcalcados/f2cc4048-b62a-4226-95f8-e3606b4db8d3/Bruna-Eroles-Make-your-choice.png",
+          "mobile": "https://data.decoassets.com/oscarcalcados/a32fb245-05f1-4e6d-a9f9-a5fd310d4661/Bruna-Eroles-Make-your-choice-mobile.png",
+          "altText": "Bruna Eroles Make your choice"
+        },
+        "apps": []
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Banner APP"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "title": "Favoritos Bruna Eroles - Modelos selecionados",
+            "description": "Confira os calçados favoritos da Bruna Eroles com preços imperdíveis, frete grátis e parcelamento em até 10x sem juros! Aproveite.",
+            "matcher": "/bruna-eroles"
+          }
+        ],
+        "title": "bruna eroles"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "title": "Favoritos Bruna Eroles - Modelos selecionados",
+    "type": "website",
+    "description": "Confira os calçados favoritos da Bruna Eroles com preços imperdíveis, frete grátis e parcelamento em até 10x sem juros! Aproveite."
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

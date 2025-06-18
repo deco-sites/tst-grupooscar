@@ -1,0 +1,13 @@
+User-agent: *
+
+Sitemap: https://www.oscarcalcados.com.br/sitemap.xml
+
+Allow: /*.css
+Allow: /*.js
+
+Disallow: /account/
+Disallow: /checkout/
+Disallow: /*?s=q=
+Disallow: /*?utm*
+Disallow: /*filter.*
+Disallow: /*?sort*

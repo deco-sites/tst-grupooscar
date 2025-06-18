@@ -1,0 +1,48 @@
+{
+  "name": "Política de privacidade",
+  "path": "/politica-de-privacidade",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "Button Navigation"
+    },
+    {
+      "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+      "title": "Política de Privacidade",
+      "content": "<h5><strong>Compra segura</strong></h5><p>Endereços, telefones e e-mail são utilizados pela Oscar Calçados somente para contatos referentes à suas compras. E-mail marketing promocionais são enviados com previa autorização do cliente e poderão ter sua assinatura cancelada a qualquer momento.<br><br>Suas senhas e os dados do cartão de crédito são criptografados, bem como as informações da compra, esses dados são utilizados somente pela administradora do cartão e após a confirmação da transação todos os números do seu cartão são destruídos, não sendo armazenados em nenhuma hipótese dados do seu cartão em nossos bancos de dados.<br></p><p><strong>AVISO DE PRIVACIDADE</strong><br><br>A Oscar Calçados valoriza a privacidade dos usuários de seu website.<br>Este Aviso de Privacidade apresenta informações sobre a coleta e o tratamento dos seus dados pessoais no ambiente corporativo e alinha-se com a Política de Privacidade do Grupo Oscar e com as diretrizes da Lei Geral de Proteção de Dados.<br>Caso surja qualquer dúvida sobre seus direitos ou a respeito da utilização de seus dados pessoais, entre em contato com o <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:privacidade@oscarcalcados.com.br\"><strong>privacidade@oscarcalcados.com.br</strong></a>.<br><br><strong>DADOS PESSOAIS COLETADOS</strong><br>A Oscar Calçados coleta e utiliza dados pessoais durante o exercício de suas atividades. Veja abaixo as finalidades para as quais seus dados são utilizados.<br><br><strong>1. Atendimento</strong><br>O website oferece atendimento pela central (11) 5468-6777, onde são coletados dados para o atendimento:<br><br>• Nome e telefone.<br><br><strong>Duração</strong>: os dados são utilizados para esta finalidade enquanto mantiver-se a relação com o titular.<br><br><strong>2. Efetivação das compras</strong><br><br>Para que as compras e entregas sejam realizadas, são tratados os seguintes dados pessoais:<br><br>•Nome, telefone, e-mail, CPF, data de nascimento, gênero, endereço e dados bancários.<br><br><strong>Duração</strong>: os dados são mantidos pelo tempo que durar o interesse do comprador em utilizar a plataforma da Oscar Calçados.<br><br><strong>3.Ofertas personalizadas</strong><br><br>Para entendermos como podemos ajudar nossos clientes a finalizar uma compra desejada, podemos usar algumas informações coletadas pelo site (estas informações somente são obtidas caso você faça login na plataforma através de cookies e caches).<br><br>•Nome, e-mail, login, ações realizadas no site, produtos visitados, carrinho de compras, publicidade pela qual veio ao site.<br><br><strong>Duração</strong>: os dados são mantidos pelo tempo que durar o interesse do comprador em utilizar a plataforma da Oscar Calçados.<br><br><strong>DADOS PESSOAIS COLETADOS POR TERCEIROS</strong><br><br>Durante a utilização da plataforma, alguns dados podem ser coletados por terceiros. <strong>A Oscar Calçados não tem acesso a estes dados</strong>. Veja abaixo quando isto ocorre:<br><br><strong>-Empresa de hospedagem do website coleta dados de acesso:</strong><br><br>•IP do usuário, data e hora de acesso.<br><br><strong>-Empresa de conexão à internet (a depender do usuário):</strong><br><br>•IP do usuário, data e hora de acesso.<br><br><strong>-Google Analytics:</strong><br><br>•IP do usuário, geolocalização, tempo de acesso, cliques, marca e modelo do dispositivo.<br><br><strong>COMPARTILHAMENTO DE DADOS</strong><br><br>Apesar de nenhum dado coletado ser objeto de comercialização com terceiros, <strong>pode haver</strong> compartilhamento nas hipóteses abaixo indicadas, sempre que houver permissão legal e nos limites das finalidades acima expostas.<br><br><strong>-Autoridades Públicas:</strong><br><br>•Dados relacionados a documentos eventualmente solicitados por Autoridades Públicas, como órgãos da administração direta e indireta ou Poder Judiciário.<br><br><strong>-Prestadores de serviços:</strong><br><br>•Empresas de marketing e ferramentas de comunicação e empresas de hospedagem de websites.<br><br><strong>ARMAZENAMENTO, TRATAMENTO E SEGURANÇA</strong><br><br>Os dados pessoais coletados serão armazenados em servidores digitais que apresentam o adequado grau de proteção das informações que lhes são confiadas e em arquivos físicos, dotados de sistemas de segurança, controle de acesso e políticas internas voltadas à privacidade e proteção dos dados.<br>Toda hipótese de tratamento ocorrerá por equipes treinadas e cientes dos procedimentos internos do Grupo Oscar, de modo a oferecer a garantia de que não haverá uso dos dados pessoais em desconformidade com a Lei Geral de Proteção de Dados.<br><br><strong>DIREITOS DOS TITULARES</strong><br><br>Os titulares de dados pessoais podem exercer, mediante requisição ao <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:privacidade@oscarcalcados.com.br\"><strong>privacidade@oscarcalcados.com.br</strong></a>, os seguintes direitos:<br><br>-Confirmação da existência do tratamento;<br>-Acesso aos dados;<br>-Correção de dados incompletos, inexatos ou desatualizados;<br>-Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a Lei Geral de -Proteção de Dados;<br>-Portabilidade dos dados a outro fornecedor de serviço, mediante requisição expressa;<br>-Informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados; e<br>-Oferecer reclamação perante a Autoridade Nacional de Proteção de Dados.<br><br><strong>RESPONSABILIZAÇÃO</strong><br><br>O Grupo Oscar responsabiliza-se por todo e qualquer dado pessoal que coleta e utiliza. Por isso, adota controles de proteção e segurança aos dados armazenados em ambientes físicos e digitais, considerando as ferramentas tecnológicas acessíveis.<br>Igualmente, o Grupo Oscar realiza constante avaliação jurídica para garantir o cumprimento às suas obrigações legais, bem como adota um Programa de Governança em Privacidade voltado ao cumprimento da Lei Geral de Proteção de Dados.<br>Em relação aos dados compartilhados com terceiros, estes ocorrem sob rígida proteção contratual, de modo que eventual incidente de segurança causado pelos parceiros do Grupo Oscar configurará descumprimento contratual e os sujeitará às medidas legais cabíveis e responsabilização por descumprimento do contrato e da legislação.<br><br><strong>CONTATO</strong><br><br>Os titulares poderão entrar em contato para exercer seus direitos mediante solicitação a ser direcionada ao <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:privacidade@oscarcalcados.com.br\"><strong>privacidade@oscarcalcados.com.br</strong></a>, onde o nosso Encarregado pelo Tratamento de Dados Pessoais, processará a requisição.<br><br><strong>DISPOSIÇÕES GERAIS</strong><br><br>Este aviso foi atualizado em 7 de fevereiro de 2023 e poderá ser revisto periodicamente. Portanto, consulte-o sempre que lhe for oportuno.</p>"
+    },
+    {
+      "__resolveType": "Banner APP"
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/politica-de-privacidade",
+            "title": "Política de Privacidade - Saiba mais sobre seus dados",
+            "description": "Política de Privacidade: saiba como protegemos seus dados e conheça seus direitos. Transparência e segurança para você!"
+          }
+        ],
+        "title": "politica-de-privacidade"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "description": "Política de Privacidade: saiba como protegemos seus dados e conheça seus direitos. Transparência e segurança para você!",
+    "title": "Política de Privacidade - Saiba mais sobre seus dados",
+    "type": "website"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Clube Oscar APP Loja Oscar",
+  "path": "/clube-oscar-app",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Content/BonifiQ.tsx"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "title": "Conheça o Clube Oscar APP - Garanta vantagens",
+            "description": "Com o Clube de Vantagens da Oscar você garanta vantagens exclusivas. Descontos imperdíveis, condições especiais de frete grátis e muito mais. Saiba tudo!",
+            "matcher": "/clube-oscar-app"
+          }
+        ],
+        "title": "Clube Oscar APP"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "type": "website",
+    "title": "Conheça o Clube Oscar APP - Garanta vantagens",
+    "description": "Com o Clube de Vantagens da Oscar você garanta vantagens exclusivas. Descontos imperdíveis, condições especiais de frete grátis e muito mais. Saiba tudo!"
+  }
+}

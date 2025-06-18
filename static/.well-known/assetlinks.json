@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { 
+      "namespace": "android_app", 
+      "package_name": "com.kobe.oscarcalcados",
+      "sha256_cert_fingerprints": ["25:D3:47:BF:BB:06:12:72:A6:6F:39:3E:20:6E:48:59:EF:97:7A:9C:F9:64:43:41:2E:40:50:63:B2:48:91:0B"]
+  }
+}]

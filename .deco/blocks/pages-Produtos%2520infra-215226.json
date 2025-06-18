@@ -1,0 +1,107 @@
+{
+  "name": "Produtos infra",
+  "path": "/promovidos",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/UxWriting.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h1",
+          "title": "Promoções Oscar Calçados - Ofertas Imperdíveis",
+          "matcher": "/promovidos",
+          "description": "<p><span style=\"font-size: 10pt\">Aproveite as promoções Oscar Calçados e descubra ofertas imperdíveis para todos os estilos. São sapatos femininos, sapatos masculinos e muito mais!</span></p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+        "sort": "",
+        "fuzzy": "automatic",
+        "selectedFacets": [
+          {
+            "value": "281",
+            "key": "productClusterIds"
+          }
+        ],
+        "count": 24,
+        "hideUnavailableItems": true,
+        "priceFacets": true
+      },
+      "layout": {
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        },
+        "variant": "aside"
+      },
+      "cardLayout": {
+        "hide": {
+          "productDescription": true,
+          "skuSelector": true
+        },
+        "onMouseOver": {
+          "showFavoriteIcon": true,
+          "card": "None",
+          "image": "Change image"
+        },
+        "elementsPositions": {
+          "favoriteIcon": "Top right"
+        },
+        "basics": {
+          "oldPriceSize": "Small",
+          "contentAlignment": "Left"
+        },
+        "configPix": {
+          "__resolveType": "Default-Pix"
+        }
+      },
+      "startingPage": 1,
+      "minFilterPrice": 0,
+      "maxFilterPrice": 0
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/promovidos",
+            "title": "Calçados com descontos especiais - Aproveite!",
+            "description": "Produtos em promoção com descontos exclusivos. Acesse e garanta frete grátis* e parcelamento sem juros. Compre agora e economize!"
+          }
+        ],
+        "title": "promovidos"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+      "sort": "",
+      "count": 24,
+      "fuzzy": "disabled",
+      "selectedFacets": [
+        {
+          "key": "productClusterIds",
+          "value": "138"
+        }
+      ],
+      "hideUnavailableItems": true,
+      "advancedConfigs": {
+        "includeOriginalAttributes": []
+      },
+      "pageOffset": 1
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

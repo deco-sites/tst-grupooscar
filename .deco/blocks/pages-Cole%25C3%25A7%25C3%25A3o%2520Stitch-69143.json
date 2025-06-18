@@ -1,0 +1,142 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Coleção Stitch",
+  "path": "/colecao-stitch",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "title": "estilo-casual",
+        "texts": [
+          {
+            "matcher": "/estilo-casual",
+            "title": "Calçados Casuais - Modelos que combinam com tudo"
+          }
+        ]
+      },
+      {
+        "texts": [
+          {
+            "title": "Sapatos do Stitch: Confira coleção completa",
+            "description": "Conheça a coleção de sapatos e acessórios do Stitch para crianças! Modelos incríveis, ofertas imperdíveis e descontos no pix. Aproveite!",
+            "matcher": "/colecao-stitch"
+          }
+        ],
+        "title": "stitch"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    }
+  },
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+       "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Content/UxWriting.tsx",
+        "seoTexts": [
+          {
+            "headingtag": "h1",
+            "title": "Coleção de Calçados e Acessórios do Stitch",
+            "matcher": "/colecao-stitch",
+            "description": "<p><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Na Oscar, a magia do monstrinho azul chegou para encantar os pequenos! Nossa coleção reúne calçados e acessórios temáticos, garantindo que eles possam se divertir com estilo. Encontre sapatos do Stitch, chinelos, botas, tênis, All Star, galochas, babuches e mais:</span></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "commerce/loaders/product/extensions/listingPage.ts",
+        "data": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "",
+          "fuzzy": "disabled",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "226"
+            }
+          ],
+          "count": 24,
+          "hideUnavailableItems": true,
+          "useCollectionName": false,
+          "similars": true,
+          "priceFacets": false,
+          "query": "stitch"
+        },
+        "extensions": [
+          {
+            "__resolveType": "vtex/loaders/product/extensions/listingPage.ts",
+            "simulate": false,
+            "similars": false
+          }
+        ]
+      },
+      "layout": {
+        "variant": "aside",
+        "columns": {
+          "mobile": 2,
+          "desktop": 3
+        }
+      },
+      "cardLayout": {
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+        "layout": {
+          "basics": {
+            "contentAlignment": "Left",
+            "oldPriceSize": "Small"
+          },
+          "elementsPositions": {
+            "favoriteIcon": "Top right"
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "card": "None",
+            "showFavoriteIcon": true,
+            "showCardShadow": false,
+            "showCta": false
+          },
+          "hide": {
+            "productDescription": true,
+            "skuSelector": true,
+            "productName": false,
+            "allPrices": false,
+            "discount": false,
+            "installments": true,
+            "cta": true
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        }
+      },
+      "startingPage": 1,
+      "minFilterPrice": 50,
+      "maxFilterPrice": 1.999
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Category/CategorySEO.tsx",
+        "seoTexts": [
+          {
+            "headingtag": "h3",
+            "matcher": "/colecao-stitch",
+            "title": "Modelos de sapatos do Stitch",
+            "description": "<p><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">O sapato do Stitch é perfeito para quem busca conforto e estilo em uma única peça. Com design encantador, os modelos são ideais para passeios e ocasiões especiais. E com certeza seu pequeno vai adorar caminhar com seu personagem favorito nos pés.</span></p><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Chinelo do Stitch</span></strong></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Os chinelos do alienígena mais amado são práticos e divertidos. Perfeitos para os dias quentes, eles trazem estampas vibrantes do personagem, garantindo conforto e um toque lúdico.&nbsp;</span></p><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Botas e Galochas</span></strong></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Para dias mais frios, a bota do Stitch é a opção certa. Feita com materiais de qualidade e com design resistente, ela protege os pés das crianças enquanto mantém o estilo com a carinha do personagem.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Já para os dias chuvosos, as galochas da Grendene do Stitch são essenciais. Feitas com materiais impermeáveis e estampas divertidas, elas garantem que os pequenos possam brincar sem preocupações.&nbsp;</span></p><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Tênis e All Star do Stitch</span></strong></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">O tênis do Stitch combina conforto e versatilidade. Os modelos de tênis infantis da Bibi são super confortáveis! Já para os fãs do estilo clássico, o All Star do Stitch é uma escolha incrível. Com o design icônico da marca e a temática do personagem, é uma peça cheia de estilo e atitude.</span></p><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Babuches&nbsp;</span></strong></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Os babuches da Grendene do Stitch são sinônimo de conforto e praticidade. Perfeitos para usar em casa ou em passeios, são leves, fáceis de calçar e vêm com o carisma do personagem.</span></p><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Acessórios do Stitch</span></strong></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Além dos calçados, complemente a produção com a bolsa transversal do Stitch e uma tiara! Além de práticos, os itens adicionam ainda mais estilo à produção dos pequenos!</span></p><h3 style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0); font-size: 13pt\">Encontre os melhores produtos do Stitch na Oscar!</span></strong></h3><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">Explore nossa coleção completa de sapatos e acessórios e deixe seus pequenos se divertirem com o universo mágico desse personagem querido. Aproveite as melhores condições de pagamento e garanta já!</span></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ]
+}

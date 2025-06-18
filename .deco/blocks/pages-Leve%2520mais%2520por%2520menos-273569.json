@@ -1,0 +1,92 @@
+{
+  "name": "Leve mais por menos",
+  "path": "/leve-mais-por-menos",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/UxWriting.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h1",
+          "matcher": "/leve-mais-por-menos",
+          "title": "Leve Mais por Menos",
+          "description": "<p><span style=\"font-size: 10pt\">Quanto mais você compra, mais você economiza. Aproveite nossas promoções levando mais por menos!</span></p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "orders:desc",
+          "fuzzy": "disabled",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "273"
+            }
+          ],
+          "count": 36,
+          "hideUnavailableItems": false,
+          "pageOffset": 1
+        },
+        "layout": {
+          "variant": "aside",
+          "columns": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "cardLayout": {
+          "__resolveType": "Product Card Layout - 01"
+        },
+        "startingPage": 1,
+        "minFilterPrice": 50,
+        "maxFilterPrice": 1.999
+      },
+      "configPix": {
+        "__resolveType": "Default-Pix"
+      }
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "title": "Leve Mais Calçados Por Menos - Aproveite ofertas!",
+            "description": "Compre mais e pague menos! Descontos imperdíveis em calçados selecionados para renovar o guarda-roupas! Acesse e aproveite.",
+            "matcher": "/leve-mais-por-menos"
+          }
+        ],
+        "title": "leve-mais-por-menos"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+      "sort": "",
+      "count": 24,
+      "fuzzy": "disabled",
+      "selectedFacets": [
+        {
+          "key": "productClusterIds",
+          "value": "156"
+        }
+      ],
+      "hideUnavailableItems": true,
+      "advancedConfigs": {
+        "includeOriginalAttributes": []
+      },
+      "pageOffset": 1
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Offline",
+  "path": "/offline",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "title": "Estamos offline",
+      "products": {
+        "props": {
+          "ids": [],
+          "sort": "price:desc",
+          "count": 10,
+          "collection": "179"
+        },
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+      },
+      "cardLayout": {
+        "__resolveType": "site/loaders/Layouts/ProductCard.tsx",
+        "layout": {
+          "hide": {
+            "allPrices": false,
+            "skuSelector": true,
+            "favoriteIcon": false,
+            "installments": false,
+            "productDescription": true,
+            "cta": true
+          },
+          "basics": {
+            "oldPriceSize": "Small",
+            "contentAlignment": "Left"
+          },
+          "onMouseOver": {
+            "card": "None",
+            "image": "Change image",
+            "showCta": false,
+            "showCardShadow": false,
+            "showSkuSelector": false,
+            "showFavoriteIcon": true
+          },
+          "elementsPositions": {
+            "skuSelector": "Top",
+            "favoriteIcon": "Top right"
+          }
+        }
+      },
+      "description": "Maybe take some time to explore",
+      "layout": {
+        "numberOfSliders": {
+          "mobile": 2,
+          "desktop": 4
+        }
+      }
+    },
+    {
+      "__resolveType": "Footer Oscar"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

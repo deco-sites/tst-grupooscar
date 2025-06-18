@@ -1,0 +1,94 @@
+{
+  "name": "Must da Estação ",
+  "path": "/must-da-estacao",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Content/UxWriting.tsx",
+      "seoTexts": [
+        {
+          "headingtag": "h1",
+          "title": "Novidades - Confira lançamentos e tendências",
+          "description": "<p><span style=\"font-size: 10pt\">Fique por dentro das últimas tendências e lançamentos em calçados que vão transformar seu estilo.</span></p>",
+          "matcher": "/novidades"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "orders:desc",
+          "fuzzy": "automatic",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "194"
+            }
+          ],
+          "count": 24,
+          "pageOffset": 1
+        },
+        "layout": {
+          "variant": "aside",
+          "columns": {
+            "mobile": 2,
+            "desktop": 3
+          }
+        },
+        "cardLayout": {
+          "basics": {
+            "contentAlignment": "Left",
+            "oldPriceSize": "Small"
+          },
+          "elementsPositions": {
+            "favoriteIcon": "Top right"
+          },
+          "hide": {
+            "productDescription": true,
+            "skuSelector": true
+          },
+          "onMouseOver": {
+            "image": "Change image",
+            "showFavoriteIcon": true
+          },
+          "configPix": {
+            "__resolveType": "Default-Pix"
+          }
+        },
+        "startingPage": 1,
+        "maxFilterPrice": 1500,
+        "minFilterPrice": 39.99
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SEOPLPV2Custom.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/novidades",
+            "title": "Novidades em Calçados - Lançamentos exclusivos",
+            "description": "Descubra as novidades em calçados e acessórios. Garanta frete grátis*, parcelamento sem juros* e promoções especiais. Compre agora!"
+          }
+        ],
+        "title": "Novidades"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

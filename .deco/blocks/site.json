@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "type": "website",
+    "title": "Loja Online de Calçados Femininos, Masculinos e Infantis",
+    "favicon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/3ec7df77-8600-49a3-9daa-e61e3564cae3/fav-oscar.png",
+    "jsonLDs": [],
+    "noIndexing": false,
+    "titleTemplate": "%s | Oscar",
+    "descriptionTemplate": "%s | Oscar",
+    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/oscarcalcados/01ba163f-2d4d-4051-b9a5-49ef91cb1a03/webclip.jpg",
+    "description": "Sua loja de calçados online com opções para todos os gostos. Encontre as melhores ofertas em tênis, botas, sandálias de salto e rasteirinhas, e muito mais!"
+  },
+  "theme": {
+    "__resolveType": "Oscar Theme"
+  },
+  "flavor": {
+    "framework": "fresh"
+  },
+  "global": [
+    {
+      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Scripts/Scripts.tsx",
+      "defer": false,
+      "scripts": []
+    },
+    {
+      "__resolveType": "site/sections/GTM/GTMCustom.tsx",
+      "trackingIds": [
+        "GTM-NVWMHBK"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "__resolveType": "vtex/loaders/proxy.ts",
+      "includeSiteMap": [],
+      "extraPathsToProxy": [
+        "/cartao-presente",
+        "/live-shop"
+      ],
+      "includeScriptsToHead": {
+        "includes": [
+          {
+            "domain": "",
+            "__resolveType": "analytics/loaders/DecoAnalyticsScript.ts"
+          },
+          {
+            "__resolveType": "analytics/loaders/OneDollarScript.ts"
+          },
+          {
+            "src": "<script type=\"text/javascript\" src=\"/plausibleCheckout.js?v=04\"></script>"
+          }
+        ],
+        "includePlausible": true
+      },
+      "includeScriptsToBody": {
+        "includes": []
+      }
+    },
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirectsFromCsv.ts",
+      "redirects": [],
+      "from": "/static/redirects.csv",
+      "forcePermanentRedirects": true
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    },
+    []
+  ],
+  "caching": {
+    "enabled": false,
+    "directives": []
+  },
+  "commerce": {
+    "platform": "other"
+  },
+  "platform": "vtex",
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    },
+    "includeScriptsToBody": {
+      "includes": []
+    }
+  },
+  "pageSections": [
+    {
+      "defer": true,
+      "scripts": [],
+      "__resolveType": "site/sections/Scripts/Scripts.tsx"
+    }
+  ],
+  "__resolveType": "site/apps/site.ts",
+  "firstByteThresholdMS": false,
+  "whilelistURLs": [],
+  "whitelistPatterns": []
+}

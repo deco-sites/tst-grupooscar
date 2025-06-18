@@ -1,0 +1,70 @@
+{
+  "name": "Devolução",
+  "path": "/devolucao",
+  "sections": [
+    {
+      "__resolveType": "Header Oscar"
+    },
+    {
+      "__resolveType": "site/sections/Images/BannerGrid.tsx",
+      "banners": [
+        {
+          "srcDesktop": "https://data.decoassets.com/oscarcalcados/a0058ab8-5549-4a14-94be-e1066daaf578/Inserir-um-titulo-(4).png",
+          "srcMobile": "https://data.decoassets.com/oscarcalcados/d264ab07-75e2-4b11-afcd-dc3beea7fb52/Solicitar-DEVOLUCAO-Shopping-OSCAR-para-pedido-vendido-e-entregue-por-Loja-Parceira.-CLIQUE-AQUI.-(5).png",
+          "alt": "Shopping Oscar",
+          "href": "https://oscarcalcadosparceiros.troquefacil.com.br/"
+        },
+        {
+          "srcMobile": "https://data.decoassets.com/oscarcalcados/03a70fca-18e9-4432-8071-ff1879089142/Solicitar-DEVOLUCAO-Shopping-OSCAR-para-pedido-vendido-e-entregue-por-Loja-Parceira.-CLIQUE-AQUI.-(6).png",
+          "srcDesktop": "https://data.decoassets.com/oscarcalcados/a7de9910-0c04-4bbf-8f8d-21db4c1fa4fb/Inserir-um-titulo-(5).png",
+          "alt": "Oscar",
+          "href": "https://grupooscar.troquefacil.com.br/"
+        }
+      ],
+      "itemsPerLine": {
+        "desktop": 2,
+        "mobile": 1
+      },
+      "title": "Solicite a sua devolução",
+      "borderRadius": {
+        "mobile": "none"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institucionals/RichTextDefault.tsx",
+        "title": "Entenda mais sobre Devolução",
+        "content": "<p><strong>Política de Devoluções e Direito de Arrependimento.</strong></p><p></p><p><strong>1. Compras Realizadas Até 17/02/2025:</strong><br>Para pedidos efetuados até essa data, as solicitações de devolução deverão ser feitas exclusivamente por meio da nossa Central de Atendimento ao Cliente. Para isso, entre em contato pelo telefone <strong>(11) 5468-6777.</strong></p><p></p><p><strong>2. Compras Realizadas Após 17/02/2025:</strong><br>As devoluções deverão ser solicitadas preferencialmente por meio do nosso portal, através de uns links acima.</p><p></p><p><strong>Direito de Arrependimento (Art. 49 do CDC):</strong></p><p></p><p>Nos termos da legislação vigente, o consumidor tem o prazo de <strong>7 (sete) dias corridos</strong>, a contar do recebimento do produto, para exercer seu direito de arrependimento nas compras realizadas fora do estabelecimento comercial (como pela internet), com <strong>devolução integral dos valores pagos</strong>, inclusive do frete.</p><p></p><p>Para que a devolução seja aceita, é imprescindível que o produto atenda às seguintes condições:</p><p></p><ul><li><p>• Seja encaminhado na <strong>embalagem original;</strong></p></li><li><p>• <strong>Sem indícios de uso ou avaira;</strong></p></li><li><p>• Com <strong>todas as etiquetas, manuais e acessórios </strong>inclusos;</p></li></ul><p><br><strong>Informações Importantes:</strong></p><p></p><ul><li><p>A loja <strong>não realiza trocas de produtos</strong>. Assim, recomendamos que o item seja experimentado em ambiente limpo e seguro, mantendo sua integridade para eventual devolução.</p></li></ul><p></p><p>Para exercer o direito da devolução, é necessário atender às seguintes condições:</p><ul><li><p>• O produto deve ser devolvido em sua <strong>embalagem original , sem sinais de uso</strong>, com todas as <strong>etiquetas intactas</strong> e <strong>acompanhado de todos os acessórios e manuais</strong> enviados no pedido.</p></li><li><p>• Após a devolução do produto, <strong>será realizada uma análise</strong> para verificar o estado do item e confirmar se todas as condições de devolução foram atendidas.</p></li><li><p>• Após a aprovação da análise, será efetuado o <strong>reembolso do valor pago</strong>.</p></li></ul><p>Em caso de dúvidas ou necessidade de mais informações, entre em contato com nossa equipe de atendimento<strong> Ligue (11) 5468-6777 - </strong>Segunda à Sexta-feira das 9h às 18h ou nos mande um<strong> email: </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:9754sac.oscarcalcados@infracommerce.com\">sac.oscarcalcados@infracommerce.com</a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"vtex-rich-text-0-x-link vtex-rich-text-0-x-link--lp-troca-e-devolucao-area-center-text\" href=\"mailto:sac.oscarcalcados@infracommerce.com.br\">.br</a></p><p></p><h3><strong><span style=\"font-size: 14pt\">Em quantos dias receberei o reembolso após a devolução?</span></strong></h3><p><strong>PIX</strong>: Em até 24h úteis na mesma conta utilizada para o pagamento.</p><p><strong>Cartão de Crédito</strong>: Em até 5 dias úteis, dependendo do fechamento da fatura. Após esse prazo, consulte a administradora para mais informações. O valor aparece como débito na fatura e o estorno como crédito, podendo ser lançado na próxima fatura se o fechamento ocorrer antes da conclusão do estorno.</p><p><strong>Festcard</strong>: Em até 5 dias úteis, com estorno parcial conforme as parcelas. Por exemplo, uma compra em 3 vezes será estornada em 3 parcelas, de acordo com a data de fechamento da fatura.</p><p></p><h3><strong><span style=\"font-size: 14pt\">Quais condições o produto deve atender para ser aceito na devolução?</span></strong></h3><p>Para que o produto seja aceito na devolução, ele deve estar em perfeitas condições, sem sinais de uso, acompanhado da embalagem original (incluindo a caixa, se houver) e todos os acessórios ou itens incluídos no envio. É imprescindível apresentar a nota fiscal ou comprovante de compra para validar a solicitação.</p><h3><strong><span style=\"font-size: 14pt\">Como enviar o produto para devolução?</span></strong></h3><p>Embale a encomenda e envie a nota fiscal fora da caixa. Após esse processo, se dirija a uma agência dos correios mais próxima e informe o código de postagem enviado por e-mail para postar a encomenda sem custo.</p><h3><strong><span style=\"font-size: 14pt\">Como saberei se minha devolução foi aprovada?</span></strong></h3><p>Motivos de tamanho, medida ou arrependimento: Aprovação automática.</p><p>Motivos de produto incorreto, defeito ou item faltante: Análise em até 48 horas úteis.</p><h3><strong><span style=\"font-size: 14pt\">Posso devolver o produto comprado no site em loja física?</span></strong></h3><p>Não. Só é possível realizar a devolução pelo link <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://oscarcalcadosinfra.troquefacil.com.br/\">clique aqu</a>i para produtos vendido e entregue pela Oscar Calçados, em caso de produtos vendidos e entregues por Lojas Parceiras Shopping Oscar, solicite sua devolução <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://oscarcalcadosparceiroinfra.troquefacil.com.br/\">clique aqui.</a></p><h3><strong><span style=\"font-size: 14pt\">Qual é o prazo para realizar minha devolução?</span></strong></h3><p>Você pode solicitar a devolução dos produtos adquiridos na OSCAR Calçados em até 30 dias corridos a partir do recebimento do pedido. Para produtos com defeito, o prazo é de até 90 dias corridos, contados a partir do recebimento. ATENÇÃO: O produto não pode apresentar sinais de uso, deve estar na embalagem original sem danos ou embrulhado em papel pardo.</p><h3><strong><span style=\"font-size: 14pt\">Recebi um produto diferente do que comprei, o que devo fazer?</span></strong></h3><p>Pedimos desculpas pelo inconveniente! Caso você tenha recebido um produto diferente do que comprou, entre no nosso sistema de devolução, se for Produtos Vendidos e Entregues pela Oscar <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://oscarcalcadosinfra.troquefacil.com.br/\">Clique aqui</a> e caso seja produtos de loja parceira Shopping Oscar <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://oscarcalcadosparceiroinfra.troquefacil.com.br/\">Clique aqui</a>. Trabalhamos exclusivamente com devoluções nesse tipo de situação, então será necessário devolver o produto recebido.</p><h3><strong><span style=\"font-size: 14pt\">É possível realizar a devolução de produtos comprados em promoção?</span></strong></h3><p>Sim, é possível realizar a devolução de produtos comprados em promoção, desde que atendam às condições estabelecidas em nossa política de devoluções. Queremos garantir sua satisfação com todas as compras, independentemente da oferta!</p><h3><strong><span style=\"font-size: 14pt\">Posso escolher outro item em vez de receber o reembolso?</span></strong></h3><p>Não, infelizmente não é possível escolher outro item em vez de receber o reembolso. O processo de devolução é feito exclusivamente para reembolso do valor pago.</p><h3><strong><span style=\"font-size: 14pt\">Onde deixo a encomenda para devolução?</span></strong></h3><p>Você deve levar a encomenda para a agência dos Correios mais próxima. Certifique-se de que o produto esteja devidamente embalado, sem marcas de uso e com a Nota Fiscal para o processo de devolução.</p><h3><strong><span style=\"font-size: 14pt\">Receberei um novo produto após a devolução?</span></strong></h3><p>Não, após a devolução, o valor será reembolsado. Caso deseje outro produto, será necessário realizar uma nova compra em nosso site</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer Oscar"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "categories": [
+      {
+        "texts": [
+          {
+            "matcher": "/devolucao",
+            "title": "Devolução - Tire suas dúvidas sobre trocas",
+            "description": "Tire suas dúvidas sobre devoluções e trocas. Processo simples, rápido e seguro para sua compra! Saiba mais agora!"
+          }
+        ],
+        "title": "devolucao"
+      }
+    ],
+    "jsonLD": {
+      "__resolveType": "PLP Outlet"
+    },
+    "title": "Devolução - Tire suas dúvidas sobre trocas",
+    "description": "Tire suas dúvidas sobre devoluções e trocas. Processo simples, rápido e seguro para sua compra! Saiba mais agora!",
+    "type": "website"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
